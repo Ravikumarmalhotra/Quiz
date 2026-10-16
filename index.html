@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MCQ Quiz Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --primary:#4f46e5;
+  --primary-dark:#4338ca;
+  --success:#16a34a;
+  --danger:#dc2626;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  min-height:100vh;
+  background:linear-gradient(135deg,#667eea,#764ba2);
+  font-family:'Noto Sans Devanagari','Noto Sans',Arial,sans-serif;
+  padding:20px;
+}
+.container{max-width:720px;margin:0 auto;}
+h1{color:#fff;text-align:center;margin-bottom:20px;}
+.screen{display:none;}
+.screen.active{display:block;}
+.card{background:#fff;border-radius:16px;padding:24px;box-shadow:0 10px 30px rgba(0,0,0,.15);margin-bottom:20px;}
+
+.subject-group{margin-bottom:24px;}
+.subject-group h2{color:#fff;margin-bottom:10px;font-size:20px;}
+.quiz-list{display:flex;flex-direction:column;gap:12px;}
+.quiz-item{background:#fff;border-radius:12px;padding:16px;display:flex;justify-content:space-between;align-items:center;gap:10px;box-shadow:0 4px 12px rgba(0,0,0,.1);flex-wrap:wrap;}
+.quiz-item-info h3{margin:0 0 4px;color:#1f2937;}
+.quiz-item-info p{margin:0;color:#6b7280;font-size:13px;}
+
+.status-msg{color:#fff;text-align:center;margin-top:20px;font-size:15px;}
+
+button{cursor:pointer;border:none;border-radius:8px;font-weight:600;font-family:inherit;font-size:14px;}
+.btn-primary{background:var(--primary);color:#fff;padding:10px 18px;}
+.btn-primary:hover{background:var(--primary-dark);}
+.btn-primary:disabled{background:#a5b4fc;cursor:not-allowed;}
+.btn-secondary{background:#e5e7eb;color:#1f2937;padding:10px 18px;}
+.btn-secondary:hover{background:#d1d5db;}
+
+.quiz-header{display:flex;justify-content:space-between;color:#fff;margin-bottom:8px;font-weight:600;flex-wrap:wrap;gap:6px;}
+.progress-bar{background:rgba(255,255,255,.3);border-radius:10px;height:8px;overflow:hidden;margin-bottom:16px;}
+#progressFill{background:#fff;height:100%;width:0;transition:width .3s;}
+
+.question-card h2{color:#111827;margin-top:0;font-size:20px;line-height:1.6;}
+.options{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px;}
+@media(max-width:560px){.options{grid-template-columns:1fr;}}
+.option-btn{display:flex;align-items:center;gap:10px;background:#f9fafb;border:2px solid #e5e7eb;border-radius:10px;padding:12px;text-align:left;font-size:15px;color:#1f2937;transition:.2s;width:100%;}
+.option-btn:hover:not(:disabled){border-color:var(--primary);}
+.opt-letter{background:var(--primary);color:#fff;width:28px;height:28px;min-width:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;}
+.option-btn.correct{border-color:var(--success);background:#dcfce7;}
+.option-btn.correct .opt-letter{background:var(--success);}
+.option-btn.wrong{border-color:var(--danger);background:#fee2e2;}
+.option-btn.wrong .opt-letter{background:var(--danger);}
+.option-btn:disabled{cursor:not-allowed;opacity:.95;}
+
+.nav-buttons{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;}
+#scoreLive{color:#fff;font-weight:600;}
+
+.result-card{text-align:center;}
+.score-circle{width:100px;height:100px;border-radius:50%;background:var(--primary);color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:700;margin:0 auto 10px;}
+.review-list{text-align:left;margin-top:20px;max-height:420px;overflow-y:auto;}
+.review-item{padding:12px;border-radius:10px;margin-bottom:10px;}
+.review-item p{margin:4px 0;}
+.review-correct{background:#f0fdf4;border-left:4px solid var(--success);}
+.review-wrong{background:#fef2f2;border-left:4px solid var(--danger);}
+.result-actions{display:flex;gap:12px;justify-content:center;margin-top:20px;flex-wrap:wrap;}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📘 MCQ Quiz Practice</h1>
+
+  <!-- SCREEN 1: SELECT QUIZ -->
+  <div id="screenSelect" class="screen active">
+    <div id="quizListWrap"></div>
+    <div id="statusMsg" class="status-msg">Loading quizzes...</div>
+  </div>
+
+  <!-- SCREEN 2: QUIZ -->
+  <div id="screenQuiz" class="screen">
+    <div class="quiz-header">
+      <div id="quizTitle"></div>
+      <div id="progressText"></div>
+    </div>
+    <div class="progress-bar"><div id="progressFill"></div></div>
+    <div class="card question-card">
+      <h2 id="questionText"></h2>
+      <div id="optionsWrap" class="options"></div>
+    </div>
+    <div class="nav-buttons">
+      <button id="btnQuit" class="btn-secondary">✖ Quit</button>
+      <div id="scoreLive">Score: 0</div>
+      <button id="btnNext" class="btn-primary" disabled>Next ➜</button>
+    </div>
+  </div>
+
+  <!-- SCREEN 3: RESULT -->
+  <div id="screenResult" class="screen">
+    <div class="card result-card">
+      <h2>Quiz Completed 🎉</h2>
+      <div id="resultSummary"></div>
+      <div id="reviewList" class="review-list"></div>
+      <div class="result-actions">
+        <button class="btn-primary" id="btnRetry">🔁 Retry</button>
+        <button class="btn-secondary" id="btnMenu">🏠 Back to Menu</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const MANIFEST_PATH = 'quizzes/manifest.json';
+let manifest = [];
+let state = {};
+
+async function loadManifest(){
+  try{
+    const res = await fetch(MANIFEST_PATH);
+    if(!res.ok) throw new Error('manifest.json not found (status '+res.status+')');
+    manifest = await res.json();
+    renderQuizMenu();
+  }catch(err){
+    document.getElementById('statusMsg').textContent =
+      '❌ Could not load quizzes/manifest.json. ' +
+      'Make sure you are running this via a local server (not file://) and the file exists.\n' + err.message;
+  }
+}
+
+function renderQuizMenu(){
+  const wrap = document.getElementById('quizListWrap');
+  const status = document.getElementById('statusMsg');
+  wrap.innerHTML = '';
+  status.textContent = '';
+
+  if(!manifest.length){
+    status.textContent = 'No quizzes found in manifest.json';
+    return;
+  }
+
+  // group by subject
+  const groups = {};
+  manifest.forEach(item=>{
+    if(!groups[item.subject]) groups[item.subject] = [];
+    groups[item.subject].push(item);
+  });
+
+  Object.keys(groups).forEach(subject=>{
+    const groupDiv = document.createElement('div');
+    groupDiv.className = 'subject-group';
+    groupDiv.innerHTML = `<h2>${subject}</h2>`;
+    const listDiv = document.createElement('div');
+    listDiv.className = 'quiz-list';
+
+    groups[subject].forEach(item=>{
+      const el = document.createElement('div');
+      el.className = 'quiz-item';
+      el.innerHTML = `
+        <div class="quiz-item-info">
+          <h3>${item.chapter}</h3>
+          <p>${item.file}</p>
+        </div>
+        <button class="btn-primary">Start ▶</button>
+      `;
+      el.querySelector('button').onclick = ()=> loadAndStartQuiz(item);
+      listDiv.appendChild(el);
+    });
+
+    groupDiv.appendChild(listDiv);
+    wrap.appendChild(groupDiv);
+  });
+}
+
+async function loadAndStartQuiz(item){
+  try{
+    const res = await fetch('quizzes/' + item.file);
+    if(!res.ok) throw new Error('File not found: ' + item.file);
+    const data = await res.json();
+    const quiz = parseQuizFile(data, item);
+    startQuiz(quiz);
+  }catch(err){
+    alert('Error loading quiz: ' + err.message);
+  }
+}
+
+function parseQuizFile(data, item){
+  const subject = data.subject || item.subject;
+  const chapter = data.chapter || item.chapter;
+
+  const questions = (data.questions || []).map(q=>{
+    let opts = q.options;
+    let optionsObj = {};
+    if(Array.isArray(opts)){
+      const letters=['A','B','C','D'];
+      opts.slice(0,4).forEach((o,i)=> optionsObj[letters[i]] = o);
+    } else if(opts && typeof opts === 'object'){
+      Object.keys(opts).forEach(k=> optionsObj[k.toUpperCase()] = opts[k]);
+    }
+
+    let ansRaw = (q.answer !== undefined) ? q.answer : q.correct;
+    let answer = '';
+    if(typeof ansRaw === 'number'){
+      answer = ['A','B','C','D'][ansRaw] || '';
+    } else if(typeof ansRaw === 'string'){
+      ansRaw = ansRaw.trim();
+      if(/^[A-Da-d]$/.test(ansRaw)){
+        answer = ansRaw.toUpperCase();
+      } else {
+        const found = Object.keys(optionsObj).find(k=> optionsObj[k]===ansRaw);
+        answer = found || ansRaw.toUpperCase();
+      }
+    }
+
+    return { question: q.question || q.q || '', options: optionsObj, answer };
+  });
+
+  return { subject, chapter, questions };
+}
+
+function startQuiz(quiz){
+  state = { quiz, current:0, score:0, answers:[], answered:false };
+  showScreen('screenQuiz');
+  document.getElementById('quizTitle').textContent = quiz.subject + (quiz.chapter ? ' - '+quiz.chapter : '');
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const q = state.quiz.questions[state.current];
+  document.getElementById('questionText').textContent = q.question;
+  document.getElementById('progressText').textContent = `Question ${state.current+1} / ${state.quiz.questions.length}`;
+  document.getElementById('progressFill').style.width = (state.current/state.quiz.questions.length*100)+'%';
+  document.getElementById('scoreLive').textContent = 'Score: '+state.score;
+
+  const wrap = document.getElementById('optionsWrap');
+  wrap.innerHTML = '';
+  ['A','B','C','D'].forEach(letter=>{
+    if(q.options[letter]===undefined) return;
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.innerHTML = `<span class="opt-letter">${letter}</span><span class="opt-text">${q.options[letter]}</span>`;
+    btn.onclick = ()=> selectOption(letter);
+    wrap.appendChild(btn);
+  });
+
+  document.getElementById('btnNext').disabled = true;
+  state.answered = false;
+}
+
+function selectOption(letter){
+  if(state.answered) return;
+  state.answered = true;
+  const q = state.quiz.questions[state.current];
+  const correct = q.answer;
+  const buttons = document.querySelectorAll('.option-btn');
+  buttons.forEach(b=>{
+    const l = b.querySelector('.opt-letter').textContent;
+    if(l === correct) b.classList.add('correct');
+    if(l === letter && letter !== correct) b.classList.add('wrong');
+    b.disabled = true;
+  });
+  const isCorrect = letter === correct;
+  if(isCorrect) state.score++;
+  state.answers.push({ question:q.question, options:q.options, selected:letter, correct, isCorrect });
+  document.getElementById('scoreLive').textContent = 'Score: '+state.score;
+  document.getElementById('btnNext').disabled = false;
+}
+
+document.getElementById('btnNext').onclick = ()=>{
+  if(state.current+1 < state.quiz.questions.length){
+    state.current++;
+    renderQuestion();
+  } else {
+    finishQuiz();
+  }
+};
+
+document.getElementById('btnQuit').onclick = ()=>{
+  if(confirm('Quit quiz? Progress will be lost.')) showScreen('screenSelect');
+};
+
+function finishQuiz(){
+  showScreen('screenResult');
+  const total = state.quiz.questions.length;
+  const pct = Math.round(state.score/total*100);
+  document.getElementById('resultSummary').innerHTML = `
+    <div class="score-circle">${pct}%</div>
+    <p>${state.score} / ${total} Correct</p>
+  `;
+  const reviewList = document.getElementById('reviewList');
+  reviewList.innerHTML = '';
+  state.answers.forEach((a,i)=>{
+    const div = document.createElement('div');
+    div.className = 'review-item ' + (a.isCorrect ? 'review-correct' : 'review-wrong');
+    div.innerHTML = `
+      <p><b>Q${i+1}:</b> ${a.question}</p>
+      <p>Your answer: <b>${a.selected}. ${a.options[a.selected]||''}</b> ${a.isCorrect ? '✅' : '❌'}</p>
+      ${!a.isCorrect ? `<p>Correct answer: <b>${a.correct}. ${a.options[a.correct]||''}</b></p>` : ''}
+    `;
+    reviewList.appendChild(div);
+  });
+}
+
+document.getElementById('btnRetry').onclick = ()=> startQuiz(state.quiz);
+document.getElementById('btnMenu').onclick = ()=> showScreen('screenSelect');
+
+function showScreen(id){
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+
+loadManifest();
+</script>
+</body>
+</html>
