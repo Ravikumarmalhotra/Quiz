@@ -1,0 +1,1024 @@
+{
+[
+  {
+    "question": "Under Section 21 of the Factories Act 1948, every dangerous part of any machinery must be securely protected by:",
+    "options": {
+      "A": "Substantial fencing or safety guards",
+      "B": "Warning posters only",
+      "C": "Red paint only",
+      "D": "Cardboard covers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary function of Personal Protective Equipment (PPE) on the shop floor?",
+    "options": {
+      "A": "To completely eliminate hazards at source",
+      "B": "To serve as the last line of defense against occupational hazards and reduce injury severity",
+      "C": "To replace machine guards",
+      "D": "To improve employee uniform appearance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which PPE item is mandatory for preventing severe head injuries from falling objects or overhead hazards in a workshop?",
+    "options": {
+      "A": "Industrial Safety Helmet (Hard Hat)",
+      "B": "Ear Muffs",
+      "C": "Face Shield",
+      "D": "Leather Apron"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Factories Act 1948 (Section 35), eye protection (goggles or face shields) must be provided during which operations?",
+    "options": {
+      "A": "Grinding, welding, riveting, and metal chipping",
+      "B": "Office typing",
+      "C": "Material indent writing",
+      "D": "Attending meetings"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of footwear is mandatory on the workshop floor to prevent foot crush injuries and puncture wounds?",
+    "options": {
+      "A": "Canvas shoes",
+      "B": "Industrial Safety Shoes with steel toe-cap and puncture-resistant sole",
+      "C": "Chappals / Sandals",
+      "D": "Bare feet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'LOTO' procedure in electrical and mechanical machine maintenance safety?",
+    "options": {
+      "A": "Lockout / Tagout (isolating power sources and padlocking/tagging control switches before repair work)",
+      "B": "Log In / Time Out",
+      "C": "Load Over Line Output",
+      "D": "Lift Off Tank Operation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main purpose of placing a 'DANGER - DO NOT OPERATE' red safety tag during LOTO?",
+    "options": {
+      "A": "To inform other workers that maintenance is in progress and power must not be turned ON",
+      "B": "To indicate the machine is brand new",
+      "C": "To show the machine price",
+      "D": "To decorate the machine"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 22 of the Factories Act 1948, who is permitted to clean, lubricate, or adjust any part of a machine in motion?",
+    "options": {
+      "A": "Any worker available nearby",
+      "B": "Only a specially trained adult male worker wearing tight-fitting clothing",
+      "C": "Apprentice trainees",
+      "D": "Unskilled helpers"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Under Section 23 of the Factories Act 1948, young persons (below 18 years) are prohibited from working on dangerous machines unless:",
+    "options": {
+      "A": "They have received full instruction/training and are under direct supervision of an experienced person",
+      "B": "They request it in writing",
+      "C": "It is a night shift",
+      "D": "They wear sunglasses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "On a bench grinding machine, what is the maximum permissible gap between the tool rest and the grinding wheel?",
+    "options": {
+      "A": "1.5 mm (1/16 inch)",
+      "B": "10 mm",
+      "C": "25 mm",
+      "D": "50 mm"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is a large gap between the tool rest and grinding wheel extremely dangerous?",
+    "options": {
+      "A": "The workpiece can get jammed in the gap, causing wheel breakage or flying shrapnel injuries",
+      "B": "The wheel will stop rotating",
+      "C": "Power consumption increases",
+      "D": "Machine gets painted"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety test must be performed on a new grinding wheel to detect internal cracks before mounting?",
+    "options": {
+      "A": "Ring Test (tapping wheel lightly with a non-metallic mallet to listen for a clear metallic ring)",
+      "B": "Water Dip Test",
+      "C": "Fire Test",
+      "D": "Weight Scale Test"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of an 'Emergency Stop' (E-Stop) pushbutton on a shop machine?",
+    "options": {
+      "A": "To instantly disconnect power and bring the machine to a rapid halt in case of emergency",
+      "B": "To increase machine speed",
+      "C": "To start the morning shift",
+      "D": "To turn on work lights"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What standard color and shape is used globally for Emergency Stop pushbuttons?",
+    "options": {
+      "A": "Red mushroom-head button on a yellow background",
+      "B": "Green square button",
+      "C": "Blue flat button",
+      "D": "Black toggle switch"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it strictly dangerous to wear loose clothing, neckties, rings, or wristwatches while operating a Lathe Machine?",
+    "options": {
+      "A": "They can get entangled in rotating spindles or chucks, pulling the operator into the machine",
+      "B": "They cause machine rusting",
+      "C": "They reduce machine cutting speed",
+      "D": "They ruin office uniforms"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "While operating a Lathe or Drilling Machine, long hair must be:",
+    "options": {
+      "A": "Tied back securely or covered with a protective hairnet/cap",
+      "B": "Left loose",
+      "C": "Combed forward",
+      "D": "Colored red"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What tool should always be removed from a lathe chuck before switching ON the power motor?",
+    "options": {
+      "A": "Chuck Key",
+      "B": "Cutting Tool Bit",
+      "C": "Tailstock Centre",
+      "D": "Coolant Nozzle"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if a Chuck Key is left inside the lathe chuck when the motor is started?",
+    "options": {
+      "A": "It gets thrown off violently like a high-speed missile, causing severe injury or death",
+      "B": "It turns the workpiece smoothly",
+      "C": "It cleans the lathe bed",
+      "D": "It saves electrical power"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety device is used to safely remove hot metal swarf/chips from a lathe bed?",
+    "options": {
+      "A": "Metal rake / Chip hook or brush (NEVER use bare hands)",
+      "B": "Bare fingers",
+      "C": "Cotton cloth held in hand while machine runs",
+      "D": "Blowing with mouth"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it dangerous to clear metal chips using compressed air blowing pipes?",
+    "options": {
+      "A": "High-pressure air propels razor-sharp metal particles at high speed into eyes and skin of nearby workers",
+      "B": "It cools the machine too fast",
+      "C": "It increases electricity bill",
+      "D": "It damages shop floor paint"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 38 of the Factories Act 1948, every workshop must provide adequate means of escape in case of:",
+    "options": {
+      "A": "Fire",
+      "B": "Rain shower",
+      "C": "Canteen closing",
+      "D": "Union meeting"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Workshop emergency exit doors must open in which direction?",
+    "options": {
+      "A": "Outwards (in the direction of exit travel) and must NEVER be locked/fastened during working hours",
+      "B": "Inwards only",
+      "C": "Vertical sliding only",
+      "D": "They must be padlocked at all times"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the PASS acronym rule for operating a portable Fire Extinguisher?",
+    "options": {
+      "A": "Pull the pin, Aim at base of fire, Squeeze the lever, Sweep side to side",
+      "B": "Press button, Ask help, Stop work, Run away",
+      "C": "Pour water, Call supervisor, Shut doors, Stand back",
+      "D": "Push lever, Activate siren, Save tools, Stop fire"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which fire extinguisher type is specifically recommended for Electrical Fires (Class C / Energized equipment)?",
+    "options": {
+      "A": "Carbon Dioxide (CO2) or Dry Chemical Powder (DCP) Extinguisher",
+      "B": "Plain Water Extinguisher",
+      "C": "Soda-Acid Extinguisher",
+      "D": "Foam Extinguisher (AFFF)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why should Water Extinguishers NEVER be used on energized electrical fires?",
+    "options": {
+      "A": "Water conducts electricity, creating a severe risk of fatal electric shock/electrocution to the operator",
+      "B": "Water freezes electrical wires",
+      "C": "Water makes electrical panels rust instantly",
+      "D": "Water causes explosion of air"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Class A fires involve which type of combustible materials?",
+    "options": {
+      "A": "Ordinary solid combustibles like wood, paper, cloth, trash, and rubber",
+      "B": "Flammable liquids like petrol, oil, grease, paint",
+      "C": "Flammable gases like acetylene, LPG",
+      "D": "Combustible metals like magnesium, sodium"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Class B fires involve which type of materials?",
+    "options": {
+      "A": "Flammable liquids (diesel, petrol, thinners, paints, oils)",
+      "B": "Solid wood blocks",
+      "C": "Electrical motors",
+      "D": "Cooking food"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Class D fires involve which specific materials?",
+    "options": {
+      "A": "Combustible metals (magnesium, titanium, potassium, sodium)",
+      "B": "Cotton rags",
+      "C": "Cardboard boxes",
+      "D": "Transformer oil"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of extinguishing agent is required for fighting Class D metal fires?",
+    "options": {
+      "A": "Specialized Dry Powder (e.g., TEC / Ternary Eutectic Chloride / Sand)",
+      "B": "Plain water spray",
+      "C": "AFFF Foam",
+      "D": "CO2 gas stream"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In gas welding/cutting, what safety device must be fitted in fuel and oxygen gas lines to prevent flames from traveling back into cylinders?",
+    "options": {
+      "A": "Flashback Arrestor (Non-return safety valve)",
+      "B": "Pressure Gauge",
+      "C": "Hose Coupling",
+      "D": "Needle Valve"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In gas cylinder handling, Acetylene gas cylinders must ALWAYS be stored and operated in which orientation?",
+    "options": {
+      "A": "Upright / Vertical position (to prevent liquid acetone from escaping)",
+      "B": "Horizontal lying position",
+      "C": "Upside down position",
+      "D": "Tilted at 45 degrees"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard color code used for Acetylene Gas Cylinders in Indian Railways?",
+    "options": {
+      "A": "Maroon",
+      "B": "Black",
+      "C": "Blue",
+      "D": "Yellow"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard color code for Oxygen Gas Cylinders in Indian Railways?",
+    "options": {
+      "A": "Black",
+      "B": "Maroon",
+      "C": "Red",
+      "D": "Green"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must oil or grease NEVER come in contact with Oxygen cylinder valves and regulators?",
+    "options": {
+      "A": "High-pressure oxygen reacts violently with oil/grease, causing spontaneous combustion or severe explosion",
+      "B": "Oil damages cylinder paint",
+      "C": "Oil reduces gas pressure",
+      "D": "Oil turns oxygen into nitrogen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In electric arc welding, what shade filter lens is worn in welding helmets to protect eyes from infrared and ultraviolet radiation (Arc Eye)?",
+    "options": {
+      "A": "Shade 10 to 14 welding filter glass",
+      "B": "Clear transparent glass",
+      "C": "Light yellow plastic",
+      "D": "Reading glasses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety equipment protects nearby shop workers from arc glare radiation generated during electric welding?",
+    "options": {
+      "A": "Portable Welding Screens / Protective Fire-resistant Curtains",
+      "B": "Glass windows",
+      "C": "Plywood sheets",
+      "D": "Notice boards"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 28 & 29 of the Factories Act 1948, all lifting machinery (cranes, hoists, chains, slings) must be thoroughly examined by a Competent Person at least once every:",
+    "options": {
+      "A": "12 months (1 year)",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "50 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'SWL' stamped on lifting chains, wire ropes, and EOT cranes stand for?",
+    "options": {
+      "A": "Safe Working Load",
+      "B": "Standard Weight Limit",
+      "C": "System Wide Lifting",
+      "D": "Safety Wire Length"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if an EOT Crane attempts to lift a load exceeding its rated SWL?",
+    "options": {
+      "A": "Risk of structural crane failure, cable snapping, or tipping, causing catastrophic accidents",
+      "B": "Crane speed doubles",
+      "C": "Crane hook turns green",
+      "D": "Electrical power bill drops"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety limit switch is provided on an EOT Crane hoist to prevent the hook block from colliding with the overhead drum?",
+    "options": {
+      "A": "Over-hoist Limit Switch (Upper Limit Switch)",
+      "B": "Cross travel switch",
+      "C": "Main breaker switch",
+      "D": "Door switch"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When guiding suspended heavy loads moved by EOT Cranes, riggers should use:",
+    "options": {
+      "A": "Tag lines (guide ropes) to control load rotation from a safe distance",
+      "B": "Bare hands directly pushing the swinging weight",
+      "C": "Iron rods jammed under the load",
+      "D": "Their shoulders directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Standing or walking under a suspended overhead crane load is:",
+    "options": {
+      "A": "Strictly prohibited at all times",
+      "B": "Allowed if wearing a helmet",
+      "C": "Allowed during lunch hour",
+      "D": "Allowed for supervisors only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety device is fitted on a crane hook to prevent wire rope slings from slipping out accidentally?",
+    "options": {
+      "A": "Safety Latch (Hook Latch)",
+      "B": "Pulley pin",
+      "C": "Steel washer",
+      "D": "Rubber ring"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "According to general safety standards, Full Body Safety Harness must be worn when working at heights above:",
+    "options": {
+      "A": "1.8 meters (6 feet)",
+      "B": "10 meters",
+      "C": "20 meters",
+      "D": "50 meters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Where should the lanyard snap hook of a Full Body Safety Harness be anchored when working at height?",
+    "options": {
+      "A": "To a rigid overhead anchor point or tested lifeline capable of supporting high impact load",
+      "B": "To a loose bamboo pole",
+      "C": "To the worker's own belt",
+      "D": "To a light electrical conduit pipe"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety rule applies to portable extension ladders on the shop floor?",
+    "options": {
+      "A": "Set ladder at a 4:1 slope angle (75 degrees) with anti-slip feet and extend 1 meter above landing platform",
+      "B": "Set ladder completely flat",
+      "C": "Place ladder on greasy oil drums",
+      "D": "Use wooden chairs under ladder"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Three-Point Contact' rule when climbing up or down ladders or crane cabins?",
+    "options": {
+      "A": "Maintaining contact with two hands and one foot, or two feet and one hand at all times",
+      "B": "Having three workers on the ladder",
+      "C": "Climbing with hands free holding tools",
+      "D": "Jumping down three steps at a time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Indian Electricity Rules, what minimum insulation mat specification is required in front of high voltage switchboards?",
+    "options": {
+      "A": "BIS approved Electrical Rubber Insulating Mats (IS 15652 standard)",
+      "B": "Coir door mats",
+      "C": "Wet jute sacks",
+      "D": "Cardboard sheets"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary function of Equipment Earthing (Grounding) in shop machinery?",
+    "options": {
+      "A": "To safely divert leakage current directly to ground, tripping circuit breakers and preventing electric shock to operators",
+      "B": "To supply operating voltage to motor",
+      "C": "To increase machine rotation speed",
+      "D": "To prevent rust on machine legs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety device automatically disconnects power supply instantly upon detecting a small earth leakage current (e.g., 30mA)?",
+    "options": {
+      "A": "ELCB (Earth Leakage Circuit Breaker) / RCCB (Residual Current Circuit Breaker)",
+      "B": "Ordinary knife switch",
+      "C": "Copper wire fuse",
+      "D": "Step-up transformer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it dangerous to replace a blown electrical fuse wire with a thick copper wire?",
+    "options": {
+      "A": "Thick wire will not melt during overload, causing electrical cable fires and motor destruction",
+      "B": "It decreases electricity voltage",
+      "C": "It trips switchboard instantly",
+      "D": "It turns lights yellow"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Permit to Work' (PTW) in shop floor maintenance?",
+    "options": {
+      "A": "Formal written document confirming isolation of energy sources, atmospheric testing, and safety clearances before high-risk work begins",
+      "B": "Application for casual leave",
+      "C": "Gate pass for leaving workshop early",
+      "D": "Railway travel pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Before entering a Confined Space (e.g., fuel tank, boiler drum, deep pit), what mandatory test must be conducted?",
+    "options": {
+      "A": "Gas testing for Oxygen level (19.5-23.5%), toxic gases, and explosive vapor concentrations using a gas detector",
+      "B": "Sound echoes test",
+      "C": "Temperature test using hand",
+      "D": "Color painting check"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety equipment must be provided to workers entering a oxygen-deficient or toxic gas confined space?",
+    "options": {
+      "A": "Self-Contained Breathing Apparatus (SCBA) or Supplied-Air Respirator",
+      "B": "Dust mask paper filter",
+      "C": "Cloth handkerchief tied on face",
+      "D": "Cotton ear plugs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under 5S Housekeeping methodology, what does the first 'S' (SEIRI / Sort) signify?",
+    "options": {
+      "A": "Separating necessary items from unnecessary items and removing clutter from the shop floor",
+      "B": "Shining the floor with water",
+      "C": "Setting tools in gold boxes",
+      "D": "Screaming at workers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is good housekeeping (5S) directly related to shop floor safety?",
+    "options": {
+      "A": "It eliminates slip, trip, and fall hazards, keeps walkways clear, and reduces fire risks from oily rags/debris",
+      "B": "It increases worker basic pay",
+      "C": "It reduces machine weight",
+      "D": "It eliminates the need for supervisors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Yellow safety lines painted on the workshop floor designate:",
+    "options": {
+      "A": "Clear gangways / walkways for pedestrian movement and material transport routes that must NEVER be obstructed",
+      "B": "Areas reserved for parking personal bikes",
+      "C": "Places for eating lunch",
+      "D": "Areas for dumping waste scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How should oil or chemical spills on the shop floor be treated immediately?",
+    "options": {
+      "A": "Cleaned up instantly using oil-absorbent granules, sawdust, or spill kits, and marked with warning cones",
+      "B": "Left to dry naturally in air",
+      "C": "Covered with loose paper sheets",
+      "D": "Washed into storm water drains with water"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'MSDS' or 'SDS' that must be available for all chemicals used on the shop floor?",
+    "options": {
+      "A": "Material Safety Data Sheet (Safety Data Sheet detailing chemical properties, health risks, PPE, and first-aid instructions)",
+      "B": "Machine Status Daily Report",
+      "C": "Main System Design Sheet",
+      "D": "Monthly Store Distribution Summary"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In case of chemical splash into a worker's eyes, what immediate first-aid action must be taken?",
+    "options": {
+      "A": "Flush eyes continuously with clean running water at Emergency Eye Wash Station for at least 15 minutes and seek medical aid",
+      "B": "Rub eyes vigorously with dirty cloth",
+      "C": "Apply hot grease around eyes",
+      "D": "Close eyes and sleep"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety rule applies to compressed air usage on the shop floor?",
+    "options": {
+      "A": "NEVER point compressed air nozzles at oneself or others, and NEVER use compressed air to blow dust off clothes or skin",
+      "B": "Use high pressure air to dry wet hair",
+      "C": "Use compressed air to clean dusty faces",
+      "D": "Blow compressed air into ears to clear dust"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What serious medical condition can occur if high-pressure compressed air penetrates skin or open wounds?",
+    "options": {
+      "A": "Air Embolism (air bubbles in bloodstream), which can cause fatal stroke or heart failure",
+      "B": "Skin whitening",
+      "C": "Improved blood circulation",
+      "D": "Immediate fever cure"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 31 of Factories Act 1948, Air Reservoirs (Pressure Vessels) must be fitted with which vital safety device?",
+    "options": {
+      "A": "Safety Relief Valve (Pop Safety Valve) and pressure gauge",
+      "B": "Coolant pump",
+      "C": "Flow meter",
+      "D": "Thermocouple"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if a pressure vessel safety relief valve is jammed shut or mechanically locked by an operator?",
+    "options": {
+      "A": "Pressure can rise uncontrollably beyond bursting threshold, resulting in a catastrophic vessel explosion",
+      "B": "Air leaks out smoothly",
+      "C": "Pressure drops to zero",
+      "D": "Air turns into water"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of machine guard uses light beams / photoelectric curtains to stop machine movement when a worker's hand enters the dangerous zone?",
+    "options": {
+      "A": "Photoelectric Safety Light Curtain (Presence-sensing Guard)",
+      "B": "Fixed mesh guard",
+      "C": "Interlocked physical gate",
+      "D": "Wooden board"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is an 'Interlocked Machine Guard'?",
+    "options": {
+      "A": "A guard connected to power controls such that machine cannot operate unless guard is closed, and opening guard stops machine",
+      "B": "A guard locked with a padlock permanently",
+      "C": "A guard painted yellow",
+      "D": "A guard made of glass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is removing or bypassing machine safety guards strictly considered a serious disciplinary offense?",
+    "options": {
+      "A": "Exposes operators to nip points, rotating shafts, or crushing zones, leading to severe amputations or fatal accidents",
+      "B": "It increases machine weight",
+      "C": "It changes machine color",
+      "D": "It uses extra electricity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'In-running Nip Point' on mechanical drives?",
+    "options": {
+      "A": "Dangerous zone where rotating parts move towards each other or past a fixed component (e.g., gears, belts/pulleys, chain/sprockets)",
+      "B": "Point where machine is lubricated",
+      "C": "Point where electric plug is connected",
+      "D": "Center hole of lathe bed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "All belt-pulley drives, gear trains, and coupling shafts on shop machinery must be protected by:",
+    "options": {
+      "A": "Complete Enclosure Guards / Fixed Mesh Guards",
+      "B": "Yellow paint lines on floor only",
+      "C": "Cardboard sheets tied with string",
+      "D": "Paper warning signs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "While operating a Hydraulic Power Press, what dual-control safety system ensures operator hands remain outside the die crushing zone?",
+    "options": {
+      "A": "Two-Hand Control System (requires pressing two buttons simultaneously with both hands to actuate stroke)",
+      "B": "Foot pedal switch only",
+      "C": "Single push button switch",
+      "D": "Voice command microphone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety precautions must be taken before working inside a Hydraulic Press die area during tool setup?",
+    "options": {
+      "A": "Insert mechanical Safety Blocks / Die Props, depressurize hydraulics, and apply LOTO",
+      "B": "Keep motor running for light",
+      "C": "Hold upper die with hands",
+      "D": "Place wooden pencil under die"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Factories Act 1948 (Section 34), maximum permissible weight limit for manual lifting by adult male workers is governed by rules. What is the standard safe manual lifting limit per person without mechanical aid?",
+    "options": {
+      "A": "50 kg (or as specified in state factory rules, typically 50 kg for adult males, 30 kg for adult females)",
+      "B": "200 kg",
+      "C": "500 kg",
+      "D": "1000 kg"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the correct ergonomic posture for lifting a heavy load manually from the shop floor?",
+    "options": {
+      "A": "Keep back straight, bend knees/legs, hold load close to body, and lift using leg muscles",
+      "B": "Keep legs straight and bend waist forward completely",
+      "C": "Twist spine while lifting heavy load rapidly",
+      "D": "Lift load holding it at arm's length away from body"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What hazard is created by leaving greasy cotton rags lying near electrical panels or hot steam pipes?",
+    "options": {
+      "A": "Spontaneous Combustion / Severe fire outbreak risk",
+      "B": "Electrical voltage drop",
+      "C": "Machine alignment error",
+      "D": "Rusting of floor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Greasy and oily cotton waste rags must be disposed of in:",
+    "options": {
+      "A": "Self-closing metal fire-resistant waste bins marked for oily waste",
+      "B": "Open paper cardboard boxes",
+      "C": "Wooden drawers",
+      "D": "Thrown out of workshop window"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When operating wood-working machinery (e.g., circular saw, band saw), what safety device prevents hands from contacting saw blade?",
+    "options": {
+      "A": "Push Stick / Push Block and adjustable blade guards",
+      "B": "Bare cotton gloves",
+      "C": "Leather apron held in front",
+      "D": "Using bare palms close to blade"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is wearing loose cotton gloves near rotating drilling spindles or milling cutters extremely dangerous?",
+    "options": {
+      "A": "Glove fabric can catch on the rotating tool, rapidly dragging the hand and fingers into the cutter",
+      "B": "Gloves get dirty with oil",
+      "C": "Gloves cool down the drill bit",
+      "D": "Gloves slow down motor speed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety equipment protects shop floor technicians from high noise levels (> 85 dBA) generated by heavy forging hammers or pneumatic chippers?",
+    "options": {
+      "A": "Ear Muffs or Ear Plugs (Hearing Protection)",
+      "B": "Safety Goggles",
+      "C": "Leather Apron",
+      "D": "Dust Mask"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Continuous unallocated exposure to industrial noise above 85 dBA for 8 hours daily causes:",
+    "options": {
+      "A": "Noise-Induced Hearing Loss (NIHL) - permanent irreversible hearing damage",
+      "B": "Eye sight improvement",
+      "C": "Improved digestion",
+      "D": "Skin infection"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a Battery Charging Room, what gas is released during battery charging that poses a severe fire/explosion hazard?",
+    "options": {
+      "A": "Hydrogen gas (highly explosive in air concentrations above 4%)",
+      "B": "Oxygen gas only",
+      "C": "Carbon dioxide gas",
+      "D": "Nitrogen gas"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What mandatory safety systems must be functional in a Metro rake Battery Charging Room?",
+    "options": {
+      "A": "Flameproof electrical fittings, continuous forced exhaust ventilation, and 'NO SMOKING / NO OPEN FLAME' signs",
+      "B": "Open wood fires for heating",
+      "C": "Ordinary incandescent bulbs",
+      "D": "Closed windows without fans"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In electric arc welding, the welding machine's return current clamp (Earth Clamp) should be attached:",
+    "options": {
+      "A": "Directly to the workpiece as close as possible to the welding spot to prevent stray currents",
+      "B": "To a water pipe 50 meters away",
+      "C": "To building steel structure miles away",
+      "D": "To the operator's boots"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stray Current Hazard' in arc welding?",
+    "options": {
+      "A": "Welding current returning through crane wire ropes, bearing races, or building steelwork, causing arcing and catastrophic damage",
+      "B": "Current leaking into air",
+      "C": "Current turning into heat in electrode",
+      "D": "Current blowing fuse in office"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety rule applies when replacing fluorescent light tubes or working near high ceilings in workshop bays?",
+    "options": {
+      "A": "Use certified Mobile Elevating Work Platforms (MEWP / Scissor Lift) or properly secured scaffolding with safety harness",
+      "B": "Stand on top of a moving crane hook",
+      "C": "Balance on wooden boxes stacked on forklift forks",
+      "D": "Climb up bare electrical conduit pipes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Forklift trucks operating inside workshop bays must be equipped with which mandatory safety features?",
+    "options": {
+      "A": "Flashing amber beacon light, reverse backup alarm, horn, overhead operator guard (FOPS), and seatbelt",
+      "B": "Music speakers only",
+      "C": "Speedometer only",
+      "D": "Leather seats only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum speed limit generally permitted for forklift trucks and material handling vehicles inside workshop aisles?",
+    "options": {
+      "A": "5 to 10 km/h",
+      "B": "50 km/h",
+      "C": "80 km/h",
+      "D": "100 km/h"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When driving a loaded Forklift, if the load blocks the driver's forward view, the driver must:",
+    "options": {
+      "A": "Drive the forklift in REVERSE safely (or use a spotter guide)",
+      "B": "Drive forward blindly sounding horn continuously",
+      "C": "Speed up to finish travel quickly",
+      "D": "Stand on seat while steering"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety check must be performed on pneumatic tools (e.g., air grinders, impact wrenches) before connecting to air line?",
+    "options": {
+      "A": "Check air hose for cracks/damage, ensure safety whip-checks are installed on couplings, and check rated tool speed",
+      "B": "Pour water inside air hose",
+      "C": "Paint air hose yellow",
+      "D": "Heat air hose with flame"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Whip-Check Safety Cable' on pneumatic hose lines?",
+    "options": {
+      "A": "Steel wire cable bridging hose couplings to prevent violent whipping of hose if coupling breaks under pressure",
+      "B": "Cable for electrical ground",
+      "C": "Cable for pulling tool",
+      "D": "Cable for measuring length"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Factories Act 1948, what is 'Safety Committee' composition in a workshop employing 250 or more workers?",
+    "options": {
+      "A": "Equal representation of management officers and worker representatives to review safety matters monthly",
+      "B": "Officers only",
+      "C": "Workers only",
+      "D": "Outside consultants only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is appointed as 'Safety Officer' in a workshop under Section 40B of the Factories Act 1948?",
+    "options": {
+      "A": "Mandatory qualified Safety Officer appointed in factories ordinarily employing 1000 or more workers (or hazardous processes)",
+      "B": "Canteen supervisor",
+      "C": "Store clerk",
+      "D": "Time keeper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Near Miss' incident in workshop safety terminology?",
+    "options": {
+      "A": "An unplanned event that did not result in injury or damage this time, but had potential to do so if conditions differed slightly",
+      "B": "A severe fatal accident",
+      "C": "A minor strike by train",
+      "D": "A missing employee"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is reporting and investigating 'Near Misses' crucial on the shop floor?",
+    "options": {
+      "A": "Identifies root hazards and enables preventive corrective actions BEFORE an actual injury/fatality occurs",
+      "B": "To penalize the worker",
+      "C": "To reduce employee salary",
+      "D": "To cancel train schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety signage standard color codes, RED color signifies:",
+    "options": {
+      "A": "Prohibition signs (e.g., NO SMOKING) and Firefighting equipment",
+      "B": "Mandatory action required (e.g., WEAR HELMET)",
+      "C": "Safe condition / Emergency exits",
+      "D": "General information"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "BLUE color circular safety signs signify:",
+    "options": {
+      "A": "Mandatory Action Signs (e.g., WEAR EYE PROTECTION, WEAR SAFETY SHOES)",
+      "B": "Fire hazard warning",
+      "C": "Prohibition sign",
+      "D": "Radiation area"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "YELLOW or AMBER triangular safety signs signify:",
+    "options": {
+      "A": "Warning / Caution Signs (e.g., RISK OF ELECTRIC SHOCK, HOT SURFACE)",
+      "B": "Emergency Exit direction",
+      "C": "Mandatory PPE requirement",
+      "D": "Prohibition of entry"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "GREEN square or rectangular safety signs signify:",
+    "options": {
+      "A": "Safe Condition Signs (e.g., FIRST AID KIT, EMERGENCY EXIT, EYE WASH STATION)",
+      "B": "Danger hazard warning",
+      "C": "Fire extinguisher location",
+      "D": "High voltage warning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What safety check is conducted on synthetic web slings (nylon/polyester) before rigged lifting?",
+    "options": {
+      "A": "Inspect for cuts, acid burns, melted fibers, broken stitching, or missing SWL capacity tag (reject if damaged)",
+      "B": "Soak sling in lubricant oil",
+      "C": "Heat sling with blowtorch",
+      "D": "Paint sling with white paint"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is it strictly prohibited to heat or weld a damaged crane lifting alloy steel chain link?",
+    "options": {
+      "A": "Welding heat destroys the heat treatment and metallurgical strength of alloy steel, causing sudden brittle failure under load",
+      "B": "It turns the chain green",
+      "C": "It increases chain weight",
+      "D": "It smells bad"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Toolbox Safety Talk' (TBT) conducted on the shop floor?",
+    "options": {
+      "A": "Short 5-10 minute safety briefing conducted by SSE/JE with workers at the start of shift regarding job hazards and controls",
+      "B": "Lecture on office management",
+      "C": "Union salary meeting",
+      "D": "Audit of canteen menu"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Job Safety Analysis' (JSA) or 'Job Hazard Analysis' (JHA)?",
+    "options": {
+      "A": "Risk assessment procedure breaking a job down into steps, identifying hazards at each step, and defining control measures",
+      "B": "Calculating monthly incentive bonus",
+      "C": "Preparing worker leave roster",
+      "D": "Designing new workshop building"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is strict adherence to machine and shop floor safety measures vital for a Junior Engineer (JE) in Metro Railway Kolkata?",
+    "options": {
+      "A": "Protects worker lives, prevents disabling accidents, ensures zero-defect maintenance, maintains high morale, and avoids legal penalties",
+      "B": "To increase paper documentation in office",
+      "C": "To delay coach overhaul schedules",
+      "D": "To exhaust workshop safety budget intentionally"
+    },
+    "answer": "A"
+  }
+]
+}
