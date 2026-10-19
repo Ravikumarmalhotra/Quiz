@@ -1,0 +1,1004 @@
+{
+[
+  {
+    "question": "What is the primary function of a Work Order System in a railway/metro workshop?",
+    "options": {
+      "A": "To issue railway passes to employees",
+      "B": "To authorize work execution and serve as a cost unit for collecting labor, material, and overhead expenses",
+      "C": "To record daily gate attendance of workshop staff",
+      "D": "To prepare pension papers"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In Indian Railways and Metro Railway workshops, how many digits are standardly used in the unified Work Order Coding System?",
+    "options": {
+      "A": "4 digits",
+      "B": "6 digits",
+      "C": "8 digits",
+      "D": "12 digits"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In an 8-digit Work Order Number, what do the first two digits represent?",
+    "options": {
+      "A": "Shop Code / Main Series Head",
+      "B": "Individual worker number",
+      "C": "Year of manufacture",
+      "D": "Quantity to be produced"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Standing Work Order' (SWO)?",
+    "options": {
+      "A": "A work order for temporary emergency work",
+      "B": "A permanent work order allotted for booking indirect costs, routine maintenance, and shop overheads",
+      "C": "A work order issued only to external contractors",
+      "D": "A work order for manufacturing new Metro coaches"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which department in the workshop originates and issues the Work Orders for production and overhaul?",
+    "options": {
+      "A": "Stores Department",
+      "B": "Production Control Organization (PCO)",
+      "C": "Personnel Department",
+      "D": "Medical Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Direct Work Orders are issued for work that:",
+    "options": {
+      "A": "Is related to general shop cleaning",
+      "B": "Can be directly attributed and charged to a specific product, job, or coach overhaul",
+      "C": "Covers administrative officer salaries",
+      "D": "Involves repairing factory boundary walls"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Work Orders under '70 Series' in Railway Workshop Accounting are generally reserved for:",
+    "options": {
+      "A": "POH of Electric Locomotives",
+      "B": "Manufacture of components/store items for stock",
+      "C": "General Oncost and shop cleaning",
+      "D": "Work done for private parties"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Work Orders under '80 Series' are reserved for:",
+    "options": {
+      "A": "Capital Works, Rolling Stock Programme (RSP), and M&P works",
+      "B": "Regular maintenance of office furniture",
+      "C": "Incentive payments to store keepers",
+      "D": "Staff canteen expenses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Work Orders under '90 Series' are allocated for:",
+    "options": {
+      "A": "Manufacture for internal store stock",
+      "B": "Deposit works executed for foreign railways, public sector undertakings, or private parties",
+      "C": "Intermediate Overhaul (IOH) of coaches",
+      "D": "Idle time booking"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which series of Work Orders is generally allocated for Shop Oncost (Indirect shop expenses)?",
+    "options": {
+      "A": "00 / 10 Series",
+      "B": "70 Series",
+      "C": "80 Series",
+      "D": "90 Series"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of a 'Route Card' attached to a Work Order?",
+    "options": {
+      "A": "To guide delivery trucks outside the workshop",
+      "B": "To specify the sequence of operations, shops/sections involved, and movement of raw material",
+      "C": "To record union meeting resolutions",
+      "D": "To issue fuel for road vehicles"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which document is used to draw raw materials from the Stores Depot against a specific Work Order?",
+    "options": {
+      "A": "Job Card",
+      "B": "Stores Requisition / Issue Note (Form S-1313)",
+      "C": "Gate Pass",
+      "D": "Idle Time Card"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Labor cost is booked to a specific Work Order through which document?",
+    "options": {
+      "A": "Job Card / Time Ticket / Tally Card",
+      "B": "Store Issue Note",
+      "C": "Purchase Order",
+      "D": "Advice Note of Returned Stores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Shop Oncost'?",
+    "options": {
+      "A": "Cost of raw material purchased directly",
+      "B": "Indirect expenses incurred within a specific shop section (e.g., shop lighting, consumable stores, supervision)",
+      "C": "Salary of Railway Board Members",
+      "D": "Cost of transporting coaches between zones"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'General Oncost'?",
+    "options": {
+      "A": "Expenses common to the entire workshop (e.g., CWM office salary, main gate security, yard lighting)",
+      "B": "Cost of cutting tools used by a turner",
+      "C": "Incentive bonus paid to direct workers",
+      "D": "Cost of steel sheets used in coach fabrication"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is Oncost (Overhead) applied to a direct job order in railway workshop costing?",
+    "options": {
+      "A": "As a predetermined percentage on Direct Labor cost",
+      "B": "As a flat ₹100 fee per job",
+      "C": "It is not added to job cost",
+      "D": "As 50% of raw material cost"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does POH stand for in railway workshop operations?",
+    "options": {
+      "A": "Partial Operation Handling",
+      "B": "Periodic Overhaul",
+      "C": "Primary Maintenance Hours",
+      "D": "Power Plant Overhaul"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does IOH stand for in coach/rake maintenance?",
+    "options": {
+      "A": "Initial Operation Handling",
+      "B": "Intermediate Overhaul",
+      "C": "Internal Oil Heating",
+      "D": "Inspection of Overhead Equipment"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "POH of Metro Railway rakes / BG coaches is booked under which category of work order?",
+    "options": {
+      "A": "Revenue Work Order (Repair & Maintenance)",
+      "B": "Capital Work Order",
+      "C": "Deposit Work Order",
+      "D": "Development Work Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Sub-Work Order'?",
+    "options": {
+      "A": "A subsidiary work order opened under a main work order to collect cost for specific sub-assemblies or operations",
+      "B": "A work order given to a subcontractor without approval",
+      "C": "An informal verbal order",
+      "D": "A work order meant for canteen purchase"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who maintains the 'Work Order Ledger' to summarize total expenditure on each work order?",
+    "options": {
+      "A": "Workshop Accounts Office (WAO)",
+      "B": "Personnel Department",
+      "C": "Security / RPF Post",
+      "D": "Chief Medical Superintendent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens when a Work Order is 'Closed' by PCO?",
+    "options": {
+      "A": "No further material or labor can be legally booked against that Work Order",
+      "B": "All scrap generated is thrown away",
+      "C": "The job card is destroyed immediately",
+      "D": "Workers get double basic pay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is issued by the Shop to PCO after completion of physical work on a Work Order?",
+    "options": {
+      "A": "Work Completion Advice / Certificate",
+      "B": "Gate Pass",
+      "C": "Requisition Slip",
+      "D": "Absence Statement"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Work-in-Progress' (WIP) in workshop accounting?",
+    "options": {
+      "A": "Cost of jobs that have been started but are not yet completed at the end of the accounting period",
+      "B": "Total salary paid to retired workers",
+      "C": "Cost of scrap stored in depot",
+      "D": "Cost of unissued raw material in stores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If unserviceable scrap material is recovered during coach overhaul, how is it credited under the Work Order System?",
+    "options": {
+      "A": "Credited to the specific Work Order via Advice Note of Returned Stores (Form S-1539)",
+      "B": "Kept by the supervisor",
+      "C": "Credited to Canteen Fund",
+      "D": "Burned on shop floor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Advice Note of Returned Stores is sent to Stores Depot along with scrap using which form number?",
+    "options": {
+      "A": "Form S-1539",
+      "B": "Form S-1313",
+      "C": "Form G-147",
+      "D": "Form MC-3"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Proforma Invoice' issued for in 90-series Work Orders?",
+    "options": {
+      "A": "An estimated cost invoice sent to an outside party to collect advance payment before starting work",
+      "B": "A tax rebate form",
+      "C": "A salary slip",
+      "D": "A attendance certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which accounting head is debited when raw material is issued for a 70-series Work Order?",
+    "options": {
+      "A": "Workshop Manufacturing Suspense Account (WMS)",
+      "B": "Pension Fund",
+      "C": "Staff Benefit Fund",
+      "D": "Development Fund"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is WMS in railway workshop costing?",
+    "options": {
+      "A": "Workshop Manufacturing Suspense Account",
+      "B": "Wireless Maintenance System",
+      "C": "Weekly Material Supply",
+      "D": "Workshop Machine Safety"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is WMS called a 'Suspense' account?",
+    "options": {
+      "A": "Because its clearance is kept in suspense until work is completed and final expenditure is cleared to final heads",
+      "B": "Because it is suspicious",
+      "C": "Because it belongs to confidential funds",
+      "D": "Because nobody checks it"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In an 8-digit Work Order number '50 123 45', what does the first group '50' indicate in standard workshop terminology?",
+    "options": {
+      "A": "POH of Coaches / Rolling Stock repair head",
+      "B": "Staff leave account",
+      "C": "Purchase of office stationery",
+      "D": "Building construction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary risk of leaving completed Work Orders open for long periods in the accounting system?",
+    "options": {
+      "A": "Misbooking / unauthorized booking of labor and material costs",
+      "B": "Machine failure",
+      "C": "Loss of employee seniority",
+      "D": "Reduction in shop floor space"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document lists all active and authorized Work Orders open in a workshop for booking during a month?",
+    "options": {
+      "A": "Work Order Schedule / Master Work Order List",
+      "B": "Overtime Register",
+      "C": "Seniority List",
+      "D": "Local Purchase Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is responsible for auditing the Work Order Ledger and issuing monthly Workshop Account Current?",
+    "options": {
+      "A": "Workshop Accounts Officer (WAO)",
+      "B": "Chief Depot Store Keeper",
+      "C": "Senior Section Engineer (Progress)",
+      "D": "Inspector of Work"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Direct Material' in Work Order costing?",
+    "options": {
+      "A": "Material that forms an integral part of the finished component or overhaul work",
+      "B": "Cotton waste used for cleaning hands",
+      "C": "Kerosene oil used for floor cleaning",
+      "D": "Stationery paper used in office"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Indirect Material'?",
+    "options": {
+      "A": "Material used in supporting operations that cannot be directly linked to a single specific job (e.g., lubricants, cleaning rag)",
+      "B": "Steel axle for a bogie",
+      "C": "Coach traction motor armature coil",
+      "D": "Wheel disc"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Indirect Material costs are charged to:",
+    "options": {
+      "A": "Standing Work Orders (Shop Oncost / General Oncost)",
+      "B": "Direct RSP Capital Work Orders",
+      "C": "Deposit Work Orders directly",
+      "D": "Worker's salary"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Direct Labor'?",
+    "options": {
+      "A": "Labor directly engaged in modifying, assembling, or repairing a specific job card component",
+      "B": "Labor engaged in sweeping the workshop yard",
+      "C": "Labor engaged in driving office car",
+      "D": "Gate guard service"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Indirect Labor'?",
+    "options": {
+      "A": "Labor providing auxiliary services (e.g., crane operator, millwright maintenance worker, tool room attendant)",
+      "B": "Welder fabricating a bogie frame",
+      "C": "Machinist turning a wheel axle",
+      "D": "Fitter overhauling brake cylinder"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are Idle Time costs accounted for under the Work Order System?",
+    "options": {
+      "A": "Booked against specific Idle Time Standing Work Orders under Shop Oncost",
+      "B": "Debited to worker's personal bank account",
+      "C": "Charged to direct capital RSP work orders",
+      "D": "Hidden without any record"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Developmental Work Order'?",
+    "options": {
+      "A": "Work Order opened for trial manufacturing, modification design, or experimental project work",
+      "B": "Work Order for staff residential colony repairs",
+      "C": "Work Order for buying food items",
+      "D": "Work Order for routine cleaning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which Work Order series covers 'Manufacture of stock items for General Stores'?",
+    "options": {
+      "A": "70 Series",
+      "B": "10 Series",
+      "C": "90 Series",
+      "D": "00 Series"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a Metro coach undergoes modification under an approved RSP (Rolling Stock Programme), expenditure is booked under:",
+    "options": {
+      "A": "80 Series (Capital / RSP Work Order)",
+      "B": "10 Series (Standing Shop Oncost)",
+      "C": "70 Series (Stock Manufacture)",
+      "D": "90 Series (Deposit Work)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does RSP stand for in Railway Workshop Budgeting?",
+    "options": {
+      "A": "Rolling Stock Programme",
+      "B": "Railway Safety Protocol",
+      "C": "Regional Supply Plan",
+      "D": "Repair Schedule Plan"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does M&P stand for in Railway Budgeting?",
+    "options": {
+      "A": "Machinery and Plant",
+      "B": "Maintenance and Planning",
+      "C": "Material and Purchase",
+      "D": "Metro and Personnel"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Work Order system helps Management in Variance Analysis by comparing:",
+    "options": {
+      "A": "Actual costs incurred against Estimated / Standard costs",
+      "B": "Worker height against weight",
+      "C": "Workshop temperature against outside temperature",
+      "D": "Bus fare against train fare"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Estimate' prepared by PCO before opening a custom/capital Work Order?",
+    "options": {
+      "A": "Detailed computation of anticipated material, labor hours, direct charges, and oncost",
+      "B": "Guess of daily weather",
+      "C": "List of staff retiring this month",
+      "D": "Time table of trains"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Job Cost Sheet'?",
+    "options": {
+      "A": "Accounting document that compiles all direct labor, direct material, and overhead charges for a specific Work Order",
+      "B": "Attendance card of JE",
+      "C": "Pass application form",
+      "D": "Medical slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Batch Costing' under Work Order System?",
+    "options": {
+      "A": "Costing method where a cost unit consists of a group/batch of identical components produced under one Work Order",
+      "B": "Costing of a single train journey",
+      "C": "Costing of entire railway zone",
+      "D": "Costing of daily food supplies"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway Kolkata, scheduled Overhaul of motor coach traction motors is executed under:",
+    "options": {
+      "A": "Specific Mechanical/Electrical Overhaul Work Order",
+      "B": "Canteen Fund Order",
+      "C": "Civil Engineering Track Order",
+      "D": "Stationmaster Petty Cash Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which wing of PCO assigns the Work Order number and prepares job tickets?",
+    "options": {
+      "A": "Planning Wing",
+      "B": "Inspection Wing",
+      "C": "Progress Wing",
+      "D": "Stores Depot Wing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which wing of PCO verifies that work done on a Work Order complies with drawings before signing the completion ticket?",
+    "options": {
+      "A": "Inspection Wing",
+      "B": "Planning Wing",
+      "C": "Rate Fixing Wing",
+      "D": "Accounts Wing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Material Requisition Note' (Indent) linked with Work Order?",
+    "options": {
+      "A": "Document specifying exact item code, description, quantity, and Work Order number to which material must be charged",
+      "B": "Request for transfer of employee",
+      "C": "Leave application",
+      "D": "Overtime slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If material drawn against a Work Order remains unused, what must shop floor staff do?",
+    "options": {
+      "A": "Return it to Stores via Advice Note of Returned Stores or transfer it via Advice of Material Transfer (Form S-1727)",
+      "B": "Throw it in scrap yard",
+      "C": "Take it home",
+      "D": "Keep it hidden in locker indefinitely"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Form S-1727 in Railway Stores procedure is used for:",
+    "options": {
+      "A": "Advice of Material Transfer between jobs/work orders",
+      "B": "Gate Entry Pass",
+      "C": "Incentive bill payment",
+      "D": "Staff loan sanction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Administrative Oncost'?",
+    "options": {
+      "A": "Overhead expenses relating to top management, personnel, medical, and accounting services allocated to shop output",
+      "B": "Cost of purchase of machine grease",
+      "C": "Cost of worker safety shoes",
+      "D": "Electricity bill of shop floor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The total cost of a job executed under a Work Order is calculated as:",
+    "options": {
+      "A": "Direct Material + Direct Labor + Direct Expenses + Shop Oncost + General Oncost",
+      "B": "Direct Material only",
+      "C": "Direct Labor × 2",
+      "D": "Gross salary of shop SSE"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Railway rules, what is the maximum validity period generally allowed for a routine production Work Order if not extended?",
+    "options": {
+      "A": "Financial Year in which it is opened (or till currency specified in production program)",
+      "B": "10 years",
+      "C": "1 day",
+      "D": "50 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Out-turn Statement' prepared monthly by Workshop Accounts?",
+    "options": {
+      "A": "Statement showing total completed jobs and total costs credited/debited across all open work orders",
+      "B": "List of gate pass entries",
+      "C": "Statement of diesel consumption in road vehicles",
+      "D": "List of dirty uniform complaints"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If excess raw material is mistakenly drawn against a Work Order, the unit cost of the job will:",
+    "options": {
+      "A": "Falsely increase",
+      "B": "Falsely decrease",
+      "C": "Remain perfectly accurate",
+      "D": "Become zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of 'Direct Expense' on a specialized Work Order?",
+    "options": {
+      "A": "Hiring specialized testing equipment or consultancy specifically for that single work order",
+      "B": "General shop floor lighting bill",
+      "C": "Salary of Workshop Superintendent",
+      "D": "Cost of soap provided in washrooms"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Railway Workshop Accounting, what does 'WAP' stand for in monthly accountal?",
+    "options": {
+      "A": "Workshop Account Current / Workshop Accounting Procedure",
+      "B": "Work Allowance Permit",
+      "C": "Weekly Attendance Progress",
+      "D": "Wagon Assembly Program"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Re-work' cost booking?",
+    "options": {
+      "A": "Booking extra labor and material required to rectify a defective job onto a Rectification Work Order/Card",
+      "B": "Booking regular attendance",
+      "C": "Booking holiday pay",
+      "D": "Booking retirement benefit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If rework is required due to bad workmanship of shop staff, the rework cost is booked to:",
+    "options": {
+      "A": "Shop Oncost (Fault of Shop) Standing Work Order",
+      "B": "Capital RSP Work Order",
+      "C": "Outside customer directly",
+      "D": "Supplier invoice"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If rework is required due to defective raw material supplied by Store Depot, the cost is charged to:",
+    "options": {
+      "A": "Stores Suspense / Supplier rejection claim account",
+      "B": "Direct worker salary",
+      "C": "Shop cleaner wage",
+      "D": "Canteen account"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary document used by Accounts to audit daily labor booking against Work Orders?",
+    "options": {
+      "A": "Daily Time Sheet / Muster Roll Tally Sheet",
+      "B": "RSP Sanction Sheet",
+      "C": "Form S-1313",
+      "D": "Gate Pass Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which category of staff is responsible for punching/booking start and finish times on Job Cards linked to Work Orders?",
+    "options": {
+      "A": "Direct Workers / Time Keeper / Shop Floor JE",
+      "B": "Chief Cashier",
+      "C": "Law Officer",
+      "D": "Public Relations Officer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Work Order Master File' in computerization of workshop accounts?",
+    "options": {
+      "A": "Database containing details of all active work orders, description, account head, and validity",
+      "B": "File containing list of retired trains",
+      "C": "Computer antivirus program",
+      "D": "File containing union leaders' photos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway maintenance, Bogie Overhaul for Metro rakes is booked under:",
+    "options": {
+      "A": "Specific Bogie Overhaul Revenue Work Order",
+      "B": "Station Signboard Repair Work Order",
+      "C": "Ticketing Machine Maintenance Work Order",
+      "D": "Garden Maintenance Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Over-absorption of Oncost'?",
+    "options": {
+      "A": "When overheads charged to work orders using fixed percentage exceed the actual overhead expenses incurred",
+      "B": "When shop absorbs too much water",
+      "C": "When workers take extra leave",
+      "D": "When raw material is stolen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Under-absorption of Oncost'?",
+    "options": {
+      "A": "When overheads charged to work orders are less than the actual overhead expenses incurred",
+      "B": "When shop floor is painted white",
+      "C": "When machine runs at double speed",
+      "D": "When material is received early"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often are Oncost percentages reviewed by Workshop Accounts to avoid heavy under/over-absorption?",
+    "options": {
+      "A": "Periodically (usually semi-annually or annually)",
+      "B": "Every 50 years",
+      "C": "Daily every hour",
+      "D": "Never reviewed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main advantage of computerized Work Order System (e.g., WISE in Indian Railways)?",
+    "options": {
+      "A": "Real-time tracking of job progress, material consumption, and accurate cost allocation",
+      "B": "Eliminates need for physical repairs",
+      "C": "Automatically promotes employees",
+      "D": "Allows free train travel"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'WISE' stand for in Indian Railway Workshop Management?",
+    "options": {
+      "A": "Workshop Information System Executable / Workshop Information System",
+      "B": "Western Indian Steel Enterprise",
+      "C": "Work Improvement Safety Engine",
+      "D": "Weekly Inspection Schedule Entry"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In WISE software, booking of job cards and material indents is directly validated against:",
+    "options": {
+      "A": "Active Work Order Master Data",
+      "B": "Worker's personal Provident Fund number",
+      "C": "Driving license number",
+      "D": "Passport number"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Work Orders for repair of workshop's own machine tools (Millwright work) are classified as:",
+    "options": {
+      "A": "Shop Oncost Standing Work Order (Maintenance of Plant & Machinery)",
+      "B": "90 Series Deposit Work Order",
+      "C": "RSP Capital Work Order",
+      "D": "Passenger Coach POH Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Cost of electricity consumed by heavy machinery on the shop floor is booked under:",
+    "options": {
+      "A": "Standing Work Order for Power / Shop Oncost",
+      "B": "Direct worker incentive card",
+      "C": "Stationery purchase order",
+      "D": "Medical reimbursement"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Job Card Punching'?",
+    "options": {
+      "A": "Recording the clock time of starting and ending a specific operation under a Work Order",
+      "B": "Punching paper for filing",
+      "C": "Ticket punching at railway gate",
+      "D": "Physical boxing match on shop floor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if a worker punches 'IN' on a new Job Card without punching 'OUT' on the previous Job Card?",
+    "options": {
+      "A": "Time overlap error occurs in time booking, requiring JE intervention to rectify",
+      "B": "Worker gets double salary",
+      "C": "Work Order is automatically closed",
+      "D": "System shuts down permanently"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Work Order Audit' conducted by Accounts?",
+    "options": {
+      "A": "Scrutiny to ensure material and labor booked match sanctioned estimates and physical output",
+      "B": "Checking physical weight of workers",
+      "C": "Inspecting uniform color",
+      "D": "Checking track gauge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a non-stock item is purchased locally for a specific Work Order, the cost is charged to:",
+    "options": {
+      "A": "The specific Work Order directly via Allocation Head",
+      "B": "General Canteen Fund",
+      "C": "Staff Benefit Fund",
+      "D": "Discretionary GM Fund"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of 'Allocation Code' attached to a Work Order?",
+    "options": {
+      "A": "It maps the work order expense to the correct demand for grant and accounting head of Indian Railways",
+      "B": "It specifies worker's home address",
+      "C": "It acts as PIN code of workshop",
+      "D": "It acts as phone number of SSE"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Expenditure on POH of Metro Rolling stock is allocated under which Demand for Grant of Indian Railways budget?",
+    "options": {
+      "A": "Demand No. 6 (Repair & Maintenance of Carriage & Wagon / Rolling Stock)",
+      "B": "Demand No. 1 (Railway Board)",
+      "C": "Demand No. 16 (Assets Acquisition)",
+      "D": "Demand No. 3 (General Management)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Capital expenditure on creation of new workshop facilities is allocated under:",
+    "options": {
+      "A": "Demand No. 16 (Assets - Acquisition, Construction and Replacement)",
+      "B": "Demand No. 4",
+      "C": "Demand No. 5",
+      "D": "Demand No. 7"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Credit Note' in Workshop Accounting?",
+    "options": {
+      "A": "Accounting document reducing the debit on a Work Order for returned material or scrap credit",
+      "B": "Credit card issued to JE",
+      "C": "Appreciation letter to worker",
+      "D": "Bank loan certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Advice of Material Transfer' (AMT)?",
+    "options": {
+      "A": "Document used when material already drawn for Work Order 'A' is transferred to Work Order 'B' directly on shop floor",
+      "B": "Transfer order of an employee",
+      "C": "Advice to buy new trucks",
+      "D": "Notice to shut down workshop"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Without AMT, if material drawn for Job A is used on Job B, what accounting error occurs?",
+    "options": {
+      "A": "Job A is overcharged (cost inflated) and Job B is undercharged (cost understated)",
+      "B": "Both jobs show zero cost",
+      "C": "Store room burns down",
+      "D": "No error occurs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Shop Sheet' or 'Operation Sheet'?",
+    "options": {
+      "A": "Detailed document listing step-by-step technical instructions, machine to be used, and standard time per operation",
+      "B": "Bed sheet used in rest room",
+      "C": "Drawing of building roof",
+      "D": "Attendance register sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which officer holds overall administrative charge of a major Railway Repair Workshop?",
+    "options": {
+      "A": "Chief Works Manager (CWM)",
+      "B": "Divisional Railway Manager (DRM)",
+      "C": "Senior Section Engineer (SSE)",
+      "D": "Assistant Personnel Officer (APO)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the role of Senior Section Engineer (Progress) regarding Work Orders?",
+    "options": {
+      "A": "Monitoring execution progress of work orders, ensuring material availability, and pushing job completion",
+      "B": "Signing pension papers",
+      "C": "Conducting medical checkups",
+      "D": "Collecting train fares"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In modern Metro Railway maintenance depots, work orders are managed digitally using which enterprise software?",
+    "options": {
+      "A": "ERP / MAXIMO / SAP (Plant Maintenance module)",
+      "B": "MS Paint",
+      "C": "PageMaker",
+      "D": "CorelDraw"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Preventive Maintenance Work Order' in Metro Depot management?",
+    "options": {
+      "A": "Scheduled work order created for routine servicing (e.g., 3-day, 30-day, 180-day inspection) to prevent failures",
+      "B": "Order issued after train crashes",
+      "C": "Order to buy new land",
+      "D": "Order to dismiss staff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Breakdown Maintenance Work Order'?",
+    "options": {
+      "A": "Unscheduled work order opened immediately to record repairs and costs when equipment fails unexpectedly",
+      "B": "Planned POH order",
+      "C": "Order for building new station",
+      "D": "Order for staff picnic"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Cost Centre' in shop floor management?",
+    "options": {
+      "A": "A defined shop section or machine group to which overheads and costs can be distinctly allocated",
+      "B": "The main cash office at railway station",
+      "C": "The bank branch",
+      "D": "The ticket counter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Costing'?",
+    "options": {
+      "A": "Costing method that pre-determines standard costs for materials, labor, and overheads for comparison with actuals",
+      "B": "Selling items at standard market price",
+      "C": "Paying standard salary to all employees",
+      "D": "Buying standard brand clothes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When actual labor hours spent on a Work Order are less than estimated hours, it results in:",
+    "options": {
+      "A": "Favorable Labor Efficiency Variance",
+      "B": "Unfavorable Cost Variance",
+      "C": "Financial loss to Railway",
+      "D": "Machine breakdown"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When actual material used on a Work Order exceeds the sanctioned estimate, it results in:",
+    "options": {
+      "A": "Unfavorable Material Usage Variance",
+      "B": "Favorable Cost Variance",
+      "C": "Incentive bonus payout",
+      "D": "Increased productivity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Reconciliation of Workshop Accounts'?",
+    "options": {
+      "A": "Matching labor and material costs booked in shop work orders with total debits in financial accounts",
+      "B": "Resolving staff union disputes",
+      "C": "Counting physical tools in store",
+      "D": "Checking train departure times"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the Work Completion Certificate to confirm that a Metro rake overhaul Work Order is physically finished?",
+    "options": {
+      "A": "Shop SSE / Divisional Officer and Quality Inspection Officer",
+      "B": "Gate Watchman",
+      "C": "Store Clerk",
+      "D": "Canteen Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Final closure of a Work Order in Accounts involves:",
+    "options": {
+      "A": "Balancing debits and credits, clearing WMS, and transferring net cost to final revenue/capital heads",
+      "B": "Tearing off the work order register pages",
+      "C": "Giving cash reward to workers",
+      "D": "Deleting database back-up"
+    },
+    "answer": "A"
+  }
+]
+}
