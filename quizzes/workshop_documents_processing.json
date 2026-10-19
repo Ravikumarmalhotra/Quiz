@@ -1,0 +1,1004 @@
+{
+[
+  {
+    "question": "Which document issued by PCO accompanies a job component from one shop section to another to indicate the sequence of operations?",
+    "options": {
+      "A": "Route Card",
+      "B": "Muster Roll",
+      "C": "Gate Pass",
+      "D": "Incentive Bill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary document used on the shop floor to authorize work execution and record labor time spent on a specific operation?",
+    "options": {
+      "A": "Job Card (Job Ticket)",
+      "B": "Store Indent",
+      "C": "Advice Note",
+      "D": "Service Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which Railway Stores Form number is used for making a 'Requisition for Stores' (Issue Note) to draw raw materials for a Work Order?",
+    "options": {
+      "A": "Form S-1313",
+      "B": "Form S-1539",
+      "C": "Form S-1727",
+      "D": "Form GA-1"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when returning unserviceable scrap or surplus material from the Workshop back to the Stores Depot?",
+    "options": {
+      "A": "Advice Note of Returned Stores (Form S-1539)",
+      "B": "Job Card",
+      "C": "Route Card",
+      "D": "Attendance Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When raw material drawn for Work Order 'A' is transferred directly to Work Order 'B' on the shop floor, which form must be processed?",
+    "options": {
+      "A": "Advice of Material Transfer (Form S-1727)",
+      "B": "Gate Pass",
+      "C": "Idle Time Card",
+      "D": "Inspection Certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated upon the complete physical overhaul/completion of a job to inform PCO and Accounts for Work Order closure?",
+    "options": {
+      "A": "Work Completion Advice / Certificate",
+      "B": "Requisition Note",
+      "C": "Absence Statement",
+      "D": "Material Indent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a Railway Workshop, what is a 'Process Sheet' or 'Operation Sheet'?",
+    "options": {
+      "A": "Technical document specifying step-by-step manufacturing/repair operations, machines required, and allowed standard times",
+      "B": "Daily staff attendance register",
+      "C": "Monthly salary slip",
+      "D": "Gate entry register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is used to record non-productive hours spent by direct workers due to machine breakdown or power failure?",
+    "options": {
+      "A": "Idle Time Card",
+      "B": "Route Card",
+      "C": "Store Requisition",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document maintains a permanent historical technical record of major overhauls, wheel turning, and modifications carried out on a Metro coach?",
+    "options": {
+      "A": "Coach History Book / History Card",
+      "B": "Bin Card",
+      "C": "Daily Attendance Sheet",
+      "D": "Gate Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which wing of the Production Control Organization (PCO) is responsible for processing and issuing Job Cards and Route Cards?",
+    "options": {
+      "A": "Planning Wing",
+      "B": "Inspection Wing",
+      "C": "Stores Ward",
+      "D": "Personnel Branch"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which form is processed to record daily gate entry and exit timings of workshop employees for pay calculation?",
+    "options": {
+      "A": "Muster Roll / Attendance Sheet (Form GA)",
+      "B": "Job Card",
+      "C": "Work Order List",
+      "D": "Material Indent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document must accompany any material or equipment being taken OUT of the workshop premises through the main gate?",
+    "options": {
+      "A": "Material Gate Pass (Returnable or Non-Returnable)",
+      "B": "Route Card",
+      "C": "Job Ticket",
+      "D": "Incentive Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A 'Returnable Gate Pass' is processed when material is sent outside the workshop for:",
+    "options": {
+      "A": "Testing, repair, or job-work with the requirement of coming back into the workshop",
+      "B": "Permanent scrap disposal",
+      "C": "Condemnation and write-off",
+      "D": "Sale to private vendors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A 'Non-Returnable Gate Pass' is processed for material that is:",
+    "options": {
+      "A": "Permanently dispatched out of the workshop (e.g., turned-out rakes, sold scrap, transfers)",
+      "B": "Sent to shop tool room for re-grinding",
+      "C": "Sent for temporary display in officer office",
+      "D": "Taken out for testing for 2 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document records the quality clearance and stage-wise dimensional checks performed by Quality Control Inspectors?",
+    "options": {
+      "A": "Inspection Check-Sheet / Stage Inspection Card",
+      "B": "Muster Roll",
+      "C": "Gate Register",
+      "D": "Pass Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated when a component or raw material fails quality standards during inspection?",
+    "options": {
+      "A": "Rejection Advice / Rejection Memo",
+      "B": "Work Completion Certificate",
+      "C": "Attendance Ticket",
+      "D": "Incentive Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the document 'WISE' used for processing workshop records in Indian Railways?",
+    "options": {
+      "A": "Workshop Information System Executable (IT system for digital workshop document management)",
+      "B": "Water Inspection Safety Equipment",
+      "C": "Weekly Incentive Sheet Entry",
+      "D": "Work Indirect Safety Evaluation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by PCO to establish the standard 'Allowed Time' for a newly introduced manufacturing job?",
+    "options": {
+      "A": "Rate Fixed Estimate / Synthetic Time Sheet",
+      "B": "Gate Entry Token",
+      "C": "Store Drawal Sheet",
+      "D": "Absenteeism Statement"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document acts as an official link between Workshop Accounts and the Shop Floor to record monthly work order expenditure?",
+    "options": {
+      "A": "Work Order Ledger",
+      "B": "Medical Memo",
+      "C": "Casual Leave Card",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Bin Card' maintained inside the Stores Depot Ward?",
+    "options": {
+      "A": "Tag/Card attached to each storage bin showing real-time receipt, issue, and physical balance of an item",
+      "B": "Card used for waste garbage collection",
+      "C": "Job card for cleaner staff",
+      "D": "Worker identity card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when a worker is required to work beyond standard working hours?",
+    "options": {
+      "A": "Overtime Slip / Overtime Register Entry",
+      "B": "Idle Time Card",
+      "C": "Route Card",
+      "D": "Scrap Note"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is authorized to issue and sign a Material Gate Pass in a railway workshop?",
+    "options": {
+      "A": "Designated Gazetted Officer / Authorized SSE",
+      "B": "Unskilled Helper",
+      "C": "Contractor Worker",
+      "D": "Canteen Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed before carrying out high-risk electrical/maintenance work on Metro overhead equipment or high voltage lines?",
+    "options": {
+      "A": "Permit to Work (PTW)",
+      "B": "Job Ticket",
+      "C": "Route Card",
+      "D": "Store Requisition"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary function of a 'Permit to Work' (PTW) document?",
+    "options": {
+      "A": "To ensure power isolation, safety earthing, and formal clearance before starting work on dangerous equipment",
+      "B": "To grant leave to workers",
+      "C": "To issue safety shoes",
+      "D": "To allow entry into canteen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is filled out by the Shop Floor Engineer when a major machine tool suffers an unexpected failure?",
+    "options": {
+      "A": "Breakdown Memo / Breakdown Requisition to Millwright Shop",
+      "B": "Route Card",
+      "C": "Store Issue Note",
+      "D": "Incentive Bill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records all preventive maintenance activities carried out on shop floor machinery?",
+    "options": {
+      "A": "Machine Maintenance Register / History Register",
+      "B": "Mustering Book",
+      "C": "Local Purchase Register",
+      "D": "Visitor Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is prepared by Accounts at the end of each month summarizing all financial debits and credits of the workshop?",
+    "options": {
+      "A": "Workshop Account Current / Out-turn Statement",
+      "B": "Job Card Summary",
+      "C": "Material Indent List",
+      "D": "Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Stores processing, what is 'PL Number'?",
+    "options": {
+      "A": "Price Ledger Number (8-digit unique code identifying a specific store item)",
+      "B": "Private Location Code",
+      "C": "Passenger List Number",
+      "D": "Production Line Number"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In an 8-digit PL Number (Price Ledger Code), what do the first two digits signify?",
+    "options": {
+      "A": "Main Group of the store item",
+      "B": "Sub-group of the store item",
+      "C": "Serial number of the item",
+      "D": "Check digit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of the last digit (8th digit) in a standard Railway PL Number?",
+    "options": {
+      "A": "Check Digit (used for computer error verification based on modulus algorithm)",
+      "B": "Year of manufacture",
+      "C": "Supplier code",
+      "D": "Expiry month"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by the Stores Depot when inspected material is officially accepted into stock?",
+    "options": {
+      "A": "Receipt Note / Stores Receipt Sheet",
+      "B": "Advice Note of Returned Stores",
+      "C": "Gate Pass",
+      "D": "Rejection Slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is used to record non-destructive testing (e.g., Ultrasonic Testing - UST) of axles in wheel shops?",
+    "options": {
+      "A": "UST Testing Certificate / Axle Inspection Register",
+      "B": "Muster Roll",
+      "C": "Store Requisition",
+      "D": "Time Ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to report theft, shortage, or loss of workshop materials to Accounts and Security?",
+    "options": {
+      "A": "Survey Report / Loss & Damage Advice Report",
+      "B": "Completion Certificate",
+      "C": "Job Card",
+      "D": "Route Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Survey Report' (Form S-2269) used for in workshop management?",
+    "options": {
+      "A": "Proposing write-off or condemnation of unserviceable machines, tools, or assets",
+      "B": "Measuring land boundaries",
+      "C": "Counting daily worker attendance",
+      "D": "Booking OT allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document records the transfer of finished overhauled components from the machine shop to the assembly line?",
+    "options": {
+      "A": "Component Voucher / Material Delivery Slip",
+      "B": "Attendance Card",
+      "C": "Medical Slip",
+      "D": "Overtime Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is processed to claim reimbursement for petty operational expenses incurred directly by a Shop SSE?",
+    "options": {
+      "A": "Imprest Cash Voucher / Petty Cash Vouchers",
+      "B": "Store Issue Note",
+      "C": "Job Ticket",
+      "D": "Route Card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Imprest Cash Account' held by a Workshop Senior Section Engineer?",
+    "options": {
+      "A": "Sanctioned standing cash fund for meeting urgent, minor local purchases and emergency repairs",
+      "B": "Fund for worker loans",
+      "C": "Money reserved for staff canteen",
+      "D": "Incentive bonus pool"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which statutory document must be prominently displayed in the workshop under the Factories Act, 1948?",
+    "options": {
+      "A": "Notice of Periods of Work for Adults (Form 11 / Abstract of Factories Act & Safety Rules)",
+      "B": "Seniority list of Engineers",
+      "C": "Menu of staff canteen",
+      "D": "Train Timetable"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register must be maintained in the workshop under statutory rules to record industrial accidents?",
+    "options": {
+      "A": "Register of Accidents and Dangerous Occurrences",
+      "B": "Tool Issue Register",
+      "C": "Job Card Ledger",
+      "D": "Pass Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When an employee sustains an injury on duty, which document is immediately processed for medical treatment?",
+    "options": {
+      "A": "Medical Memo (Accident / On-Duty Injury Memo)",
+      "B": "Job Ticket",
+      "C": "Route Card",
+      "D": "Gate Pass (Non-Returnable)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by PCO when a design drawing modification is issued by RDSO / Metro Headquarters?",
+    "options": {
+      "A": "Modification Advice / Engineering Change Order (ECO)",
+      "B": "Gate Entry Slip",
+      "C": "Attendance Voucher",
+      "D": "Overtime Coupon"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is used by Stores Stock Verifiers during physical counting of inventory in shop wards?",
+    "options": {
+      "A": "Stock Verification Sheet / Stock Sheets",
+      "B": "Job Card",
+      "C": "Muster Sheet",
+      "D": "Route Ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a discrepancy (discrepant balance) is found between physical stock and register balance during audit, it is recorded on:",
+    "options": {
+      "A": "Stock Sheet (Accounts Stock Sheet)",
+      "B": "Gate Pass",
+      "C": "Medical Form",
+      "D": "Idle Time Card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to certify that lifting tackles, cranes, and pressure vessels have undergone mandatory load testing?",
+    "options": {
+      "A": "Test Certificate by Competent Person (under Factories Act)",
+      "B": "Job Card",
+      "C": "Route Sheet",
+      "D": "Attendance Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often must pressure vessels (e.g., air reservoirs) be tested and certified by a competent person in a workshop?",
+    "options": {
+      "A": "Periodically as per statutory rules (typically once every 12 months / 24 months)",
+      "B": "Every day",
+      "C": "Once in 50 years",
+      "D": "Never tested"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document records the daily logs of operating parameters (voltage, current, pressure, temperature) in a sub-station or AC plant?",
+    "options": {
+      "A": "Equipment Operating Log Book",
+      "B": "Job Card",
+      "C": "Gate Pass",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Shift Handover Register' maintained in continuous workshop sections?",
+    "options": {
+      "A": "Logbook where outgoing supervisor records pending jobs, machine status, and safety notes for incoming shift",
+      "B": "Attendance sheet for cleaners",
+      "C": "Salary distribution book",
+      "D": "Canteen meal register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to purchase non-stock emergency items locally when unavailable in Stores Depot?",
+    "options": {
+      "A": "Local Purchase Requisition / Spot Purchase Sanction",
+      "B": "Route Card",
+      "C": "Job Ticket",
+      "D": "Idle Time Ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'P.O.' in material processing documentation?",
+    "options": {
+      "A": "Purchase Order (Legal contract issued to vendor for supply of goods)",
+      "B": "Pass Officer",
+      "C": "Production Output",
+      "D": "Post Office"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document does a vendor submit along with material delivery to the Workshop Stores Depot?",
+    "options": {
+      "A": "Vendor Invoice and Delivery Challan / Inspection Certificate",
+      "B": "Job Card",
+      "C": "Muster Roll",
+      "D": "Leave Application"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is processed to record safety gear (PPE like safety shoes, helmets, goggles) issued to workshop workers?",
+    "options": {
+      "A": "PPE Issue Register / Protective Clothing Register",
+      "B": "Gate Register",
+      "C": "Work Order List",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Operation Procedure' (SOP) displayed near complex machines on the shop floor?",
+    "options": {
+      "A": "Document detailing safe operating steps, hazard warnings, and proper handling procedures for a machine",
+      "B": "Document showing list of workers on leave",
+      "C": "Document showing officer phone numbers",
+      "D": "Train running schedule"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to calculate and bill monthly incentive payments for Direct Workers?",
+    "options": {
+      "A": "Monthly Incentive Statement / Incentive Calculation Bill",
+      "B": "Gate Pass",
+      "C": "Store Drawal Voucher",
+      "D": "Survey Report"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must audit and sign the Monthly Incentive Bills before payment is credited to workers' salaries?",
+    "options": {
+      "A": "Workshop Accounts Officer (WAO)",
+      "B": "Store Keeper",
+      "C": "Security Inspector",
+      "D": "Vendor Agent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is used to track precision instruments and gauges sent for periodic calibration?",
+    "options": {
+      "A": "Calibration Register / Instrument Master History Record",
+      "B": "Attendance Register",
+      "C": "Requisition Slip",
+      "D": "Gate Entry Token"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Calibration Sticker / Tag' affixed on a measuring instrument in a workshop?",
+    "options": {
+      "A": "Tag showing date of last calibration, due date of next calibration, and inspector sign",
+      "B": "Price tag of instrument",
+      "C": "Brand logo",
+      "D": "Worker name tag"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an instrument's calibration due date has expired, what does quality documentation dictate?",
+    "options": {
+      "A": "Instrument must be tagged 'OUT OF SERVICE' and removed from shop floor until re-calibrated",
+      "B": "Instrument can be used indefinitely",
+      "C": "Instrument must be thrown in scrap immediately",
+      "D": "Instrument price is reduced"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to record detailed chemical/physical testing of raw materials in the Metallurgical & Chemical (M&C) Lab?",
+    "options": {
+      "A": "M&C Test Report / Material Test Certificate",
+      "B": "Job Ticket",
+      "C": "Route Card",
+      "D": "Leave Application"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which authority issues M&C Clearance for critical items like axle steel and welding consumables?",
+    "options": {
+      "A": "Chemist & Metallurgist / CMT Laboratory Wing",
+      "B": "Store Clerk",
+      "C": "Personnel Officer",
+      "D": "Time Keeper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Tool Issue Card / Tool Pass' held by a machinist?",
+    "options": {
+      "A": "Card/Token system used to draw specialized cutting tools from the Tool Room Ward",
+      "B": "Pass for train travel",
+      "C": "Medical card",
+      "D": "Canteen card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when a tool is broken due to accident or mishandling on the shop floor?",
+    "options": {
+      "A": "Broken Tool Report / Breakage Memo",
+      "B": "Work Completion Certificate",
+      "C": "Attendance Register",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Sub-Contracting / Job Work Document Folder'?",
+    "options": {
+      "A": "Processing folder containing work order details, tender agreement, gate passes, and inspection sheets for outsourced shop work",
+      "B": "Folder containing leave letters",
+      "C": "Folder containing union pamphlets",
+      "D": "Folder containing personal photographs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed for dispatching overhauled Metro rakes back to the Traffic/Operations Division?",
+    "options": {
+      "A": "Traffic Turn-Out Advice / Out-turn Certificate",
+      "B": "Requisition Slip",
+      "C": "Idle Time Ticket",
+      "D": "Muster Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who jointly signs the Rake Joint Inspection Certificate before a Metro train is accepted for revenue service?",
+    "options": {
+      "A": "Workshop SSE (Rolling Stock) and Traffic/Operations Representative",
+      "B": "Gate Guard and Store Clerk",
+      "C": "Cleaner and Security Guard",
+      "D": "Time Keeper and Canteen Staff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Audit Objection Memo' processed in workshop accounts?",
+    "options": {
+      "A": "Formal query raised by Statutory Audit / Accounts regarding procedural or financial irregularity in workshop documents",
+      "B": "Memo issued for late attendance",
+      "C": "Memo issued for defective welding",
+      "D": "Medical fit certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by PCO to schedule load management across different machine groups?",
+    "options": {
+      "A": "Capacity Load Sheet / Machine Load Chart",
+      "B": "Gate Pass",
+      "C": "Pass Application",
+      "D": "Attendance Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Production Program' issued annually by Railway Board / Metro Headquarters?",
+    "options": {
+      "A": "Official document specifying targets for POH, IOH, and manufacturing for each workshop for the year",
+      "B": "List of cultural events",
+      "C": "List of holidays",
+      "D": "Staff promotion schedule"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when scrap materials are auctioned directly from the Workshop Store Yard?",
+    "options": {
+      "A": "Auction Sale Order / Delivery Order (Form S-2339)",
+      "B": "Job Card",
+      "C": "Route Card",
+      "D": "Imprest Voucher"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which form is processed to record daily consumption of industrial gases (Oxygen, Acetylene, Argon) in welding shops?",
+    "options": {
+      "A": "Gas Consumption Register / Store Issue Log",
+      "B": "Gate Entry Slip",
+      "C": "Muster Sheet",
+      "D": "Incentive Bill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Material Safety Data Sheet' (MSDS) required for chemical items in workshops?",
+    "options": {
+      "A": "Document detailing chemical properties, health hazards, handling precautions, and first-aid measures for hazardous materials",
+      "B": "Store price tag",
+      "C": "Job ticket for chemical shop",
+      "D": "Gate pass for chemicals"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when a worker applies for casual leave or regular leave?",
+    "options": {
+      "A": "Leave Application Form",
+      "B": "Job Ticket",
+      "C": "Route Sheet",
+      "D": "Material Indent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which record tracks the cumulative earned leave, half-pay leave, and commuted leave of a railway employee?",
+    "options": {
+      "A": "Leave Account (maintained in Service Book)",
+      "B": "Bin Card",
+      "C": "Work Order Ledger",
+      "D": "Gate Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is processed to issue railway travel passes/PTOs to workshop staff?",
+    "options": {
+      "A": "Pass / PTO Application Form",
+      "B": "Store Issue Note",
+      "C": "Job Ticket",
+      "D": "Work Completion Certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is processed to record all disciplinary cases, charge-sheets, and penalties of workshop staff?",
+    "options": {
+      "A": "D&AR Register (Discipline and Appeal Rules Register)",
+      "B": "Muster Roll",
+      "C": "Tool Register",
+      "D": "Imprest Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Form 5' (SF-5) processed for under D&AR rules?",
+    "options": {
+      "A": "Charge-sheet for Major Penalty",
+      "B": "Charge-sheet for Minor Penalty",
+      "C": "Order of Suspension",
+      "D": "Revocation of Suspension"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Form 11' (SF-11) processed for under D&AR rules?",
+    "options": {
+      "A": "Charge-sheet for Minor Penalty",
+      "B": "Charge-sheet for Major Penalty",
+      "C": "Order of Dejection",
+      "D": "Appointment Letter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Form 1' (SF-1) processed for?",
+    "options": {
+      "A": "Order of Suspension",
+      "B": "Major Penalty Charge-sheet",
+      "C": "Nomination for Pension",
+      "D": "Pass Application"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by Accounts to deduct union subscription fees from willing staff salaries (Voluntary Check-off system)?",
+    "options": {
+      "A": "Union Authorization Mandate / Check-off Form",
+      "B": "Job Ticket",
+      "C": "Gate Pass",
+      "D": "Route Card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Service Book' maintained in the Personnel Branch?",
+    "options": {
+      "A": "Official cumulative record of an employee's career, promotions, pay fixations, leaves, and disciplinary history",
+      "B": "Book showing machine repair steps",
+      "C": "Book showing daily train timings",
+      "D": "Library book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under ISO 9001 quality management in workshops, what is a 'Corrective Action Report' (CAR)?",
+    "options": {
+      "A": "Document processed to investigate root cause of a quality defect and prevent its recurrence",
+      "B": "Report on worker attendance",
+      "C": "Report on salary deduction",
+      "D": "Gate entry summary"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Internal Audit Non-Conformity Report' (NCR)?",
+    "options": {
+      "A": "Document detailing deviation from established ISO standard procedures discovered during workshop internal quality audit",
+      "B": "Medical fitness certificate",
+      "C": "Overtime claim slip",
+      "D": "Tool issue voucher"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to record daily water quality parameters in Metro cooling towers and effluent treatment plants?",
+    "options": {
+      "A": "ETP / Water Testing Logbook (under ISO 14001 Environment Management)",
+      "B": "Route Card",
+      "C": "Job Card",
+      "D": "Muster Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is '5S Checklist' processed during shop floor audits?",
+    "options": {
+      "A": "Audit sheet for evaluating workplace organization, cleanliness, standardization, and discipline (Sort, Set in order, Shine, Standardize, Sustain)",
+      "B": "Checklist for 5-year plan",
+      "C": "Checklist for purchasing 5 machines",
+      "D": "List of 5 senior officers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document tracks the movement of vital safety-critical components (e.g., Metro rake couplers, bogies) through ultrasonic testing?",
+    "options": {
+      "A": "NDT Traceability Register / NDT Clearance Tag",
+      "B": "Pass Book",
+      "C": "Gate Pass",
+      "D": "Casual Leave Card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Traceability' in workshop quality documentation?",
+    "options": {
+      "A": "Ability to trace the history, application, raw material heat number, and operator details of a finished component using serial records",
+      "B": "Tracing worker home address",
+      "C": "Tracing train GPS location",
+      "D": "Tracing phone calls"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by PCO when a Job Card is physically damaged or rendered illegible by oil/grease on shop floor?",
+    "options": {
+      "A": "Certified Duplicate Job Card (issued by PCO after canceling damaged card)",
+      "B": "Gate Pass",
+      "C": "New Work Order",
+      "D": "Absence Voucher"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In computerized processing (WISE/ERP), what is 'Digital Signature / Smart Authentication' used for?",
+    "options": {
+      "A": "Authenticating job completion, material requisitions, and gate passes securely without physical paper signatures",
+      "B": "Printing posters",
+      "C": "Calculating worker height",
+      "D": "Measuring train speed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to report scrap generation targets versus actual recovery to CWM monthly?",
+    "options": {
+      "A": "Monthly Scrap Target & Position Statement",
+      "B": "Job Ticket",
+      "C": "Attendance Sheet",
+      "D": "Medical Certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Works Register' maintained in Railway Workshop Accounts?",
+    "options": {
+      "A": "Register recording administrative approval, technical sanction, budget allocation, and progressive expenditure of capital works",
+      "B": "Register of daily gate visitors",
+      "C": "Register of canteen food items",
+      "D": "Register of staff sports entries"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when an unserviceable machine tool is officially condemned by a Survey Committee?",
+    "options": {
+      "A": "Condemnation Certificate / Survey Report Approval",
+      "B": "Job Ticket",
+      "C": "Route Card",
+      "D": "Attendance Card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is processed to account for scrap metal chips/borings generated during machining on a Work Order?",
+    "options": {
+      "A": "Scrap Return Advice (crediting scrap value back to WMS / Work Order)",
+      "B": "Incentive Slip",
+      "C": "Gate Pass (Returnable)",
+      "D": "Attendance Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed to record details of lubricants and oil changes in Metro rake gearboxes during maintenance?",
+    "options": {
+      "A": "Oil Change / Lubrication Log Card",
+      "B": "Muster Sheet",
+      "C": "Gate Token",
+      "D": "Pass Slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Defect Register' maintained at Metro depot stabling yards?",
+    "options": {
+      "A": "Register where Train Drivers (Loco Pilots) and maintenance staff record technical faults observed during service",
+      "B": "Register of late-coming staff",
+      "C": "Register of bad food in canteen",
+      "D": "Register of broken furniture"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must clear all entries in the Defect Register before a Metro rake is certified fit for commercial service?",
+    "options": {
+      "A": "Shift In-Charge / Senior Section Engineer (Depot/Workshop)",
+      "B": "Ticket Collector",
+      "C": "Gate Security Staff",
+      "D": "Store Clerk"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when raw material received from a vendor fails dimensional checks during initial receiving inspection?",
+    "options": {
+      "A": "Rejection Note / Vendor Rejection Advice (Form S-717 / Equivalent)",
+      "B": "Work Completion Advice",
+      "C": "Incentive Bill",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Warranty Rejection Advice' processed for?",
+    "options": {
+      "A": "Formal claim raised against a supplier when a component fails within its guaranteed warranty period on a coach/rake",
+      "B": "Rejection of employee leave",
+      "C": "Rejection of canteen tender",
+      "D": "Rejection of train timetable"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by PCO to issue monthly progress reports of coach overhaul to Railway Board?",
+    "options": {
+      "A": "Monthly Out-turn & Progress Report (MOPR)",
+      "B": "Gate Pass Ledger",
+      "C": "Attendance Summary",
+      "D": "Medical Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard period of retention for crucial workshop accounting ledgers like Work Order Ledgers?",
+    "options": {
+      "A": "Prescribed period under Railway Record Retention Rules (typically 5 to 10 years or as permanent record depending on capital nature)",
+      "B": "1 day",
+      "C": "1 week",
+      "D": "1000 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is systematic processing and filing of workshop documents essential?",
+    "options": {
+      "A": "Ensures complete quality traceability, legal compliance, accurate financial audit, and operational safety of Metro operations",
+      "B": "To consume office storage space",
+      "C": "To create unnecessary work for engineers",
+      "D": "To delay train movements"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In e-Office implementation across Metro Railway workshops, physical paper files are replaced by:",
+    "options": {
+      "A": "Electronic Files (e-Files) with digital movement and tracking",
+      "B": "Oral messages",
+      "C": "Handwritten letters sent by post",
+      "D": "Cardboard tokens"
+    },
+    "answer": "A"
+  }
+]
+}
