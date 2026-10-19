@@ -1,0 +1,1014 @@
+{
+[
+  {
+    "question": "Under the Factories Act 1948 and Indian Railway rules, protective clothing provided to shop floor staff is classified as:",
+    "options": {
+      "A": "A personal luxury item",
+      "B": "Statutory Personal Protective Equipment (PPE) supplied to protect workers from occupational hazards",
+      "C": "Optional wear provided only on employee request",
+      "D": "Decorative uniform for ceremonial parades"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the key distinction between 'General Uniform' and 'Protective Clothing' in Indian Railways?",
+    "options": {
+      "A": "General Uniform is for identification/duty presentation, whereas Protective Clothing is safety gear issued specifically to guard against occupational health hazards",
+      "B": "There is no distinction between them",
+      "C": "General Uniform is bought by workers; Protective Clothing is rented",
+      "D": "Protective Clothing is issued only to administrative officers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Following the 7th Central Pay Commission (7th CPC) recommendations (RBE No. 141/2017), how is mandatory 'Protective Gear / Clothing' issued to workshop staff?",
+    "options": {
+      "A": "Replaced entirely by cash Dress Allowance",
+      "B": "Supplied physically in-kind by the Railway Administration, independent of Dress Allowance",
+      "C": "Deducted directly from monthly basic pay",
+      "D": "Purchased by employees from open market without reimbursement"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Under Section 22 of the Factories Act 1948, staff working near moving machinery parts must be provided with:",
+    "options": {
+      "A": "Tight-fitting cotton protective clothing (overalls/dungarees)",
+      "B": "Loose nylon aprons with long ties",
+      "C": "Flowing woolen shawls",
+      "D": "Loose ties and scarves"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are loose clothes, ties, or unbuttoned sleeves strictly prohibited near rotating machine spindles?",
+    "options": {
+      "A": "They catch dust easily",
+      "B": "They can get entangled in moving spindles, pulling the worker into the machine and causing fatal injuries",
+      "C": "They reduce machine cutting speed",
+      "D": "They alter the electrical voltage of the shop"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What standard protective clothing is entitlement-issued to Welders and Thermal Cutters in railway workshops?",
+    "options": {
+      "A": "Chrome leather apron, leather sleeves, leather leg gaiters, heat-resistant leather gloves, and welding helmet/face shield",
+      "B": "Thin nylon jacket and rubber chappals",
+      "C": "Plastic raincoat and cotton socks",
+      "D": "Woolen sweater and paper mask"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must protective aprons and sleeves for Welders be made of heavy Chrome Leather or split leather?",
+    "options": {
+      "A": "Leather is cheap",
+      "B": "Leather resists hot molten metal spatter, sparks, and thermal radiation without catching fire or melting onto skin",
+      "C": "Leather makes the welder look stylish",
+      "D": "Leather absorbs water efficiently"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which material is strictly PROHIBITED for protective clothing worn by Welders and Gas Cutters?",
+    "options": {
+      "A": "Heavy cotton denim",
+      "B": "Synthetic fibers like Nylon, Polyester, or Rayon",
+      "C": "Split chrome leather",
+      "D": "Flame-retardant treated cotton"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why are synthetic fabrics (Nylon/Polyester) dangerous near welding spatters and open flames?",
+    "options": {
+      "A": "They stain easily",
+      "B": "They melt rapidly upon contact with heat/sparks and fuse directly to human skin, causing severe deep burns",
+      "C": "They reflect arc light",
+      "D": "They make loud noises"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What specialized protective clothing is issued to Battery Room Attendants and Acid Handlers?",
+    "options": {
+      "A": "Acid-proof rubber/PVC apron, long heavy-duty elbow-length neoprene gloves, acid-resistant gumboots, and full-face shield",
+      "B": "Leather shoes and woolen gloves",
+      "C": "Cotton shirt and canvas shoes",
+      "D": "Paper apron and plastic goggles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must footwear for Battery Room Attendants be acid-resistant gumboots made of specialized rubber/PVC?",
+    "options": {
+      "A": "To prevent feet from getting wet during rain",
+      "B": "To prevent sulfuric acid splashes/spills from burning feet and destroying regular leather footwear",
+      "C": "To increase walking speed",
+      "D": "To absorb electrical static completely"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Foundry workers, Blacksmiths, and Forge Shop staff?",
+    "options": {
+      "A": "Heat-resistant aluminized/leather apron, heat-insulating gloves, leather leg guards, face shield, and steel-toe safety boots",
+      "B": "Sleeveless cotton vest and sandals",
+      "C": "Nylon raincoat and rubber gloves",
+      "D": "Paper cap and plastic apron"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What function does an 'Aluminized Heat-Reflective Apron / Suit' serve in forge and furnace shops?",
+    "options": {
+      "A": "Reflects up to 90% of intense radiant heat away from the worker's body",
+      "B": "Keeps the worker cold during winter",
+      "C": "Protects against electric shock",
+      "D": "Prevents dust accumulation on clothes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Machinists, Turners, and Fitters in machine shops are entitlement-issued which basic protective clothing?",
+    "options": {
+      "A": "Tight-fitting cotton Boiler Suits (Dungarees/Overalls) and Steel-Toe Safety Shoes",
+      "B": "Loose wool coats and leather sandals",
+      "C": "Rubber aprons and plastic helmets",
+      "D": "Raincoats and rubber gloves"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard supply periodicity (replacement interval) for Boiler Suits / Dungarees issued to shop floor staff?",
+    "options": {
+      "A": "2 pairs every 12 months (or as per Railway Board scale of supply rules)",
+      "B": "1 pair every 10 years",
+      "C": "5 pairs every month",
+      "D": "Once during the entire service career"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which Indian Standard (IS) code governs the technical specification for Industrial Safety Shoes issued to railway staff?",
+    "options": {
+      "A": "IS 15298",
+      "B": "IS 9001",
+      "C": "IS 2000",
+      "D": "IS 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Safety shoes issued to shop floor staff must feature a steel toe-cap capable of withstanding an impact energy of at least:",
+    "options": {
+      "A": "200 Joules",
+      "B": "10 Joules",
+      "C": "5 Joules",
+      "D": "1 Joule"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Spray Painters in coach painting shops?",
+    "options": {
+      "A": "Lint-free overall protective suits, organic vapor air-purifying respirators, nitrile gloves, and chemical safety goggles",
+      "B": "Leather aprons and wool caps",
+      "C": "Sleeveless vests and bare hands",
+      "D": "Gumboots and welding shield"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are 'Lint-Free' protective suits mandatory in spray painting booths?",
+    "options": {
+      "A": "To prevent loose fabric fibers (lint) from shedding onto freshly painted coach surfaces and damaging paint finish",
+      "B": "Because lint causes paint fumes to explode",
+      "C": "Because lint absorbs paint solvents",
+      "D": "To make the painter warm"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What respiratory protective gear is entitlement-issued to Spray Painters to guard against toxic solvent vapors?",
+    "options": {
+      "A": "Half-mask / Full-face Mask with Activated Carbon Chemical Cartridge Filter",
+      "B": "Simple surgical paper mask",
+      "C": "Cotton handkerchief tied on nose",
+      "D": "Woolen scarf"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing is issued to staff working on high-voltage electrical switchgear and Metro Third Rail / Overhead lines?",
+    "options": {
+      "A": "Arc-Flash Resistant Protective Suit, Electrical Insulating Rubber Gloves, and Non-Conductive Dielectric Safety Shoes",
+      "B": "Steel mesh chainmail suit and wet cotton gloves",
+      "C": "Nylon raincoat and metal-soled boots",
+      "D": "Bare canvas shoes and bare hands"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Electrical Insulating Rubber Gloves issued to high-voltage electricians are manufactured and tested according to which IS standard?",
+    "options": {
+      "A": "IS 4770 / IEC 60903",
+      "B": "IS 1000",
+      "C": "IS 500",
+      "D": "IS 1234"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Before using Electrical Insulating Gloves, what simple daily air-leakage test must be performed by the electrician?",
+    "options": {
+      "A": "Air Roll Test (rolling cuff tightly towards fingers to trap air and checking for punctures/leaks under pressure)",
+      "B": "Water Dip Test in boiling water",
+      "C": "Flame Test with matchstick",
+      "D": "Stretching with pliers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are outer Leather Protector Gloves worn OVER Electrical Insulating Rubber Gloves?",
+    "options": {
+      "A": "To protect the inner dielectric rubber glove from mechanical cuts, punctures, abrasions, and sharp edges",
+      "B": "To make hands look bigger",
+      "C": "To keep inner gloves wet",
+      "D": "To reflect light"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is an 'Arc-Flash Suit' issued to sub-station staff designed to protect against?",
+    "options": {
+      "A": "Extreme thermal energy, explosive blast pressure, and molten metal droplets generated during an electrical arc fault",
+      "B": "Rainwater leakage",
+      "C": "Cold wind draft",
+      "D": "Dust accumulation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Arc-Flash protective suits are rated in terms of thermal protection capability measured in:",
+    "options": {
+      "A": "Calories per square centimeter (cal/cm²)",
+      "B": "Kilograms per square meter",
+      "C": "Volts per meter",
+      "D": "Amperes per hour"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Track Maintenance / Shunting / Yard staff working near running train lines?",
+    "options": {
+      "A": "High-Visibility Retro-Reflective Safety Vests / Jackets (Luminescent Orange/Yellow)",
+      "B": "Black dark raincoats without stripes",
+      "C": "White formal shirts",
+      "D": "Dark blue blankets"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "High-Visibility safety jackets worn by yard and track staff must conform to which performance standard?",
+    "options": {
+      "A": "EN ISO 20471 / IS 15809 (Class 2 or Class 3 high-visibility garments)",
+      "B": "IS 100",
+      "C": "IS 500",
+      "D": "IS 2000"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is Retro-Reflective tape integrated onto High-Visibility jackets for night-shift yard workers?",
+    "options": {
+      "A": "It bounces engine headlight beams directly back to train drivers, making workers visible from long distances in the dark",
+      "B": "It keeps the jacket clean",
+      "C": "It generates electrical power",
+      "D": "It acts as a heating element"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective gear entitlement is provided to Sanitation staff, ETP plant workers, and Drain Cleaners in workshops?",
+    "options": {
+      "A": "Waterproof heavy-duty gumboots, long PVC gloves, face masks/respirators, and water-repellent protective aprons",
+      "B": "Canvas shoes and cotton gloves",
+      "C": "Leather shoes and paper cap",
+      "D": "Bare feet and bare hands"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Industrial Safety Helmets (Hard Hats) issued to workshop staff must conform to which Indian Standard?",
+    "options": {
+      "A": "IS 2925",
+      "B": "IS 1000",
+      "C": "IS 5000",
+      "D": "IS 9001"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety helmet color coding standard across railway workshops, WHITE helmets are typically worn by:",
+    "options": {
+      "A": "Site Engineers, Officers, Supervisors (JE/SSE), and Official Visitors",
+      "B": "Unskilled helpers only",
+      "C": "Contractor laborers only",
+      "D": "Welder trainees only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety helmet color coding, YELLOW helmets are standardly worn by:",
+    "options": {
+      "A": "General Shop Floor Workers / Technicians / Laborers",
+      "B": "Chief Works Manager",
+      "C": "Medical Doctors",
+      "D": "Safety Officers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety helmet color coding, RED helmets are standardly designated for:",
+    "options": {
+      "A": "Firefighting Staff / Safety Marshals",
+      "B": "Office Clerks",
+      "C": "Store Keepers",
+      "D": "Civil Engineers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety helmet color coding, BLUE helmets are commonly assigned to:",
+    "options": {
+      "A": "Electrical Staff / Maintenance Technicians / Electricians",
+      "B": "Canteen Staff",
+      "C": "Security RPF Guards",
+      "D": "Painters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In safety helmet color coding, GREEN helmets are standardly worn by:",
+    "options": {
+      "A": "Safety Officers / Environmental & Safety Team Members",
+      "B": "Crane Drivers",
+      "C": "Turners",
+      "D": "Store Ward Keepers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary function of the Internal Harness (Suspension Cradle) inside a safety helmet?",
+    "options": {
+      "A": "Absorbs and dissipates the impact energy of a falling object, maintaining a 25-50 mm clearance gap from the skull",
+      "B": "Keeps the helmet floating on water",
+      "C": "Holds hair oil",
+      "D": "Stores small tools"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a safety helmet sustains a severe impact from a falling object, what must be done with it immediately?",
+    "options": {
+      "A": "It must be permanently replaced and scrapped, even if no visible exterior cracks are apparent",
+      "B": "Wiped with oil and re-issued",
+      "C": "Painted over and used for another 10 years",
+      "D": "Given to visitors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum shelf life / service life generally recommended for Industrial Safety Helmets exposed to sunlight/UV?",
+    "options": {
+      "A": "3 to 5 years from date of issue (or per manufacturer specification)",
+      "B": "50 years",
+      "C": "100 years",
+      "D": "1 month"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Eye and Face Protection equipment (goggles, face shields) must conform to which Indian Standard code?",
+    "options": {
+      "A": "IS 5983",
+      "B": "IS 100",
+      "C": "IS 200",
+      "D": "IS 500"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of eye protection protective gear is issued to staff working on bench grinders?",
+    "options": {
+      "A": "Impact-Resistant Polycarbonate Safety Spectacles / Goggles with side shields",
+      "B": "Dark shade 12 welding glass",
+      "C": "Reading magnifying glasses",
+      "D": "Paper eye shades"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are side shields mandatory on safety spectacles worn in grinding and metal machining sections?",
+    "options": {
+      "A": "To prevent flying high-speed metal chips and grit from entering eyes from lateral angles",
+      "B": "To block air movement",
+      "C": "To hold glasses on ears",
+      "D": "To improve worker vision"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective ear wear entitlement is provided to staff working in high-noise areas (>85 dBA) like forging shops or riveting bays?",
+    "options": {
+      "A": "Ear Plugs (Polyurethane foam) or Ear Muffs conforming to IS 9167",
+      "B": "Cotton wool wads",
+      "C": "Paper towels",
+      "D": "Cloth headband"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Ear Muffs reduce ambient noise levels by approximately how many decibels (Noise Reduction Rating - NRR)?",
+    "options": {
+      "A": "20 to 30 dBA NRR",
+      "B": "5 dBA NRR",
+      "C": "100 dBA NRR",
+      "D": "0 dBA NRR"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective gloves entitlement is provided to Sheet Metal Workers and Material Handlers dealing with sharp steel plates?",
+    "options": {
+      "A": "Cut-Resistant Gloves (Kevlar / High-Performance Polyethylene - HPPE fiber or heavy chrome leather gloves)",
+      "B": "Thin surgical latex gloves",
+      "C": "Thin cotton gloves",
+      "D": "Bare hands"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under European EN 388 standard for mechanical protective gloves, what four performance levels are tested?",
+    "options": {
+      "A": "Abrasion resistance, Cut resistance, Tear resistance, and Puncture resistance",
+      "B": "Water, Fire, Air, Earth resistance",
+      "C": "Color, Weight, Size, Price",
+      "D": "Length, Width, Height, Volume"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to staff working in cold storage rooms or outdoor night shifts during extreme winter?",
+    "options": {
+      "A": "Winter Protective Gear (Padded Jackets / Parkas / Greatcoats and Woolen Gloves)",
+      "B": "Cotton boiler suits only",
+      "C": "Plastic aprons",
+      "D": "Leather gaiters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is issued to outdoor line staff during monsoon seasons?",
+    "options": {
+      "A": "Waterproof Raincoats / Two-piece Rain Suits with Hoods and High-Visibility Reflective Strips",
+      "B": "Woolen sweaters",
+      "C": "Leather jackets",
+      "D": "Canvas aprons"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of safety harness protective gear is issued for work at heights exceeding 1.8 meters?",
+    "options": {
+      "A": "Full Body Harness with Dual Lanyards and Energy Absorber conforming to IS 3521 / EN 361",
+      "B": "Single waist rope belt",
+      "C": "Leather wrist strap",
+      "D": "Cotton towel belt"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are old-style single Body Belts (waist belts) NO LONGER permitted for fall protection at height?",
+    "options": {
+      "A": "During a fall, waist belts cause severe internal organ damage and spinal snapping due to concentrated impact load",
+      "B": "Because they are too expensive",
+      "C": "Because they slip off easily",
+      "D": "Because they fade in color"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of the 'Energy Absorber / Shock Absorber Pack' attached to a safety harness lanyard?",
+    "options": {
+      "A": "Tears open progressively during a fall to limit arresting shock force on the human body to under 6 kN",
+      "B": "Increases fall speed",
+      "C": "Holds tools in place",
+      "D": "Pumps air into boots"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective gear entitlement is provided to staff operating high-pressure water jet washing equipment for Metro coaches?",
+    "options": {
+      "A": "Waterproof suit, face shield, heavy-duty rubber gumboots, and water-impermeable safety gloves",
+      "B": "Cotton boiler suit and canvas shoes",
+      "C": "Leather apron and welding mask",
+      "D": "Bare shirt and slippers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective respiratory gear is issued to staff working in dusty environments like shot-blasting or sand-blasting bays?",
+    "options": {
+      "A": "Positive-Pressure Supplied-Air Blasting Helmet / Hood with continuous fresh air supply",
+      "B": "Paper dust mask",
+      "C": "Cloth surgical mask",
+      "D": "Cotton scarf"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Shot-blasting helmet protective visors feature replaceable outer clear covers because:",
+    "options": {
+      "A": "Abrasive grit flying at high speed frosted/pits the visor glass rapidly, reducing visibility",
+      "B": "They change color daily",
+      "C": "They are made of paper",
+      "D": "To change helmet weight"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Crane Drivers and EOT Crane Operators?",
+    "options": {
+      "A": "Flame-retardant tight-fitting overalls, safety shoes, safety helmet, and anti-glare safety glasses",
+      "B": "Flowing aprons and sandals",
+      "C": "Loose coats and wool gloves",
+      "D": "Raincoats inside air-conditioned cabin"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective leg gear is entitlement-issued to Welders to prevent hot slag from falling inside safety shoes?",
+    "options": {
+      "A": "Leather Gaiters / Leg Covers worn over shoe tops",
+      "B": "Woolen socks",
+      "C": "Nylon stockings",
+      "D": "Plastic ankle bands"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why should safety shoe trousers/dungaree pants fall OVER the outside of shoe tops rather than being tucked inside?",
+    "options": {
+      "A": "Prevents hot sparks, welding slag, or acid splashes from sliding down inside the boots",
+      "B": "To hide shoe laces",
+      "C": "To keep pants clean",
+      "D": "To make walking quieter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which authority in a Railway Workshop is responsible for assessing shop floor hazards and fixing protective clothing scales of supply?",
+    "options": {
+      "A": "Workshop Safety Committee / Chief Works Manager (CWM) in consultation with Safety Officer & Stores",
+      "B": "Canteen contractor",
+      "C": "Outside vendor clerk",
+      "D": "Trade union treasurer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Railway Board rules, if protective clothing is damaged prematurely during bona fide duty performance, what procedure is followed?",
+    "options": {
+      "A": "Replaced out-of-turn on supervisory recommendation and survey endorsement without waiting for full periodicity",
+      "B": "Worker is fined 10 months salary",
+      "C": "Worker is forced to work without protective gear",
+      "D": "Shop is closed down"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What register is maintained by the Shop SSE to record protective clothing and PPE distribution to individual workers?",
+    "options": {
+      "A": "Protective Clothing & PPE Issue Register (signed by employee upon receipt)",
+      "B": "Muster Roll",
+      "C": "Pass Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Employee signature/acknowledgment on the PPE Issue Register proves:",
+    "options": {
+      "A": "Statutory compliance that administration provided mandatory safety gear and employee accepted custody",
+      "B": "Employee received cash loan",
+      "C": "Employee applied for leave",
+      "D": "Employee passed D&AR inquiry"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Are railway workshop staff permitted to take home specialized hazardous protective clothing (e.g., lead aprons, asbestos/chemical suits)?",
+    "options": {
+      "A": "No, contaminated protective clothing must remain in workshop lockers and be cleaned under shop arrangements",
+      "B": "Yes, mandatory to take home daily",
+      "C": "Yes, to use as family wear",
+      "D": "Yes, to sell in market"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under the Factories Act 1948, who bears the cost of providing mandatory protective clothing and safety equipment to workshop employees?",
+    "options": {
+      "A": "Employer (Railway Administration) - provided completely FREE of cost to employees",
+      "B": "50% paid by worker, 50% by Railway",
+      "C": "100% paid by worker from personal salary",
+      "D": "Paid by staff benefit fund loan"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Can an employer charge any fee or collect deposit from a worker for issuing mandatory protective clothing?",
+    "options": {
+      "A": "No, Section 114A of Factories Act strictly prohibits charging any fee from workers for statutory safety gear",
+      "B": "Yes, ₹1000 per shirt",
+      "C": "Yes, 10% monthly deduction",
+      "D": "Yes, security deposit required"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the statutory obligation of employees regarding protective clothing issued to them under Factories Act Section 111?",
+    "options": {
+      "A": "Employees must wear/use issued protective gear regularly during duty hours and take reasonable care of it",
+      "B": "Keep protective gear locked in trunk at home",
+      "C": "Sell gear to colleagues",
+      "D": "Refuse to wear protective gear"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Refusal or willful neglect by a worker to wear mandatory protective gear during hazardous operations constitutes:",
+    "options": {
+      "A": "Safety violation and misconduct punishable under Railway D&AR rules",
+      "B": "Eligible behavior for cash bonus",
+      "C": "Work efficiency achievement",
+      "D": "Ground for immediate promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of protective face protection is entitlement-issued for Chippers and Hand Grinders?",
+    "options": {
+      "A": "Full-Face Transparent Polycarbonate Visor / Shield (IS 8521 standard)",
+      "B": "Dark black welding shield",
+      "C": "Paper eye patch",
+      "D": "Cloth veil"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is a Full-Face Shield superior to safety spectacles for heavy grinding operations?",
+    "options": {
+      "A": "Protects the ENTIRE face (forehead, cheeks, chin, neck) from flying high-speed wheel fragments and debris",
+      "B": "Keeps face warm in winter",
+      "C": "Makes worker look tall",
+      "D": "Reduces machine sound"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What specialized protective gloves entitlement is provided to Riggers and Slingers handling heavy wire ropes?",
+    "options": {
+      "A": "Heavy-duty Chrome Leather Palms with reinforced canvas back gloves",
+      "B": "Thin rubber surgical gloves",
+      "C": "Bare cotton gloves",
+      "D": "Plastic disposable gloves"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are leather-palm gloves necessary when handling steel wire ropes?",
+    "options": {
+      "A": "Prevents broken individual wire strands ('jaggers') from puncturing palms during rigging",
+      "B": "Increases rope weight",
+      "C": "Keeps wire rope dry",
+      "D": "Prevents rope rusting"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is issued to Transformer Oil Testing & Maintenance staff?",
+    "options": {
+      "A": "Oil-resistant Neoprene/Nitrile gloves, oil-proof apron, and anti-skid oil-resistant safety boots",
+      "B": "Woolen suits and canvas shoes",
+      "C": "Leather aprons and bare feet",
+      "D": "Paper suits"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are standard natural rubber gloves UNSUITABLE for handling transformer oil or petroleum solvents?",
+    "options": {
+      "A": "Petroleum hydrocarbons swell, dissolve, and degrade natural rubber rapidly, destroying its protective barrier",
+      "B": "Rubber catches fire automatically in oil",
+      "C": "Rubber turns oil blue",
+      "D": "Rubber makes oil freeze"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective material is recommended for gloves used when handling organic solvents (like toluene, thinners, xylene)?",
+    "options": {
+      "A": "Nitrile, Viton, or Solvent-Resistant Polyvinyl Alcohol (PVA) material",
+      "B": "Cotton fabric",
+      "C": "Thin latex rubber",
+      "D": "Paper fiber"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Radiographer staff performing Non-Destructive Industrial X-Ray testing?",
+    "options": {
+      "A": "Lead Apron (0.5 mm lead equivalent protection) and TLD Radiation Dosimeter Badge",
+      "B": "Leather apron and goggles",
+      "C": "Rubber boots and helmet",
+      "D": "Aluminized fire suit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of a TLD Badge worn on protective clothing by NDT Industrial Radiographers?",
+    "options": {
+      "A": "Thermoluminescent Dosimeter badge that measures cumulative ionizing radiation exposure dose absorbed by the worker",
+      "B": "Measures body temperature",
+      "C": "Acts as identity card for gate entry",
+      "D": "Measures noise level"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective gear entitlement is provided to staff handling fiberglass / composite material repairs on Metro coaches?",
+    "options": {
+      "A": "Disposable Tyvek Protective Coveralls, N95/N100 dust respirators, and Nitrile gloves",
+      "B": "Bare sleeveless shirts",
+      "C": "Leather aprons and boots",
+      "D": "Woolen sweaters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are Disposable Tyvek Coveralls used during fiberglass grinding work?",
+    "options": {
+      "A": "Prevents microscopic glass fibers from embedding in skin pores and work clothes, eliminating severe skin irritation and dermatitis",
+      "B": "Tyvek keeps glass fibers warm",
+      "C": "Tyvek absorbs resin odor",
+      "D": "Tyvek turns glass into liquid"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is issued to Boiler Attendants and Steam Plant operators?",
+    "options": {
+      "A": "Flame-retardant heavy cotton boiler suits, heat-insulating gloves, leather safety boots, and safety glasses",
+      "B": "Nylon jackets and slippers",
+      "C": "Plastic aprons and rubber gloves",
+      "D": "Bare vest and shorts"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Indian Standard IS 15298 for Safety Footwear, 'P' marking on the boot specification label indicates:",
+    "options": {
+      "A": "Penetration Resistance (Puncture-resistant steel/Kevlar midsole plate protecting against nails)",
+      "B": "Plastic body",
+      "C": "Price code",
+      "D": "Personal size"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under IS 15298, 'A' marking on safety footwear label indicates:",
+    "options": {
+      "A": "Antistatic Footwear properties (dissipating electrostatic charges to ground)",
+      "B": "Acid proof 100%",
+      "C": "Air cushioned heel",
+      "D": "Aluminum toe cap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under IS 15298, 'E' marking on safety footwear label indicates:",
+    "options": {
+      "A": "Energy Absorption of the heel seat region (minimizing foot fatigue and heel shock)",
+      "B": "Electrical high voltage insulation",
+      "C": "Extra large size",
+      "D": "Emergency release buckle"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under IS 15298, 'WRU' marking on safety footwear label indicates:",
+    "options": {
+      "A": "Water Resistant Upper leather material",
+      "B": "Wide Rubber Under-sole",
+      "C": "Wear Reduction Unit",
+      "D": "Winter Reinforced Union"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under IS 15298, 'HRO' marking on safety footwear label indicates:",
+    "options": {
+      "A": "Heat Resistant Outsole (outsole withstands 300°C contact heat for 60 seconds without melting)",
+      "B": "Heavy Duty Rubber Outer",
+      "C": "High Range Operation",
+      "D": "Hazardous Radiation Protection"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard color for High-Visibility safety jackets worn by railway personnel working on active tracks?",
+    "options": {
+      "A": "Fluorescent High-Visibility Orange / Yellow",
+      "B": "Dark Navy Blue",
+      "C": "Olive Green",
+      "D": "Black"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is Fluorescent Orange chosen for Railway Track High-Visibility safety clothing?",
+    "options": {
+      "A": "Provides maximum visual contrast against natural outdoor greenery, ballast, and railway surroundings during daylight and twilight",
+      "B": "Orange is the cheapest dye",
+      "C": "Orange reflects water drops",
+      "D": "Orange keeps body cool"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Woodworking Machinery Operators in pattern shops?",
+    "options": {
+      "A": "Close-fitting cotton overalls, safety goggles, dust respirator mask, and anti-slip safety shoes",
+      "B": "Loose flowing coats and leather aprons",
+      "C": "Rubber aprons and gumboots",
+      "D": "Asbestos fire suits"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why should Woodworking Machinery Operators avoid wearing gloves while operating high-speed circular saws or planers?",
+    "options": {
+      "A": "Glove material can get snagged by spinning saw teeth, instantly dragging fingers into the cutter",
+      "B": "Gloves smudge wood surface",
+      "C": "Gloves reduce wood dryness",
+      "D": "Gloves make noise"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is provided to Chemical Laboratory Technicians (CMT wing) in workshops?",
+    "options": {
+      "A": "White Cotton Laboratory Coat, Nitrile/Neoprene Chemical Gloves, and Safety Eyewear with side shields",
+      "B": "Boiler suit and gumboots",
+      "C": "Leather welding apron",
+      "D": "High-visibility orange vest"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are 100% Cotton Lab Coats preferred over synthetic coats in chemical testing laboratories?",
+    "options": {
+      "A": "Cotton does not melt or fuse to skin when exposed to chemical splashes or accidental small flames",
+      "B": "Cotton is waterproof",
+      "C": "Cotton reflects acid vapors",
+      "D": "Cotton shines in dark"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective neck/head gear entitlement is provided to Sand/Shot Blasting operators along with heavy blasting suits?",
+    "options": {
+      "A": "Heavy Canvas / Leather Cape protecting shoulders, neck, and chest from ricocheting steel shot grit",
+      "B": "Woolen scarf",
+      "C": "Paper collar",
+      "D": "Plastic tie"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard periodicity for inspecting and re-certifying High-Voltage Electrical Rubber Insulating Gloves?",
+    "options": {
+      "A": "Every 6 months (electrical proof-pressure retesting as per IS 4770 / IEC 60903 standards)",
+      "B": "Once in 50 years",
+      "C": "Never tested after purchase",
+      "D": "Every 10 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an Electrical Insulating Glove fails its 6-month dielectric proof test, what must be done with it immediately?",
+    "options": {
+      "A": "Destroyed/cut at cuff and scrapped permanently to prevent accidental electrical reuse",
+      "B": "Patched with rubber tape and re-issued",
+      "C": "Used for water washing",
+      "D": "Issued to turners"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective clothing entitlement is issued to staff inspecting underframes of Metro rakes from deep maintenance pits?",
+    "options": {
+      "A": "Hard hat helmet with integrated LED Headlamp, protective coverall, safety glasses, and steel-toe boots",
+      "B": "Raincoat and gumboots only",
+      "C": "Welding mask and apron",
+      "D": "Bare canvas shoes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is an integrated Headlamp on safety helmets crucial for pit inspection staff?",
+    "options": {
+      "A": "Provides hands-free illumination of dark coach underframe components, traction motors, and brake rigging",
+      "B": "Keeps head warm",
+      "C": "Looks decorative",
+      "D": "Signals train driver"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How should oily or grease-soaked protective boiler suits be laundered and maintained?",
+    "options": {
+      "A": "Cleaned regularly using industrial degreasing laundering under shop/contract arrangements to preserve flame-retardant properties",
+      "B": "Never washed",
+      "C": "Washed with acid",
+      "D": "Burned after single use"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why does excessive accumulation of grease and oil on flame-retardant cotton protective suits defeat their safety purpose?",
+    "options": {
+      "A": "Trapped flammable oils catch fire easily when exposed to welding sparks, causing the suit to burn despite underlying flame-retardant fabric",
+      "B": "Oil makes the suit heavy",
+      "C": "Oil changes garment size",
+      "D": "Oil turns garment yellow"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective entitlement is issued to staff working in outdoor storage yards during scorching summer sun?",
+    "options": {
+      "A": "Wide-brim UV safety helmets / neck shade attachments, UV-filtering safety sunglasses, and breathable cotton long-sleeve shirts",
+      "B": "Woolen coats",
+      "C": "Plastic raincoats",
+      "D": "Bare shirt"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What protective footwear features are mandatory for staff working on slick, oil-covered machine shop floors?",
+    "options": {
+      "A": "Slip-Resistant Soles (SRC rating under IS 15298 tested on ceramic tile with sodium lauryl sulfate and steel floor with glycerol)",
+      "B": "Smooth leather flat soles",
+      "C": "Wooden clogs",
+      "D": "Plastic shoes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In ISO 4501 / OHSAS Occupational Health & Safety Management Systems, where does 'Protective Clothing & PPE' rank in the Hierarchy of Hazard Controls?",
+    "options": {
+      "A": "At the BOTTOM (Level 5 - Last line of defense after Elimination, Substitution, Engineering Controls, and Administrative Controls)",
+      "B": "At the TOP (Level 1 - First choice)",
+      "C": "It is not included in safety systems",
+      "D": "It replaces engineering controls entirely"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is proper sizing and fitting of protective clothing (boiler suits, safety boots, gloves) essential for shop staff safety?",
+    "options": {
+      "A": "Ill-fitting gear causes trip hazards (oversized boots/pants) or restricts movement/blood circulation (undersized gear), increasing accident risk",
+      "B": "Proper sizing is only for fashion aesthetics",
+      "C": "Proper sizing reduces garment price",
+      "D": "Proper sizing eliminates machine repair"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is strict adherence to staff protective clothing entitlements and specifications vital for a Junior Engineer (JE) in Metro Railway Kolkata?",
+    "options": {
+      "A": "Guarantees worker health and safety compliance, prevents occupational diseases/injuries, avoids statutory Factory Inspector penalties, and maintains high workshop productivity",
+      "B": "To increase paper filing in office",
+      "C": "To delay coach maintenance turnaround times",
+      "D": "To exhaust workshop budget intentionally"
+    },
+    "answer": "A"
+  }
+]
+}
