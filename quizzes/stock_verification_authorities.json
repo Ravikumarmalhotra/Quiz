@@ -1,0 +1,1004 @@
+{
+[
+  {
+    "question": "What is the primary objective of Stock Verification in Indian Railways and Metro Railway store management?",
+    "options": {
+      "A": "To verify that physical stock balances match book balances and prevent leakage, theft, or accounting errors",
+      "B": "To increase the basic pay of store keepers",
+      "C": "To calculate daily overtime allowance for shop staff",
+      "D": "To prepare train running schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which department in Indian Railways / Metro Railway holds independent administrative control over the Stock Verification Branch?",
+    "options": {
+      "A": "Stores Department",
+      "B": "Accounts Department (headed by Principal Financial Adviser - PFA)",
+      "C": "Personnel Branch",
+      "D": "Civil Engineering Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is Stock Verification kept independent of the Stores and User Departments?",
+    "options": {
+      "A": "To ensure unbiased, impartial, and objective physical auditing of inventory",
+      "B": "To save office paper",
+      "C": "Because Stores staff do not know counting",
+      "D": "To delay procurement of materials"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the field-level official from Accounts authorized to conduct physical stock counting in store depots and user wards?",
+    "options": {
+      "A": "Accounts Stock Verifier (ASV)",
+      "B": "Time Keeper",
+      "C": "Shop Floor Welder",
+      "D": "Personnel Officer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who supervises the work of Accounts Stock Verifiers (ASVs) and conducts test verifications?",
+    "options": {
+      "A": "Inspector of Stores Accounts (ISA)",
+      "B": "Chief Ticket Inspector",
+      "C": "Station Master",
+      "D": "Canteen Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard periodicity for physical Stock Verification of 'A' Category stock items?",
+    "options": {
+      "A": "Once every 6 months (or annually as per prescribed store code rules)",
+      "B": "Once every 5 years",
+      "C": "Once in 10 years",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard periodicity for physical Stock Verification of 'B' Category stock items?",
+    "options": {
+      "A": "Once every 12 months (Once a year)",
+      "B": "Once every 3 months",
+      "C": "Once in 6 years",
+      "D": "Daily every shift"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard periodicity for physical Stock Verification of 'C' Category stock items?",
+    "options": {
+      "A": "Once in 2 years (24 months)",
+      "B": "Every week",
+      "C": "Every month",
+      "D": "Once in 15 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often are high-value Non-Ferrous metal scrap and vital stores (like copper, brass) verified?",
+    "options": {
+      "A": "Once every 6 months / frequent surprise verifications",
+      "B": "Once in 10 years",
+      "C": "Only when store keeper retires",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard periodicity for verifying Imprest Stores held by Shop Senior Section Engineers (SSEs)?",
+    "options": {
+      "A": "Once a year (Annually)",
+      "B": "Once in 5 years",
+      "C": "Daily",
+      "D": "Once in 10 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the periodicity for physical verification of Tool Room stock and Tools & Plant (T&P) items?",
+    "options": {
+      "A": "Once a year (Annually)",
+      "B": "Once in 20 years",
+      "C": "Every 2 hours",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often should bulk liquid fuel, diesel, and lubricants in major depots undergo physical stock verification?",
+    "options": {
+      "A": "Monthly / Quarterly (or as per specialized depot schedules)",
+      "B": "Once in 5 years",
+      "C": "Once in 10 years",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Surprise Stock Verification'?",
+    "options": {
+      "A": "Unannounced physical stock verification conducted without prior notice to the custodian to check actual integrity",
+      "B": "Verification done during festival celebrations",
+      "C": "Verification conducted by outside private parties",
+      "D": "Verification done via phone call"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Special Stock Verification'?",
+    "options": {
+      "A": "Verification ordered specifically on suspicion of fraud, theft, heavy leakage, or by order of PFA/CWM",
+      "B": "Routine annual verification",
+      "C": "Verification of office stationery only",
+      "D": "Verification of canteen snacks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a Store Keeper or Custodian SSE is transferred or hands over charge, which verification must be conducted?",
+    "options": {
+      "A": "Transfer-of-Charge / Handing Over Stock Verification (Joint Verification)",
+      "B": "No verification required",
+      "C": "Verification after 2 years",
+      "D": "Verbal agreement only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the physical tally sheets during a Handing/Taking over stock verification?",
+    "options": {
+      "A": "Both outgoing and incoming Custodians, along with the Stock Verifier / Departmental Representative",
+      "B": "Outgoing Custodian alone",
+      "C": "Incoming Custodian alone",
+      "D": "Gate watchman alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Departmental Stock Verification'?",
+    "options": {
+      "A": "Physical verification conducted internally by officers/supervisors of the user department itself",
+      "B": "Verification conducted by State Police",
+      "C": "Verification done by local bank",
+      "D": "Verification done by trade union"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Does Departmental Stock Verification replace independent Accounts Stock Verification?",
+    "options": {
+      "A": "No, it is supplementary to Accounts Stock Verification and does not substitute statutory Accounts verification",
+      "B": "Yes, it completely cancels Accounts verification",
+      "C": "Yes, if approved by clerk",
+      "D": "Yes, in all cases"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated by the Accounts Stock Verifier when a discrepancy (shortage or surplus) is discovered during physical verification?",
+    "options": {
+      "A": "Accounts Stock Sheet (Form S-2311 / S-2312 or equivalent)",
+      "B": "Pass Application Form",
+      "C": "Gate Entry Token",
+      "D": "Medical Memo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Shortage Stock Sheet'?",
+    "options": {
+      "A": "Stock sheet issued when physical stock counted is LESS than the book ledger balance",
+      "B": "Stock sheet issued when physical stock is MORE than book balance",
+      "C": "Stock sheet issued when material is brand new",
+      "D": "Receipt for scrap sale"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Surplus Stock Sheet'?",
+    "options": {
+      "A": "Stock sheet issued when physical stock counted is MORE than the book ledger balance",
+      "B": "Stock sheet issued when stock is zero",
+      "C": "Bill for local purchase",
+      "D": "Attendance sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must 'Surplus Stock' also be investigated thoroughly by Accounts?",
+    "options": {
+      "A": "Surplus may indicate unbooked receipts, improper issue records, accountal manipulation, or hidden shortages in other items",
+      "B": "Surplus means money gained, so no investigation is needed",
+      "C": "To gift the surplus to store keeper",
+      "D": "To throw the surplus away"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Within how many days must a Store Keeper / Custodian SSE submit an official explanation/reply to a Stock Sheet?",
+    "options": {
+      "A": "Within 15 to 30 days of receipt (as specified in store code rules)",
+      "B": "Within 10 years",
+      "C": "Same day within 5 minutes",
+      "D": "Reply is not required"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a custodian fails to explain an unadjusted stock shortage, what action can Accounts take?",
+    "options": {
+      "A": "Issue reminder, raise a Provisional Debit against the custodian's salary, and recommend D&AR action",
+      "B": "Promote the custodian",
+      "C": "Cancel the stock sheet automatically",
+      "D": "Give cash bonus to custodian"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Discrepancy Memo' handed over on the spot by ASV to the custodian?",
+    "options": {
+      "A": "Immediate written memo highlighting stock differences noted during counting before formal Stock Sheet preparation",
+      "B": "Leave application memo",
+      "C": "Medical memo",
+      "D": "Overtime slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is updated and initialed by the Stock Verifier directly at the storage bin/rack upon completing physical count?",
+    "options": {
+      "A": "Bin Card (stamped with verification date, quantity, and ASV initials in red ink)",
+      "B": "Service Book",
+      "C": "Pass Book",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Continuous Stock Verification' system in large Railway Stores Depots?",
+    "options": {
+      "A": "Systematic round-the-year verification program ensuring every stock item is physically counted within its prescribed cycle without shutting down depot",
+      "B": "Counting all items in 1 single day by closing depot",
+      "C": "Verification done only once in 20 years",
+      "D": "Verification done by robot only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main advantage of Continuous Stock Verification over Periodic Annual Closure Verification?",
+    "options": {
+      "A": "Avoids shop/depot work closure, spreads verification load evenly, and detects discrepancies early",
+      "B": "Eliminates need for accounts staff",
+      "C": "Doubles the price of stores",
+      "D": "Increases staff leave"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who prepares and approves the Annual Stock Verification Program for a zonal railway / Metro Railway?",
+    "options": {
+      "A": "Prepared by Stock Verification Branch (ISA) and approved by Principal Financial Adviser (PFA)",
+      "B": "Prepared by store helper",
+      "C": "Prepared by outside private contractor",
+      "D": "Prepared by train driver"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Test Verification' conducted by an Inspector of Stores Accounts (ISA)?",
+    "options": {
+      "A": "Re-checking a sample percentage of items already verified by an ASV to test the accuracy and quality of verification",
+      "B": "Testing chemical purity of oil",
+      "C": "Testing train speed on track",
+      "D": "Testing worker eye sight"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What percentage of stock items is standardly test-verified by ISA during super-checks?",
+    "options": {
+      "A": "Typically 10% to 20% of high-value / critical items verified by ASV",
+      "B": "100% of all items",
+      "C": "0%",
+      "D": "500%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Narrative Report' prepared by an Accounts Stock Verifier after completing verification of a ward?",
+    "options": {
+      "A": "Detailed report submitted to ISA/WAO describing general storage conditions, safety arrangements, bin card updating, and discrepancies found",
+      "B": "Frictional story book",
+      "C": "Personal leave diary",
+      "D": "Canteen food review"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scale Loss' or 'Driage Allowance' in stock verification?",
+    "options": {
+      "A": "Permissible minor weight/volume loss caused by natural evaporation, shrinkage, or handling in volatile liquids, coal, or timber",
+      "B": "Financial theft by worker",
+      "C": "Loss of official files",
+      "D": "Discount given by vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a shortage discovered during stock verification is within approved Scale Loss limits, how is it regularized?",
+    "options": {
+      "A": "Written off as natural loss under technical concurrence and competent sanction",
+      "B": "Recovered from custodian's salary",
+      "C": "Reported to police as theft",
+      "D": "Ignored without any entry"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a stock shortage is proved to be due to custodian negligence or theft, how is the financial loss recovered?",
+    "options": {
+      "A": "Debited directly to personal salary of responsible staff along with disciplinary action under D&AR",
+      "B": "Written off as natural loss",
+      "C": "Debited to CWM personal account",
+      "D": "Debited to passenger fare revenue"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who holds administrative power to write off unavoidable stock losses/shortages up to specified financial limits in Model SOP?",
+    "options": {
+      "A": "Competent Authorities (CWM / DRM / PCMM / PFA / GM as per Model SOP Delegation of Powers)",
+      "B": "Store Peon",
+      "C": "Junior Clerk",
+      "D": "Contractor agent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Sheet Register' maintained in the Accounts Office?",
+    "options": {
+      "A": "Register tracking serial numbers, dates, wards, values, explanations, and final clearance status of all issued stock sheets",
+      "B": "Register of staff leave",
+      "C": "Register of pass issues",
+      "D": "Register of overtime claims"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Sheet Clearance'?",
+    "options": {
+      "A": "Formal closure of a stock sheet after accounts accepts the custodian's explanation, recovery, or write-off sanction",
+      "B": "Throwing stock sheet in dustbin",
+      "C": "Printing stock sheet on green paper",
+      "D": "Deleting accounts database"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is physical verification of bulk timber or steel plates conducted when exact weighing is impractical?",
+    "options": {
+      "A": "By volumetric stack measurement and mathematical density calculation methods prescribed in Store Code",
+      "B": "By guessing randomly",
+      "C": "By asking truck driver",
+      "D": "By counting individual dust particles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is liquid fuel (diesel/oil) stock verified in underground storage tanks?",
+    "options": {
+      "A": "Using calibrated Dip Rods / Sounding Tapes and Tank Calibration Charts with temperature/density correction factors",
+      "B": "By emptying whole tank into buckets",
+      "C": "By visual eye guess from top lid",
+      "D": "By weighing entire underground tank on scale"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the role of RPF (Railway Protection Force) during stock verification of scrap yards and high-value non-ferrous wards?",
+    "options": {
+      "A": "To provide security protection, prevent unauthorized material movement, and witness verification of vulnerable items",
+      "B": "To count stock items on behalf of ASV",
+      "C": "To prepare accounts ledgers",
+      "D": "To fix reserve prices"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the periodicity for physical stock verification of Machinery & Plant (M&P) assets in workshop sections?",
+    "options": {
+      "A": "Once in 3 years (or as per zonal plant verification schedules)",
+      "B": "Daily every morning",
+      "C": "Once in 50 years",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the periodicity for physical verification of Medical Stores in Railway Hospitals / Health Units?",
+    "options": {
+      "A": "Once a year (Annually)",
+      "B": "Once in 10 years",
+      "C": "Daily every hour",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the periodicity for stock verification of Stationery, Forms, and Books held in stores?",
+    "options": {
+      "A": "Once a year / Once in 2 years",
+      "B": "Daily",
+      "C": "Once in 25 years",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway Kolkata, what is the periodicity for verifying passenger Smart Cards and Tokens held in Stores Depot custody?",
+    "options": {
+      "A": "Periodic (Half-yearly / Annual) + Surprise stock checks",
+      "B": "Once in 30 years",
+      "C": "Never verified",
+      "D": "Daily by station cleaner"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary role of iMMIS / WISE software in modern Stock Verification?",
+    "options": {
+      "A": "Generates online book balances, flags verification due dates, records digital field counts, and issues electronic stock sheets",
+      "B": "Calculates employee pension",
+      "C": "Operates train motors automatically",
+      "D": "Prints passenger tickets"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Field Tally Sheet' used by ASV during physical count?",
+    "options": {
+      "A": "Working sheet used on the spot to record raw physical counts, weights, or measurements before matching with ledgers",
+      "B": "Final salary slip",
+      "C": "Railway travel pass",
+      "D": "Medical fitness certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the Field Tally Sheet at the end of physical counting each day?",
+    "options": {
+      "A": "Both the Accounts Stock Verifier (ASV) and the Custodian Store Keeper / SSE",
+      "B": "ASV alone",
+      "C": "Custodian alone",
+      "D": "Outside driver"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a Custodian refuses to sign the Field Tally Sheet or Stock Sheet prepared by ASV, what procedure is followed?",
+    "options": {
+      "A": "ASV records the refusal note, gets it witnessed by another officer/supervisor, and reports immediately to ISA/WAO",
+      "B": "ASV tears off the report",
+      "C": "Verification is cancelled permanently",
+      "D": "ASV goes on leave"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Re-verification' of stock?",
+    "options": {
+      "A": "Second physical check conducted jointly when custodian disputes the initial shortage/surplus figures reported by ASV",
+      "B": "Verification done after 100 years",
+      "C": "Verification done by painting items",
+      "D": "Selling items in auction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "During Joint Re-verification, if the original discrepancy reported by ASV is proved incorrect due to ASV counting error:",
+    "options": {
+      "A": "The stock sheet is withdrawn/cancelled, and explanation is called from ASV by ISA/Accounts",
+      "B": "Store keeper is penalized anyway",
+      "C": "ASV is awarded cash prize",
+      "D": "Items are thrown away"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Adjustment Pass' (or Journal Voucher) in Stores Accounting?",
+    "options": {
+      "A": "Accounting voucher processed to adjust book ledger balances to match actual verified physical stock after sanction",
+      "B": "Gate pass for staff travel",
+      "C": "Medical pass",
+      "D": "Overtime voucher"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Can a Store Keeper adjust book balances on their own without an approved Stock Sheet / Adjustment Pass?",
+    "options": {
+      "A": "No, unauthorized manual adjustment of book ledgers is a serious financial irregularity",
+      "B": "Yes, allowed anytime",
+      "C": "Yes, with clerk permission",
+      "D": "Yes, on festival days"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Scrap Lots' prior to e-auction?",
+    "options": {
+      "A": "Joint physical verification by Stores, Accounts, and RPF to certify lot description, boundary, and estimated weight before bidding",
+      "B": "Selling scrap without looking",
+      "C": "Burning scrap before auction",
+      "D": "Buying new scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the Lot Verification Certificate before a scrap lot is uploaded to IREPS e-Auction catalog?",
+    "options": {
+      "A": "Stores Representative, Accounts Stock Verifier / Representative, and RPF Inspector",
+      "B": "Highest bidder",
+      "C": "Canteen cook",
+      "D": "Unskilled helper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of verifying scrap lot boundaries with red paint markings in the Scrap Yard?",
+    "options": {
+      "A": "To clearly demarcate lot limits and prevent unauthorized merging or lifting of material from adjacent lots",
+      "B": "To make scrap look attractive",
+      "C": "To protect scrap from rain",
+      "D": "To mark vendor ownership"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification Certificate' issued at the end of ward verification?",
+    "options": {
+      "A": "Formal certificate signed by ASV and Custodian stating that physical verification of all items in ward is completed",
+      "B": "Certificate of employee promotion",
+      "C": "Medical fitness card",
+      "D": "Train safety pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Dead Stock Verification'?",
+    "options": {
+      "A": "Verification of non-moving, obsolete, or unserviceable items lingering in stores for long periods",
+      "B": "Verification of deceased staff assets",
+      "C": "Verification of broken bricks",
+      "D": "Verification of paper files"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Dead stock items identified during stock verification are reported to which committee for disposal action?",
+    "options": {
+      "A": "Standing Surplus Committee / Survey Committee",
+      "B": "Staff Benefit Fund Committee",
+      "C": "Canteen Management Committee",
+      "D": "Sports Control Board"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Custody Stores'?",
+    "options": {
+      "A": "Verification of stores materials drawn for specific sanctioned capital works and held in temporary custody of execution SSE",
+      "B": "Verification of personal luggage",
+      "C": "Verification of office furniture",
+      "D": "Verification of uniform cloth"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often should Custody Stores with execution engineers undergo physical stock verification?",
+    "options": {
+      "A": "Annually / Periodically during work currency and mandatory final verification before work order closure",
+      "B": "Once in 100 years",
+      "C": "Never verified",
+      "D": "Daily"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the consequence of failing to verify Custody Stores before closing a Capital Work Order?",
+    "options": {
+      "A": "Unused material remains unaccounted for, leading to capital cost inflation and risk of material loss",
+      "B": "Automatic promotion of engineer",
+      "C": "Reduction in train fares",
+      "D": "No consequence"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which officer in a major Railway Repair Workshop receives the monthly summary report of open/unadjusted Stock Sheets?",
+    "options": {
+      "A": "Chief Works Manager (CWM) / Workshop Accounts Officer (WAO)",
+      "B": "Canteen Manager",
+      "C": "Gate Security Guard",
+      "D": "Station Superintendent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Emergency Breakdown Stores'?",
+    "options": {
+      "A": "Physical check of emergency relief train (ART/ARME) spares and Metro breakdown equipment to ensure 100% readiness",
+      "B": "Checking food in canteen",
+      "C": "Checking tickets at gate",
+      "D": "Checking office air conditioners"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often should Emergency Breakdown Stores (ART/ARME / Metro Breakdown vans) be verified?",
+    "options": {
+      "A": "Periodically (Quarterly / Half-yearly) by departmental officers and annually by Accounts",
+      "B": "Once in 20 years",
+      "C": "Never",
+      "D": "Only after a major accident occurs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Provisional Debit' raised against a store custodian on account of stock shortage?",
+    "options": {
+      "A": "Temporary financial recovery advice issued by Accounts pending final explanation or D&AR inquiry decision",
+      "B": "Permanent cash reward",
+      "C": "Discount on salary tax",
+      "D": "Free railway pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a stock shortage is cleared satisfactorily after explanation, what happens to the Provisional Debit?",
+    "options": {
+      "A": "Provisional debit is withdrawn/credited back to the employee",
+      "B": "Amount is forfeited permanently",
+      "C": "Employee is dismissed",
+      "D": "Amount is gifted to canteen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification Register' maintained by the Shop In-Charge / SSE?",
+    "options": {
+      "A": "Local shop register logging dates of stock verification, items verified, stock sheets received, replies sent, and clearance status",
+      "B": "Casual leave book",
+      "C": "Overtime book",
+      "D": "D&AR book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Railway Code rules, what is the maximum frequency gap permitted between two consecutive verifications for any store item?",
+    "options": {
+      "A": "Must not exceed the maximum prescribed periodicity cycle for its specific ABC category",
+      "B": "100 years",
+      "C": "50 years",
+      "D": "Unlimited gap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification by Sampling'?",
+    "options": {
+      "A": "Auditing technique where random sample items are selected from a large homogeneous batch for detailed physical count",
+      "B": "Counting all items in the world",
+      "C": "Testing food samples in lab",
+      "D": "Sampling water purity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway car depots, stock verification of critical signaling cards and electronic modules is conducted based on:",
+    "options": {
+      "A": "Unique Serial Numbers / Barcodes registered in iMMIS database",
+      "B": "Weight of card in kilograms",
+      "C": "Color of circuit board",
+      "D": "Size of box"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated when an item listed in book ledgers is physically missing/untraceable anywhere in the depot?",
+    "options": {
+      "A": "Shortage Stock Sheet (Untraceable Item Report)",
+      "B": "Work Completion Certificate",
+      "C": "Gate Pass",
+      "D": "Incentive Bill"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated when an unrecorded physical item is found in the depot with no book ledger entry?",
+    "options": {
+      "A": "Surplus Stock Sheet (Unaccounted Material Report)",
+      "B": "Rejection Slip",
+      "C": "Leave Application",
+      "D": "Overtime Slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Misclassification of Stock' detected during verification?",
+    "options": {
+      "A": "Condition where item 'X' is physically stored in bin of item 'Y', causing artificial shortage in X and surplus in Y",
+      "B": "Misbehavior of employee",
+      "C": "Wrong designation of JE",
+      "D": "Wrong train running time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is Misclassification of Stock regularized by Accounts?",
+    "options": {
+      "A": "By issuing contra-adjustment stock sheet entries balancing the corresponding shortage and surplus",
+      "B": "By scrapping both items",
+      "C": "By fining the store keeper 10 years salary",
+      "D": "By closing the depot"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification Report' submitted annually by PFA to the General Manager (GM)?",
+    "options": {
+      "A": "Annual summary report highlighting total verifications conducted, total stock sheets issued, total value of shortages/surpluses, and clearance position",
+      "B": "Report on staff sports day",
+      "C": "Report on train punctuality",
+      "D": "Report on station garden"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which authority in Zonal / Metro Railway monitors overall clearance of stock sheets across all divisions and workshops?",
+    "options": {
+      "A": "Principal Financial Adviser (PFA) / FA&CAO (Stores)",
+      "B": "Chief Personnel Officer",
+      "C": "Chief Security Commissioner",
+      "D": "Divisional Safety Officer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Oil & Chemical Tanks' safety rule for Stock Verifiers?",
+    "options": {
+      "A": "Never use open flames/naked lights near fuel tanks; use approved explosion-proof flashlights and safety harnesses",
+      "B": "Use matchsticks for lighting deep dark tanks",
+      "C": "Smoke cigarettes while taking dip measurements",
+      "D": "No safety rules needed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Volumetric Density Chart' used during liquid stock verification?",
+    "options": {
+      "A": "Standard conversion chart used to convert dip level height (cm) into volume (liters) and mass (kg) based on liquid density at measured temperature",
+      "B": "Map of railway line",
+      "C": "Chart showing staff leave",
+      "D": "Chart showing salary scales"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification of Permanent Way (P.Way) Stores'?",
+    "options": {
+      "A": "Physical counting of rails, sleepers, turnouts, and fastenings stored along railway track miles or in PW yards",
+      "B": "Counting passenger coaches at platform",
+      "C": "Counting buses outside station",
+      "D": "Counting trees along track"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who accompanies the ASV during Stock Verification of P.Way stores along track sections?",
+    "options": {
+      "A": "Senior Section Engineer (P.Way) / Section Mate or authorized engineering representative",
+      "B": "Station Master alone",
+      "C": "Loco Pilot",
+      "D": "Canteen Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Scrap Rail Stacks'?",
+    "options": {
+      "A": "Measuring length, numbers, and calculated sectional weight of released rail stacks before e-auction",
+      "B": "Weighing single rail on kitchen scale",
+      "C": "Counting rail painting colors",
+      "D": "Selling rails without measuring"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Write-off Sanction' for stock shortage?",
+    "options": {
+      "A": "Formal administrative order issued by competent financial authority approving removal of unrecoverable shortage from accounting ledgers",
+      "B": "Order to hire new staff",
+      "C": "Order to buy new computers",
+      "D": "Order to extend train line"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Can a stock shortage caused by proven theft or embezzlement be written off without investigating responsibility?",
+    "options": {
+      "A": "No, thorough investigation, fixing of responsibility, D&AR action, and RPF/Police reporting are mandatory before write-off",
+      "B": "Yes, written off immediately without asking questions",
+      "C": "Yes, if shortage is below ₹100 crore",
+      "D": "Yes, always allowed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary role of 'Stock Sheet Audit' conducted by Statutory Audit (CAG)?",
+    "options": {
+      "A": "Independent scrutiny of pending stock sheets, write-off sanctions, and delay in shortage recoveries to ensure financial propriety",
+      "B": "Counting physical nuts and bolts",
+      "C": "Checking uniform stitching quality",
+      "D": "Managing canteen accounts"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification Certificate for Imprest Stores'?",
+    "options": {
+      "A": "Certificate signed annually by Shop SSE and ASV confirming physical verification of all sanctioned imprest items held in shop ward",
+      "B": "Pass for train travel",
+      "C": "Leave application approval",
+      "D": "Medical fitness card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an Imprest Stock item shows persistent surplus during consecutive verifications, it indicates:",
+    "options": {
+      "A": "Sanctioned imprest limit is higher than actual requirement and should be reduced",
+      "B": "Imprest limit should be doubled",
+      "C": "Shop productivity is zero",
+      "D": "Store keeper should be promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an Imprest Stock item shows frequent stockouts and shortages, it indicates:",
+    "options": {
+      "A": "Sanctioned imprest limit is inadequate or recoupment procedure is delayed",
+      "B": "Imprest limit should be cancelled",
+      "C": "Shop should be closed",
+      "D": "Material price is too low"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Unissued Manufactured Stock' in Workshop Stores?",
+    "options": {
+      "A": "Physical audit of finished components manufactured by workshop waiting for issue or transfer to Stores Depot",
+      "B": "Checking scrap wood",
+      "C": "Checking canteen tea stock",
+      "D": "Checking office furniture"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which accounting account is credited when unissued manufactured components are physically taken into Stores Depot stock?",
+    "options": {
+      "A": "Workshop Manufacturing Suspense (WMS) Account",
+      "B": "Staff Benefit Fund",
+      "C": "Pension Fund",
+      "D": "Passenger Revenue Account"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Verification of Returned Stores Ward'?",
+    "options": {
+      "A": "Physical verification of released serviceable parts and scrap items returned by shops via Form S-1539",
+      "B": "Verification of brand new imported items",
+      "C": "Verification of office stationary",
+      "D": "Verification of uniform cloth"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is strict stock verification of Returned Stores Ward critical?",
+    "options": {
+      "A": "Prevents accumulation of uncredited materials, deters scrap pilferage, and ensures prompt credit to shop work orders",
+      "B": "Increases clerical filing work",
+      "C": "Delays scrap e-auction",
+      "D": "Prevents computerization"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway Kolkata, who coordinates stock verification of traction high-voltage spares held at sub-station depots?",
+    "options": {
+      "A": "Senior Section Engineer (Traction / Sub-station) jointly with Accounts Stock Verifier (ASV)",
+      "B": "Station Commercial Clerk",
+      "C": "Gate Security Guard",
+      "D": "Ticket Collector"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification Tally Register'?",
+    "options": {
+      "A": "Ledger maintained by Stock Verification Branch recording target dates, actual verification dates, and ASV deployment across wards",
+      "B": "Casual leave register",
+      "C": "Pass register",
+      "D": "Medical register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens when an item's physical verification reveals 'Zero Balance' matching 'Zero Book Balance'?",
+    "options": {
+      "A": "Verification is verified and recorded as NIL balance without any discrepancy stock sheet",
+      "B": "A Shortage Stock Sheet is issued",
+      "C": "A Surplus Stock Sheet is issued",
+      "D": "Store keeper is penalized"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Over-stocking' highlighted during Stock Verification?",
+    "options": {
+      "A": "Condition where physical stock held is far in excess of reasonable future requirements, locking up capital",
+      "B": "Condition when stock is zero",
+      "C": "Condition when stock is stolen",
+      "D": "Condition when store is closed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What managerial action is recommended on 'Over-stocked' items identified by ASV?",
+    "options": {
+      "A": "Freeze fresh procurement, reduce recoupment limits, or transfer excess stock to other needy depots/railways",
+      "B": "Buy double quantity immediately",
+      "C": "Throw material in river",
+      "D": "Burn the material"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification of Obsolete Items'?",
+    "options": {
+      "A": "Identifying items rendered obsolete due to technology change (e.g., old Metro stock spares) for survey and write-off",
+      "B": "Buying old items from market",
+      "C": "Painting old items blue",
+      "D": "Selling items to staff privately"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the final Clearance Certificate on a Stock Sheet once all shortages are explained or recovered?",
+    "options": {
+      "A": "Inspector of Stores Accounts (ISA) / Workshop Accounts Officer (WAO)",
+      "B": "Store Peon",
+      "C": "Contractor agent",
+      "D": "Gate Guard"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is strict adherence to Stock Verification authority and periodicity vital for Metro Railway Kolkata JE supervisory staff?",
+    "options": {
+      "A": "Guarantees 100% material availability for safe train operation, prevents audit objections, eliminates inventory waste, and ensures strict financial discipline",
+      "B": "To increase paper filing in workshop office",
+      "C": "To delay coach overhaul turnaround times",
+      "D": "To avoid using electronic software"
+    },
+    "answer": "A"
+  }
+]
+}
