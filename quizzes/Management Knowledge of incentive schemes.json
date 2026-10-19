@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Which incentive scheme is primarily followed in Indian Railways and Metro Railway workshops?",
+    "options": {
+      "A": "Halsey Premium Plan",
+      "B": "Rowan Plan",
+      "C": "Chittaranjan Pattern Incentive Scheme (CLW Pattern)",
+      "D": "Taylor Differential Piece Rate System"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary objective of introducing an incentive scheme in railway workshops?",
+    "options": {
+      "A": "To reduce staff basic pay",
+      "B": "To increase productivity and shop output while reducing unit cost",
+      "C": "To eliminate the need for supervisory staff",
+      "D": "To increase working hours per shift"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In the CLW pattern incentive scheme, what does 'Allowed Time' (AT) represent?",
+    "options": {
+      "A": "Actual time taken by a worker to complete a job",
+      "B": "Time estimated by supervisor arbitrarily",
+      "C": "Standard time required by an average worker including allowances",
+      "D": "Maximum working hours available in a month"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Under the CLW incentive pattern, an average skilled worker working at normal speed is expected to earn what percentage of incentive bonus?",
+    "options": {
+      "A": "15%",
+      "B": "25%",
+      "C": "33.33% (33 1/3%)",
+      "D": "50%"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the maximum ceiling limit on incentive bonus earnings for Direct Workers (DW) under Indian Railway rules?",
+    "options": {
+      "A": "33.33%",
+      "B": "50%",
+      "C": "75%",
+      "D": "100%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How is 'Time Saved' calculated in railway workshop incentive billing?",
+    "options": {
+      "A": "Time Taken - Allowed Time",
+      "B": "Allowed Time - Time Taken",
+      "C": "Allowed Time + Time Taken",
+      "D": "Allowed Time / Time Taken"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Direct Workers (DW) in a railway workshop are defined as workers who:",
+    "options": {
+      "A": "Perform administrative duties",
+      "B": "Are directly engaged in processing, manufacturing, or maintenance operations",
+      "C": "Supervise the shop floor activities",
+      "D": "Handle stores and material movement only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Essential Indirect Workers (EIW) under the incentive scheme receive incentive bonus based on:",
+    "options": {
+      "A": "100% of the average incentive earned by Direct Workers",
+      "B": "80% of the average percentage of incentive earned by Direct Workers of the section",
+      "C": "50% of the average incentive earned by Direct Workers",
+      "D": "Fixed bonus regardless of Direct Workers' performance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following categories of workers are classified as Essential Indirect Workers (EIW)?",
+    "options": {
+      "A": "Turners and Machinists on production",
+      "B": "Crane Drivers, Millwright maintenance staff, Tool room staff",
+      "C": "Clerk in Chief Works Manager office",
+      "D": "Personnel Officer"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Indirect Workers (IW) under traditional workshop incentive rules generally receive:",
+    "options": {
+      "A": "Full incentive bonus",
+      "B": "80% incentive bonus",
+      "C": "No incentive bonus under standard scheme",
+      "D": "Double incentive bonus"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the general standard percentage of Fatigue Allowance included in 'Allowed Time'?",
+    "options": {
+      "A": "5%",
+      "B": "12.5%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Contingency Allowance provided in the estimation of Allowed Time accounts for:",
+    "options": {
+      "A": "Worker's personal tea break",
+      "B": "Minor unavoidable delays like tool grinding, machine adjustments, receiving instructions",
+      "C": "Major power breakdown",
+      "D": "Material shortage for days"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the standard Contingency Allowance percentage usually built into job estimations?",
+    "options": {
+      "A": "2%",
+      "B": "12.5%",
+      "C": "25%",
+      "D": "30%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which organization within the workshop is responsible for fixing Allowed Time and issuing job cards?",
+    "options": {
+      "A": "Personnel Department",
+      "B": "Production Control Organization (PCO)",
+      "C": "Stores Department",
+      "D": "Accounts Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What are the three main wings of a Production Control Organization (PCO)?",
+    "options": {
+      "A": "Recruitment, Training, Retirement",
+      "B": "Planning, Progress, and Inspection",
+      "C": "Electrical, Civil, Mechanical",
+      "D": "Purchase, Storage, Issue"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In PCO, who is responsible for establishing standard Synthetic Data and rate fixing?",
+    "options": {
+      "A": "Progress Inspector",
+      "B": "Rate Fixer / Estimator",
+      "C": "Shop Inspector",
+      "D": "Time Keeper"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If Allowed Time for a job is 10 hours and the Direct Worker completes it in 6 hours, what is the incentive percentage earned by the worker?",
+    "options": {
+      "A": "40%",
+      "B": "60%",
+      "C": "66.67%",
+      "D": "50% (restricted to maximum ceiling)"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In the question above, if the ceiling limit is strictly applied at 50%, what maximum incentive percentage will be paid to the worker?",
+    "options": {
+      "A": "40%",
+      "B": "50%",
+      "C": "66.67%",
+      "D": "33.33%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Incentive hourly rates for workers are calculated based on:",
+    "options": {
+      "A": "Maximum basic pay of the pay matrix scale",
+      "B": "Minimum basic pay of the pay scale divided by standard monthly hours",
+      "C": "Gross salary including DA and HRA",
+      "D": "Fixed flat rate decided by Ministry of Finance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the standard monthly hourly denominator generally used to calculate hourly basic incentive rates in workshops?",
+    "options": {
+      "A": "160 hours",
+      "B": "208 hours",
+      "C": "240 hours",
+      "D": "300 hours"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which allowance is added to cover personal needs such as drinking water and toilet visits during work hours?",
+    "options": {
+      "A": "Fatigue Allowance",
+      "B": "Personal Needs Allowance (included in general allowances/fatigue)",
+      "C": "Contingency Allowance",
+      "D": "Machine Maintenance Allowance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Idle Time' in workshop parlance?",
+    "options": {
+      "A": "Time spent by worker eating lunch",
+      "B": "Unavoidable non-productive time during shift hours due to factors beyond worker's control",
+      "C": "Time spent on authorized leave",
+      "D": "Time spent during overtime"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which card is used to book 'Idle Time' on the shop floor?",
+    "options": {
+      "A": "Job Card",
+      "B": "Idle Time Card",
+      "C": "Route Card",
+      "D": "Attendance Card"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a valid reason for booking Idle Time?",
+    "options": {
+      "A": "Worker coming late intentionally",
+      "B": "Machine failure / Crane failure",
+      "C": "Worker taking extra lunch time",
+      "D": "Worker attending union meeting without permission"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Idle time caused due to power failure, non-availability of material, or tool shortage is billed under:",
+    "options": {
+      "A": "Direct Work Order",
+      "B": "Allowed Time of the job",
+      "C": "Separate Idle Time Work Orders",
+      "D": "Overtime allowance"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What impact does approved Idle Time have on the calculation of worker's incentive percentage?",
+    "options": {
+      "A": "It decreases the Allowed Time",
+      "B": "Idle time hours are deducted from total available shift time, preserving net efficiency on working time",
+      "C": "It doubles the incentive rate",
+      "D": "It disqualifies the worker from getting incentive"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who is responsible for verifying and sanctioning Idle Time Cards on the shop floor?",
+    "options": {
+      "A": "Shop Floor Junior Engineer / Section Engineer",
+      "B": "Time Keeper",
+      "C": "Accounts Clerk",
+      "D": "Store Keeper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under CLW pattern, what is 'Preparation Time'?",
+    "options": {
+      "A": "Time allowed to worker to travel from home to factory",
+      "B": "Time allowed for setting up the machine, tools, drawings, and fixtures before starting a batch job",
+      "C": "Time allowed for cleaning shop floor at the end of month",
+      "D": "Time allowed for tea break"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Is Preparation Time granted per piece or per batch of jobs?",
+    "options": {
+      "A": "Per piece",
+      "B": "Per batch/job order",
+      "C": "Per worker per day",
+      "D": "Per year"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Basic Operations' time in time study?",
+    "options": {
+      "A": "Total Allowed Time minus fatigue allowance",
+      "B": "The net actual operational time required to perform a unit work at normal rating",
+      "C": "Time spent in waiting for job ticket",
+      "D": "Time spent in overhaul of machine"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When can 'Allowed Time' for a job be revised by the PCO?",
+    "options": {
+      "A": "Whenever a worker asks for it",
+      "B": "When change in design, material, method, machine, or tooling occurs",
+      "C": "Every month automatically",
+      "D": "When worker earns maximum incentive"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Can Allowed Time be reduced simply because a worker by high skill earns more incentive than 50%?",
+    "options": {
+      "A": "Yes, immediately",
+      "B": "No, unless there is a change in method, tooling, machine, or clerical estimation error",
+      "C": "Yes, at the discretion of SSE",
+      "D": "Yes, after every 3 months"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the maximum limit of Incentive Allowance for Junior Engineers (JEs) directly supervising production in incentive sections under Revised Incentive Schemes?",
+    "options": {
+      "A": "15%",
+      "B": "33.33% or 80% of average DW percentage subject to prescribed rules",
+      "C": "100%",
+      "D": "No incentive allowed for supervisors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is a 'Job Card' (or Job Ticket) in a railway incentive shop?",
+    "options": {
+      "A": "Identity card of the employee",
+      "B": "Official document authorizing work execution, detailing operation, work order, allowed time, and time taken",
+      "C": "Gate pass for leaving workshop",
+      "D": "Medical record book"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Route Card'?",
+    "options": {
+      "A": "Bus route guide for workshop staff",
+      "B": "Document accompanying a component indicating sequence of operations, sections involved, and machine numbers",
+      "C": "Map of railway line",
+      "D": "Train timetable book"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which document records the daily attendance and time spent by a worker on various job cards?",
+    "options": {
+      "A": "Time Sheet / Attendance Register / Muster Roll",
+      "B": "Gate Pass Book",
+      "C": "Store Indent Book",
+      "D": "Inspection Report"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Gang Incentive System'?",
+    "options": {
+      "A": "Incentive paid to gangmen on railway tracks only",
+      "B": "Incentive scheme where bonus is calculated collectively based on total group output and distributed among gang members",
+      "C": "Incentive paid to trade union leaders",
+      "D": "Scheme applicable only to office clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How is individual incentive bonus distributed in a Gang Incentive System?",
+    "options": {
+      "A": "Equally to everyone regardless of hours worked",
+      "B": "Proportional to hours worked by each individual in the gang and their respective hourly incentive rate",
+      "C": "Senior-most member gets 80%, others get 20%",
+      "D": "Based on lottery system"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a job is rejected due to defective raw material (not worker's fault), what happens to worker's incentive time?",
+    "options": {
+      "A": "Worker gets no time allowed",
+      "B": "Allowed time for work already performed is booked and credited to worker",
+      "C": "Worker is fined basic salary",
+      "D": "Worker is suspended"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a job is spoiled/rejected due to worker's carelessness or bad workmanship, what is the rule regarding incentive?",
+    "options": {
+      "A": "Worker receives full incentive bonus",
+      "B": "No allowed time credit is given for defective work, and time taken is counted against worker's incentive pool",
+      "C": "Allowed time is doubled",
+      "D": "Job card is cancelled with 100% bonus credit"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Rework' or 'Rectification' time card?",
+    "options": {
+      "A": "Card issued to redo or correct defective work",
+      "B": "Card for new production only",
+      "C": "Card for tea break",
+      "D": "Card for tool purchase"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In case rectification of defective work is required due to drawing revision by management, time allowed for rectification is:",
+    "options": {
+      "A": "Not allowed",
+      "B": "Booked under a separate extra work order/job card with valid allowed time",
+      "C": "Deducted from basic pay",
+      "D": "Charged to worker's leave account"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the role of Workshop Accounts Officer (WAO) in incentive schemes?",
+    "options": {
+      "A": "Fix allowed times on shop floor",
+      "B": "Audit and verify job cards, compute incentive bonus payments, and check ceiling limits",
+      "C": "Operate machines",
+      "D": "Supervise maintenance gang"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Under the Group Incentive Scheme (GIS) in modernized workshops, overall efficiency is measured based on:",
+    "options": {
+      "A": "Individual worker's daily output",
+      "B": "Total shop/line output against target standards established per unit of time",
+      "C": "Total attendance percentage",
+      "D": "Number of grievances resolved"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does 'Synthetic Data' mean in Rate Fixing?",
+    "options": {
+      "A": "Fake data created without study",
+      "B": "Standard time data built up from previous detailed time studies of elemental operations",
+      "C": "Computer generated graphics",
+      "D": "Attendance data"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In time study, what is 'Rating' of an operator?",
+    "options": {
+      "A": "Worker's designation level",
+      "B": "Assessment of worker's speed and efficiency relative to the observer's concept of normal speed",
+      "C": "Worker's disciplinary record",
+      "D": "Worker's pay scale"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Normal Speed' or 'Standard Pace' rating in time study numerical scale?",
+    "options": {
+      "A": "50 rating",
+      "B": "100 rating (or 60 rating depending on scale)",
+      "C": "200 rating",
+      "D": "0 rating"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Allowed Time (AT) formula in CLW pattern is generally expressed as:",
+    "options": {
+      "A": "AT = Normalized Time + Fatigue Allowance + Contingency Allowance + Setup Time (per piece share)",
+      "B": "AT = Actual Time Taken × 2",
+      "C": "AT = Total Working Days × 8 hours",
+      "D": "AT = Machine Capacity / Weight"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum limit on saved time percentage under standard CLW pattern rules?",
+    "options": {
+      "A": "Time saved cannot exceed 50% of Allowed Time (or 50% of Time Taken equivalent limit)",
+      "B": "100% of time allowed",
+      "C": "200% of time allowed",
+      "D": "No limit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a non-incentive shop worker is temporarily deployed in an incentive section as Direct Worker:",
+    "options": {
+      "A": "They cannot earn incentive",
+      "B": "They are eligible to earn incentive as per direct worker calculation for the period worked",
+      "C": "They get flat double basic pay",
+      "D": "They get leave in lieu"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which form/card is used for material drawal required for executing an incentive job card?",
+    "options": {
+      "A": "Gate Pass",
+      "B": "Stores Requisition / Issue Sheet (S1313)",
+      "C": "Medical Memo",
+      "D": "Incentive Bill"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary function of Progress Inspector in PCO?",
+    "options": {
+      "A": "Fix job time allowances",
+      "B": "Ensure smooth flow of materials, tools, drawings, and track movement of components through sections",
+      "C": "Audit financial accounts",
+      "D": "Pass disciplinary orders"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the function of Inspection Wing in PCO?",
+    "options": {
+      "A": "Fix basic pay",
+      "B": "Quality control, stage inspection, final checking, and signing job cards for completed acceptable work",
+      "C": "Cleaning machine shop floor",
+      "D": "Organizing sports events"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Can incentive bonus be paid for work done during Overtime (OT) hours?",
+    "options": {
+      "A": "Yes, full incentive is paid during OT",
+      "B": "No, incentive scheme and Overtime are mutually exclusive for the same hours (standard practice limits double benefit)",
+      "C": "Yes, triple incentive is paid",
+      "D": "Only if approved by Railway Board"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What happens if Time Taken by a Direct Worker exceeds the Allowed Time for a job?",
+    "options": {
+      "A": "The worker suffers a loss in basic pay",
+      "B": "No incentive bonus is earned for that job, but basic pay is guaranteed",
+      "C": "The worker is jailed",
+      "D": "The negative balance is deducted from next month basic salary"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The principle of 'Guaranteed Basic Pay' in Railway Incentive Scheme ensures:",
+    "options": {
+      "A": "Basic pay is never reduced even if efficiency falls below standard",
+      "B": "Incentive is fixed forever",
+      "C": "Worker gets bonus without working",
+      "D": "Pay scale increases every month"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Lost Job Card' procedure?",
+    "options": {
+      "A": "Worker is terminated immediately",
+      "B": "Duplicate job card is issued after proper verification by JE/SSE and PCO with proper endorsement",
+      "C": "Job is cancelled automatically",
+      "D": "Double incentive is paid"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In railway workshops, Gauging Allowance is provided for:",
+    "options": {
+      "A": "Measuring dimensions during machining operations using precision instruments",
+      "B": "Fuel checking in vehicles",
+      "C": "Track gauge expansion measurement",
+      "D": "Checking water pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Gauging Allowance percentage generally ranges between:",
+    "options": {
+      "A": "1% to 5%",
+      "B": "10% to 20%",
+      "C": "25% to 50%",
+      "D": "50% to 75%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'System of Spot Checking' in workshop inspection?",
+    "options": {
+      "A": "Random checking of quality of work in progress by inspectors",
+      "B": "Checking ticket at railway station",
+      "C": "Checking attendance at gate",
+      "D": "Checking uniform of staff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which factor is NOT included in calculating Allowed Time?",
+    "options": {
+      "A": "Operation basic time",
+      "B": "Fatigue allowance",
+      "C": "Worker's commuting travel time from home",
+      "D": "Contingency allowance"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the full form of CLW regarding the incentive pattern?",
+    "options": {
+      "A": "Carriage & Locomotive Works",
+      "B": "Chittaranjan Locomotive Works",
+      "C": "Central Locomotive Workshop",
+      "D": "Calcutta Locomotive Works"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In which year was the CLW Pattern Incentive Scheme initially introduced in Chittaranjan Locomotive Works?",
+    "options": {
+      "A": "1947",
+      "B": "1954",
+      "C": "1975",
+      "D": "1991"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The main benefit of standardizing time through Time and Motion Study is to:",
+    "options": {
+      "A": "Increase manual effort endlessly",
+      "B": "Eliminate unnecessary motions and establish fair Allowed Time",
+      "C": "Reduce tool quality",
+      "D": "Increase scrap generation"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the hourly rate for calculating incentive bonus for a worker whose basic pay scale minimum is ₹19,900 and standard monthly working hours are 200?",
+    "options": {
+      "A": "₹99.50/hr",
+      "B": "₹199.00/hr",
+      "C": "₹50.00/hr",
+      "D": "₹150.00/hr"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If total Time Allowed for 50 components is 25 hours, and Time Taken is 20 hours, what is the Time Saved?",
+    "options": {
+      "A": "5 hours",
+      "B": "45 hours",
+      "C": "1.25 hours",
+      "D": "50 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In the above calculation (Allowed: 25 hrs, Taken: 20 hrs), what is the percentage of incentive bonus earned on time taken?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "50%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Under Railway Incentive Rules, supervisory staff up to which rank are generally covered under supervisor incentive bonus / PCO allowance?",
+    "options": {
+      "A": "Junior Engineer (JE) / Senior Section Engineer (SSE)",
+      "B": "Chief Works Manager (CWM)",
+      "C": "Dy. Chief Mechanical Engineer",
+      "D": "General Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Out-turn' in a production workshop?",
+    "options": {
+      "A": "Number of defective items discarded",
+      "B": "Total volume/quantity of finished output completed in a specified period",
+      "C": "Number of employees retiring",
+      "D": "Amount of scrap sold"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following describes 'Pilot Period' in rate fixing?",
+    "options": {
+      "A": "Trial period when new job rates are temporarily tested before finalizing Allowed Time",
+      "B": "Flight time of train drivers",
+      "C": "Training period of apprentices",
+      "D": "Probationary period of JE"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "During the Pilot Period, incentive rates/allowed times are considered:",
+    "options": {
+      "A": "Permanent",
+      "B": "Provisional / Temporary",
+      "C": "Non-payable",
+      "D": "Double"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the maximum duration generally allowed for a 'Provisional / Experimental' rate to remain active before review?",
+    "options": {
+      "A": "1 month to 3 months",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "1 day"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Excessive incentive bonus consistently earned above 50% across a section indicates:",
+    "options": {
+      "A": "Under-pitched Allowed Time (loose estimates) requiring re-examination of rates",
+      "B": "Over-pitched estimates",
+      "C": "Low worker performance",
+      "D": "Error in accounting soft copy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Consistently low incentive earnings (< 10%) across a whole shop floor indicates:",
+    "options": {
+      "A": "Tight (over-pitched) Allowed Times, bottlenecks, or machine maintenance issues",
+      "B": "Excessively loose rates",
+      "C": "Extremely high productivity",
+      "D": "Perfect rate fixing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Load Chart' in workshop planning?",
+    "options": {
+      "A": "Chart showing weight of trains",
+      "B": "Graphical/tabular representation of work load allotted to machines/sections against available capacity",
+      "C": "Electrical load calculation chart",
+      "D": "Staff roster chart"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Capacity Utilization' percentage?",
+    "options": {
+      "A": "(Actual Output hours / Installed Available Capacity hours) × 100",
+      "B": "(Scrap generated / Raw material) × 100",
+      "C": "(Leave taken / Total days) × 100",
+      "D": "(Overtime hours / Basic hours) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Metro Railway maintenance shops, incentive scheme helps in reducing coach maintenance:",
+    "options": {
+      "A": "Turn-around time (TAT) / Cycle time",
+      "B": "Safety standards",
+      "C": "Reliability",
+      "D": "Cleanliness"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the Job Card as confirmation of work completion and quality check?",
+    "options": {
+      "A": "Shop Floor Inspector / JE and Section supervisor",
+      "B": "Gate Guard",
+      "C": "Time Keeper",
+      "D": "Personnel Officer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Unaccounted Time' on a worker's daily record?",
+    "options": {
+      "A": "Time spent on job cards + approved idle time matching shift hours",
+      "B": "Difference between shift hours available and total hours booked on jobs/idle cards",
+      "C": "Lunch hour",
+      "D": "Authorized leave duration"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How should Unaccounted Time be treated during incentive processing?",
+    "options": {
+      "A": "Paid at maximum incentive rate",
+      "B": "Investigated and minimized, as it reduces overall worker efficiency calculation",
+      "C": "Converted to overtime automatically",
+      "D": "Ignored completely"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the effect of frequent machine breakdowns on incentive earnings if Idle Time Card is NOT punched?",
+    "options": {
+      "A": "Worker's Time Taken increases, reducing incentive bonus percentage",
+      "B": "Incentive bonus increases",
+      "C": "No effect",
+      "D": "Allowed time increases automatically"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Time Keeping' in railway workshops?",
+    "options": {
+      "A": "Maintaining wall clocks",
+      "B": "Recording gate entry/exit timings and shift attendance of staff",
+      "C": "Calculating structural loads",
+      "D": "Fixing standard job timing"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Time Booking' in workshop management?",
+    "options": {
+      "A": "Booking train tickets in advance",
+      "B": "Recording exact start and completion time spent by a worker on specific job cards",
+      "C": "Booking holiday homes",
+      "D": "Maintaining attendance register"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which system is increasingly used for modern time-booking in advanced railway workshops?",
+    "options": {
+      "A": "Manual paper tokens only",
+      "B": "Bar-code / Smart card / Biometric / Computerized Job Punching System",
+      "C": "Oral reporting",
+      "D": "Weekly letters"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a workshop section, if Direct Workers average 40% incentive bonus, what percentage bonus will Essential Indirect Workers (EIW) receive?",
+    "options": {
+      "A": "40%",
+      "B": "32% (80% of 40%)",
+      "C": "20%",
+      "D": "50%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If Direct Workers average 60% incentive bonus (capped at 50% maximum payable limit), what is the effective DW percentage used to calculate EIW incentive?",
+    "options": {
+      "A": "50% (capped limit)",
+      "B": "60%",
+      "C": "80%",
+      "D": "100%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following allowances is NOT added into machine operation Allowed Time?",
+    "options": {
+      "A": "Setup time",
+      "B": "Fatigue allowance",
+      "C": "Overtime double allowance",
+      "D": "Contingency allowance"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the standard unit of measurement of time in time-study operations?",
+    "options": {
+      "A": "Minutes or Hours (or Centiminutes)",
+      "B": "Days",
+      "C": "Weeks",
+      "D": "Months"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 1 Centiminute equal?",
+    "options": {
+      "A": "0.01 Minute (1/100th of a minute)",
+      "B": "10 Minutes",
+      "C": "60 Seconds",
+      "D": "0.1 Hour"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Work Sampling' in work study?",
+    "options": {
+      "A": "Statistical technique of making large number of random observations to analyze activity ratios",
+      "B": "Testing soil samples",
+      "C": "Distributing free samples to workers",
+      "D": "Sampling chemical fluids"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of 'Method Study'?",
+    "options": {
+      "A": "To find the most efficient and economical way of doing a job",
+      "B": "To increase worker's basic pay scale",
+      "C": "To calculate DA rate",
+      "D": "To prepare pension papers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of 'Work Measurement' (Time Study)?",
+    "options": {
+      "A": "To establish the time required for a qualified worker to carry out a job at a defined level of performance",
+      "B": "To measure size of workshop building",
+      "C": "To measure length of railway track",
+      "D": "To measure electrical voltage"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Indian Railways incentive rules, how are Apprentice Act apprentices treated regarding incentive bonus?",
+    "options": {
+      "A": "They get 100% incentive bonus",
+      "B": "They are trainees and generally not eligible for independent incentive bonus earnings",
+      "C": "They get double incentive",
+      "D": "They get supervisor incentive"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'PCO Allowance'?",
+    "options": {
+      "A": "Allowance paid to telephone booth operators",
+      "B": "Allowance granted to staff posted in Production Control Organization in lieu of incentive earnings",
+      "C": "Allowance for purchasing computers",
+      "D": "Allowance for night duty"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the percentage of PCO Allowance for JEs/SSEs working in PCO under revised orders?",
+    "options": {
+      "A": "12% / 6% of basic pay (as per applicable railway orders)",
+      "B": "50% flat",
+      "C": "100%",
+      "D": "0%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a job card is issued for 100 units, but management cancels 30 units before work starts, allowed time is recalculated for:",
+    "options": {
+      "A": "100 units",
+      "B": "70 units",
+      "C": "30 units",
+      "D": "Zero units"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following registers records all job cards issued to a shop section?",
+    "options": {
+      "A": "Job Card Issue Register / Work Order Register",
+      "B": "Medical Register",
+      "C": "Pass Issue Register",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In case of machine breakdown in an incentive section, the operator should immediately:",
+    "options": {
+      "A": "Go home",
+      "B": "Inform Section Supervisor and get Idle Time Card punched/opened",
+      "C": "Continue punching job card for production",
+      "D": "Stop working without informing anyone"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary formula for calculating Worker's Efficiency Percentage under time-based incentive schemes?",
+    "options": {
+      "A": "(Allowed Time / Time Taken) × 100",
+      "B": "(Time Taken / Allowed Time) × 100",
+      "C": "(Time Saved / Allowed Time) × 100",
+      "D": "(Time Taken - Time Saved) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If Allowed Time = 12 hours and Time Taken = 8 hours, what is worker efficiency?",
+    "options": {
+      "A": "150%",
+      "B": "66.67%",
+      "C": "75%",
+      "D": "120%"
+    },
+    "answer": "A"
+  }
+]
