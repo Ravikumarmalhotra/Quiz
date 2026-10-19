@@ -1,0 +1,1004 @@
+{
+[
+  {
+    "question": "Which standard Railway Stores form is used for returning serviceable or scrap items from a user shop back to the Stores Depot?",
+    "options": {
+      "A": "Form S-1313",
+      "B": "Form S-1539 (Advice Note of Returned Stores)",
+      "C": "Form S-1727",
+      "D": "Form GA-3"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How many copies of the Advice Note of Returned Stores (Form S-1539) are standardly prepared by the returning shop?",
+    "options": {
+      "A": "2 copies",
+      "B": "3 copies",
+      "C": "6 copies",
+      "D": "8 copies"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Into which three main technical categories are released/returned materials classified by the Shop In-Charge?",
+    "options": {
+      "A": "New, Used, Old",
+      "B": "Serviceable, Repairable, and Scrap",
+      "C": "Ferrous, Non-Ferrous, Plastic",
+      "D": "Heavy, Medium, Light"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is meant by a 'Serviceable Item' returned to the Stores Depot?",
+    "options": {
+      "A": "An item that is completely damaged beyond repair",
+      "B": "An item fit for immediate reissue and use without requiring further overhaul or repair",
+      "C": "An item that must be sold in public auction immediately",
+      "D": "An item reserved for display only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is a 'Repairable Item' returned to Stores Depot?",
+    "options": {
+      "A": "An item that can be rendered serviceable after reconditioning or repair in the workshop",
+      "B": "An item that can never be fixed",
+      "C": "An item already scrapped by Survey Committee",
+      "D": "An item imported from foreign country"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Material' in railway workshop terminology?",
+    "options": {
+      "A": "Brand new material received from vendor",
+      "B": "Material that has reached the end of its useful life and cannot be economically repaired or reused",
+      "C": "High-value spare parts stored in safety vaults",
+      "D": "Office stationery items"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When serviceable materials are returned to Stores Depot, at what rate is financial credit generally afforded to the returning work order?",
+    "options": {
+      "A": "Zero rate",
+      "B": "Current book rate / estimated valuation rate",
+      "C": "Double the original purchase price",
+      "D": "Scrap rate only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When unserviceable scrap material generated during maintenance is returned to Stores, credit is afforded to the work order based on:",
+    "options": {
+      "A": "Current schedule of scrap rates fixed for that specific scrap category",
+      "B": "Original purchase price of the brand-new asset",
+      "C": "Basic pay of the shop supervisor",
+      "D": "Arbitrary price fixed by vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which accounting head is credited when scrap material generated from a direct production work order is returned to Stores?",
+    "options": {
+      "A": "Workshop Manufacturing Suspense (WMS) / Specific Work Order",
+      "B": "Staff Benefit Fund",
+      "C": "Passenger Fare Revenue Account",
+      "D": "Railway Board Administrative Fund"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Form S-1539 (Advice Note of Returned Stores), who certifies the correctness of the description, quantity, and weight of returned items?",
+    "options": {
+      "A": "Returning Shop Senior Section Engineer (SSE)",
+      "B": "Gate RPF Constable",
+      "C": "Canteen Manager",
+      "D": "Chief Cashier"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which ward in the Stores Depot receives and processes materials sent via Form S-1539?",
+    "options": {
+      "A": "Returned Stores Ward / Scrap Ward",
+      "B": "Stationery Ward",
+      "C": "General Chemical Ward",
+      "D": "Uniform Ward"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is issued by the Stores Depot Ward Keeper to the returning shop acknowledging physical receipt of returned items?",
+    "options": {
+      "A": "Receipted copy of Advice Note (Form S-1539) duly signed and stamped",
+      "B": "Purchase Order",
+      "C": "Gate Pass (Non-Returnable)",
+      "D": "Medical Certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Survey Committee' in a Railway Workshop Stores Depot?",
+    "options": {
+      "A": "Committee of officers appointed to inspect unserviceable equipment/scrap and declare them fit for condemnation/sale",
+      "B": "Committee for conducting staff sports",
+      "C": "Committee for inspecting train timings",
+      "D": "Committee for canteen food audit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which standard form is prepared by the user department/depot for submitting items to the Survey Committee for condemnation?",
+    "options": {
+      "A": "Survey Report (Form S-2269)",
+      "B": "Form S-1313",
+      "C": "Form S-1727",
+      "D": "Form GA-1"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A typical Workshop Survey Committee includes representatives from which departments?",
+    "options": {
+      "A": "Technical Department (Mechanical/Electrical), Stores Department, and Accounts Department",
+      "B": "Medical, Security, and Commercial",
+      "C": "Personnel, Rajbhasha, and Legal",
+      "D": "Civil Engineering and Operating only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is the presence of an Accounts Officer mandatory on a Survey Committee for high-value items?",
+    "options": {
+      "A": "To ensure financial concurrence, verify book values, and prevent premature condemnation of assets",
+      "B": "To take physical photographs",
+      "C": "To repair the machine on the spot",
+      "D": "To issue gate passes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Condemnation' of a workshop machine or coach component?",
+    "options": {
+      "A": "Formal administrative and technical declaration that the asset is beyond economical repair and fit for scrap disposal",
+      "B": "Painting the asset red",
+      "C": "Promoting the machine operator",
+      "D": "Sending the asset to another railway zone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'BER' stand for regarding damaged machinery submitted for return/scrap?",
+    "options": {
+      "A": "Beyond Economical Repair",
+      "B": "Basic Electrical Requirement",
+      "C": "Buffer Equipment Reserve",
+      "D": "Breakdown Energy Rate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an asset has NOT completed its codal life but is recommended for condemnation due to severe damage, who must approve the Survey Report?",
+    "options": {
+      "A": "Competent Technical Authority (e.g., CWM / HOD / DRM depending on financial powers in Model SOP)",
+      "B": "Junior Clerk",
+      "C": "Store Helper",
+      "D": "Vendor Agent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Codal Life' of an asset?",
+    "options": {
+      "A": "The normal expected service life (in years) prescribed by Railway Board for various classes of assets",
+      "B": "The warranty period given by supplier",
+      "C": "The expiry date of lubrication oil",
+      "D": "The period of employee service"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Into which two major metallurgical categories is metal scrap classified in Stores Depots?",
+    "options": {
+      "A": "Ferrous Scrap and Non-Ferrous Scrap",
+      "B": "Heavy Scrap and Light Scrap",
+      "C": "Clean Scrap and Dirty Scrap",
+      "D": "Local Scrap and Imported Scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is categorized as 'Ferrous Scrap'?",
+    "options": {
+      "A": "Melting steel scrap, cast iron scrap, worn-out steel rails, and steel turnings/borings",
+      "B": "Copper armature wire",
+      "C": "Brass bushes",
+      "D": "Aluminum contact strips"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is categorized as 'Non-Ferrous Scrap'?",
+    "options": {
+      "A": "Copper, brass, bronze, aluminum, lead, and zinc scrap",
+      "B": "Steel wheel discs",
+      "C": "Wrought iron plates",
+      "D": "Cast iron brake blocks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is Non-Ferrous scrap stored under strict security in locked godowns/bins in Stores Depots?",
+    "options": {
+      "A": "Due to its high market commercial value and high vulnerability to theft",
+      "B": "Because it catches fire easily",
+      "C": "Because it emits toxic fumes continuously",
+      "D": "Because it dissolves in rain"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Turnings and Borings' scrap?",
+    "options": {
+      "A": "Small metal chips, shavings, and swarf generated during machining operations like turning, boring, and drilling",
+      "B": "Broken locomotive axles",
+      "C": "Old wooden sleepers",
+      "D": "Discarded rubber hoses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must oily turnings and borings be segregated from clean heavy melting steel scrap?",
+    "options": {
+      "A": "To prevent fire hazards and fetch maximum valuation during auction sale",
+      "B": "To mix them with foundry sand",
+      "C": "Because turning scrap is non-metallic",
+      "D": "To dump them in soil"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Lot' formation in a Scrap Yard?",
+    "options": {
+      "A": "Grouping similar categories of scrap material into identifiable physical lots with estimated weights for auction",
+      "B": "Digging deep holes to bury scrap",
+      "C": "Building residential houses on scrap land",
+      "D": "Mixing all types of scrap together"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What details are displayed on the 'Lot Board' of a scrap lot in a Stores Scrap Depot?",
+    "options": {
+      "A": "Lot Number, Description of scrap, approximate weight/quantity, and name of depot ward",
+      "B": "Name of CWM and home address",
+      "C": "Train timetable",
+      "D": "Worker incentive rates"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which electronic portal is used across Indian Railways for conducting e-Auctions of scrap materials?",
+    "options": {
+      "A": "IREPS (Indian Railways E-Procurement System - e-Auction module)",
+      "B": "FOIS",
+      "C": "COMS",
+      "D": "HRMS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Reserve Price' in a scrap e-Auction?",
+    "options": {
+      "A": "The confidential minimum price fixed by the Railway administration below which the scrap lot will not be sold",
+      "B": "The maximum price a buyer can offer",
+      "C": "The price of brand new items",
+      "D": "The salary of auctioneer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who fixes the Reserve Price for a scrap lot prior to auction?",
+    "options": {
+      "A": "Reserve Price Committee consisting of Stores Officer and Accounts Officer",
+      "B": "Highest bidder in auction",
+      "C": "Local shop helper",
+      "D": "Third-party contractor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Earnest Money Deposit' (EMD) or Bid Security in e-Auction for scrap?",
+    "options": {
+      "A": "Deposit paid by prospective buyers to qualify for participating in the scrap auction",
+      "B": "Final payment for scrap lot",
+      "C": "Penalty charged for late lifting",
+      "D": "Transport fee"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is issued to the successful bidder after full payment of the auction sale value is deposited?",
+    "options": {
+      "A": "Delivery Order (Form S-2339) / Sale Order",
+      "B": "Advice Note S-1539",
+      "C": "Form S-1313",
+      "D": "Gate Entry Token"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Free Delivery Period' (FDP) in scrap delivery?",
+    "options": {
+      "A": "Fixed period allowed to the purchaser to lift the auctioned scrap from depot without paying ground rent",
+      "B": "Period where scrap is given free of cost",
+      "C": "Period during which depot is closed",
+      "D": "Time taken to weigh truck"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If the purchaser fails to lift the scrap lot within the Free Delivery Period, what penalty is levied by Railways?",
+    "options": {
+      "A": "Ground Rent (storage charges per day/week on balance lot)",
+      "B": "Free extension forever",
+      "C": "Incentive discount",
+      "D": "Promotion of purchaser"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an auction buyer defaults on paying the balance balance sale value within the stipulated time, what action is taken?",
+    "options": {
+      "A": "Sale is cancelled and EMD / Security Deposit is forfeited to Railways",
+      "B": "Scrap is delivered for free",
+      "C": "Buyer is awarded a contract medal",
+      "D": "No action is taken"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is scrap material weighed during loading and delivery at the Stores Depot gate?",
+    "options": {
+      "A": "Using certified Electronic Lorry Weighbridge (Gross weight minus Tare weight)",
+      "B": "By visual estimation only",
+      "C": "Counting individual metal chips",
+      "D": "Measuring volume using a bucket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Tare Weight' of a delivery truck?",
+    "options": {
+      "A": "Weight of the empty truck before loading scrap",
+      "B": "Weight of truck loaded with scrap",
+      "C": "Weight of driver alone",
+      "D": "Weight of fuel tank"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Gross Weight' of a delivery truck?",
+    "options": {
+      "A": "Combined weight of empty truck plus loaded scrap material",
+      "B": "Weight of empty truck",
+      "C": "Weight of weighbridge building",
+      "D": "Weight of road"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is Net Weight of delivered scrap calculated?",
+    "options": {
+      "A": "Net Weight = Gross Weight - Tare Weight",
+      "B": "Net Weight = Gross Weight + Tare Weight",
+      "C": "Net Weight = Tare Weight / Gross Weight",
+      "D": "Net Weight = Gross Weight × 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must be physically present during the loading and weighbridge weighing of auctioned scrap material?",
+    "options": {
+      "A": "Stores Representative (Stock Verifier / Store Keeper), Accounts Representative, and RPF Official",
+      "B": "Canteen cook only",
+      "C": "Unskilled helper alone",
+      "D": "Outside truck driver alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is signed jointly at the gate by Stores, Accounts, RPF, and Purchaser after weighing scrap?",
+    "options": {
+      "A": "Weighment Sheet / Delivery Pass / Gate Issue Memo",
+      "B": "Form S-1313",
+      "C": "Leave Application",
+      "D": "Service Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Re-crediting' in returned store accounting?",
+    "options": {
+      "A": "Financial process of crediting the material value of returned serviceable/scrap items back to the originating work order or fund",
+      "B": "Taking bank loan",
+      "C": "Refunding passenger ticket",
+      "D": "Paying salary in cash"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If released serviceable parts from POH of Metro rakes are re-issued to the shop floor, what procedure is followed?",
+    "options": {
+      "A": "Stocked as second-hand serviceable stock and issued against regular Requisition Form (S-1313) at valuation rate",
+      "B": "Taken without any paperwork",
+      "C": "Sold to workers directly",
+      "D": "Thrown in bin"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are hazardous scrap items like used transformer oil, used batteries, and e-waste disposed of?",
+    "options": {
+      "A": "Sold only to CPCB / SPCB registered and authorized environmental recyclers as per statutory pollution laws",
+      "B": "Dumped in open shop drains",
+      "C": "Burned inside workshop yard",
+      "D": "Sold to unregistered local vendors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does CPCB stand for in environmental regulations governing scrap disposal?",
+    "options": {
+      "A": "Central Pollution Control Board",
+      "B": "Central Purchasing & Conditioning Bureau",
+      "C": "Carriage Plant Control Branch",
+      "D": "Central Power & Chemical Board"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Condemnation Certificate' for rolling stock / Metro coaches?",
+    "options": {
+      "A": "Official document signed by competent mechanical/electrical authorities certifying coach body/bogie frame fit for scrapping",
+      "B": "Fitness certificate to run at 100 km/h",
+      "C": "Registration card of coach",
+      "D": "Paint inspection card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When condemned Metro rolling stock is cut into pieces for scrap disposal, it is called:",
+    "options": {
+      "A": "Cutting and Scrapping of Rolling Stock",
+      "B": "Overhauling",
+      "C": "Retrofitting",
+      "D": "Re-commissioning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are strict safety precautions and Hot Work Permits required during oxygen-acetylene flame cutting of scrap coaches?",
+    "options": {
+      "A": "To prevent shop floor fires, explosions from trapped gases, and burn injuries to workers",
+      "B": "To speed up auction bidding",
+      "C": "To change steel color",
+      "D": "To avoid paying accounts staff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Reclamation' in workshops?",
+    "options": {
+      "A": "Process of sorting through scrap to salvage usable components, bolts, or metals for reconditioning and reuse",
+      "B": "Burying scrap underground",
+      "C": "Buying new scrap from outside market",
+      "D": "Exporting scrap to foreign countries"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Reclamation Ward' or 'Reclamation Shop'?",
+    "options": {
+      "A": "Specialized section dedicated to retrieving, repairing, and converting released scrap into useful workshop items",
+      "B": "Ward for sick employees",
+      "C": "Place for storing office files",
+      "D": "Canteen store room"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following items is commonly salvaged in a Workshop Reclamation Shop?",
+    "options": {
+      "A": "Usable tie bars, nuts, bolts, brake gear pins, and structural steel off-cuts",
+      "B": "Burnt electrical insulation paper",
+      "C": "Used lubricants",
+      "D": "Cracked glass panes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Off-cut' steel material in fabrication shops?",
+    "options": {
+      "A": "Usable remaining pieces of steel plates, angles, or channels left over after cutting standard components",
+      "B": "Machine turnings",
+      "C": "Iron rust dust",
+      "D": "Broken welding electrodes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How should usable steel off-cuts be accounted for on the shop floor?",
+    "options": {
+      "A": "Returned to Stores or transferred via Form S-1727 for smaller job fabrications instead of scrapping",
+      "B": "Thrown into heavy melting scrap bin",
+      "C": "Taken home by workers",
+      "D": "Left lying in workshop yard unrecorded"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Advice of Material Transfer' (Form S-1727) used for regarding released/serviceable materials?",
+    "options": {
+      "A": "Transferring material directly from one shop work order/section to another without physical routing through Stores Depot",
+      "B": "Transferring employee service records",
+      "C": "Sending material to scrap auction",
+      "D": "Ordering office stationery"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which form is used when returning unused excess stock material back to Stores Depot in original condition?",
+    "options": {
+      "A": "Advice Note of Returned Stores (Form S-1539) marked as 'Unused / Surplus Stock'",
+      "B": "Form S-1313",
+      "C": "Form GA-1",
+      "D": "Work Completion Ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If unused stock material is returned within the same financial month, how is the credit processed?",
+    "options": {
+      "A": "Credited back to the specific Work Order / Allocation Head from which it was originally drawn",
+      "B": "Credited to CWM personal account",
+      "C": "Debited as penalty on shop SSE",
+      "D": "Forfeited completely"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of RPF (Railway Protection Force) at the Stores Scrap Yard gate during scrap delivery?",
+    "options": {
+      "A": "Verify Delivery Order, check physical scrap loading against gate pass, ensure no unauthorized material is taken, and check weighment",
+      "B": "Fix reserve prices for scrap",
+      "C": "Prepare accounts ledger entries",
+      "D": "Operate crane"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Gate Pass for Scrap Delivery'?",
+    "options": {
+      "A": "Official non-returnable security pass authorizing the scrap purchaser's vehicle to exit the workshop gate with weighed scrap",
+      "B": "Pass for worker leave",
+      "C": "Returnable pass for tool repair",
+      "D": "Pass to enter canteen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who signs the Non-Returnable Scrap Gate Pass before a loaded scrap truck leaves the workshop?",
+    "options": {
+      "A": "Authorized Stores Officer / Ward Keeper and RPF Gate In-Charge",
+      "B": "Canteen Supervisor",
+      "C": "Medical Inspector",
+      "D": "Outside driver"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Survey Report for Condemnation of Machinery & Plant' (M&P)?",
+    "options": {
+      "A": "Technical report detailing machine age, working hours, cost of repair vs original value, and reasons for scrapping",
+      "B": "Purchase order for new machine",
+      "C": "Attendance record of machine operator",
+      "D": "Electrical bill of machine"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must sanction the condemnation of a high-value Machine & Plant asset costing above major Model SOP limits?",
+    "options": {
+      "A": "Head of Department (PCME / PCEE) / General Manager depending on financial limits",
+      "B": "Junior Engineer",
+      "C": "Store Clerk",
+      "D": "Third-party vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Credit Slip' attached to Advice Note S-1539?",
+    "options": {
+      "A": "Accounts voucher acknowledging financial credit posted to the workshop allocation head for returned stores",
+      "B": "Discount coupon for shopping",
+      "C": "Salary slip",
+      "D": "Pass for train travel"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When serviceable tools are returned to the Tool Room by a worker, which document is updated?",
+    "options": {
+      "A": "Tool Issue Card / Tool Register (clearing worker's tool loan record)",
+      "B": "Service Book",
+      "C": "Muster Roll",
+      "D": "Scrap Sale Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if a worker fails to return a borrowed specialized tool to the Tool Room?",
+    "options": {
+      "A": "Cost of the lost tool is recovered from worker's salary after due verification",
+      "B": "Tool room is closed down",
+      "C": "Worker gets incentive bonus",
+      "D": "Tool price is debited to CWM"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway workshops, old traction motor copper coils removed during rewind are classified as:",
+    "options": {
+      "A": "High-grade Heavy Copper Scrap (Non-Ferrous)",
+      "B": "Ferrous Steel Scrap",
+      "C": "General Rubbish",
+      "D": "Wood Scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is heavy copper scrap weighed with high precision balances in presence of RPF and Accounts?",
+    "options": {
+      "A": "Because copper has very high market value and high risk of pilferage",
+      "B": "Because copper is radioactive",
+      "C": "Because copper dissolves in air",
+      "D": "To determine worker basic pay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Lot Sample Inspection' by prospective bidders?",
+    "options": {
+      "A": "Opportunity given to registered buyers to inspect physical scrap lots in depot prior to auction date",
+      "B": "Testing scrap in chemical laboratory",
+      "C": "Giving free scrap samples to buyers",
+      "D": "Selling scrap without auction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Can scrap materials be sold directly to railway employees for private use without public e-Auction?",
+    "options": {
+      "A": "No, direct private sale of scrap to employees is prohibited under Railway vigilance and store rules",
+      "B": "Yes, always allowed at 50% discount",
+      "C": "Yes, with permission of JE",
+      "D": "Yes, on festival days"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Melt Scrap' vs 'Serviceable Re-rollable Scrap'?",
+    "options": {
+      "A": "Melt scrap is fit only for melting in furnaces; Re-rollable scrap (like old rails) can be re-rolled into structural steel sections",
+      "B": "Melt scrap is non-metallic; Re-rollable is wood",
+      "C": "They are identical terms",
+      "D": "Melt scrap is imported"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Released rails from track renewals are classified into:",
+    "options": {
+      "A": "Class I (Serviceable for re-use), Class II (Serviceable with repair), and Class III (Scrap for auction)",
+      "B": "Grade A and Grade B only",
+      "C": "New rails and Old rails",
+      "D": "Heavy rails and Light rails"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who inspects and classifies released permanent way / track materials before return to Stores Depot?",
+    "options": {
+      "A": "Permanent Way Inspector (SSE/P.Way) and Stores/Accounts Representative",
+      "B": "Station Master",
+      "C": "Loco Pilot",
+      "D": "Canteen Manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification of Scrap Yards'?",
+    "options": {
+      "A": "Independent physical audit of scrap lot balances and registers conducted by Accounts Stock Verifiers",
+      "B": "Counting leaves on trees in yard",
+      "C": "Checking truck speed",
+      "D": "Testing water supply"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Discrepancy in Scrap Weight' during delivery?",
+    "options": {
+      "A": "Difference between estimated lot weight and actual weighbridge weight during lifting",
+      "B": "Difference between driver age and weight",
+      "C": "Difference between truck height and length",
+      "D": "Difference between price and tax"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If actual weighed quantity of a scrap lot is within acceptable variation limits (e.g., ± 10%) of auction estimate:",
+    "options": {
+      "A": "Purchaser pays or receives refund for actual weighed balance at bid unit rate",
+      "B": "Auction is cancelled completely",
+      "C": "Purchaser is jailed",
+      "D": "Stores Officer is penalized"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated when returned material is rejected by Stores Depot due to wrong description in Form S-1539?",
+    "options": {
+      "A": "Rejection Advice / Returned Store Discrepancy Memo",
+      "B": "Work Completion Certificate",
+      "C": "Incentive Slip",
+      "D": "Gate Entry Token"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why must shop supervisors ensure prompt return of scrap and released materials to Stores Depot monthly?",
+    "options": {
+      "A": "Prevents shop floor congestion, unlocks tied-up capital credit, reduces theft risk, and maintains safety & 5S hygiene",
+      "B": "To increase paper filing in office",
+      "C": "To delay worker promotions",
+      "D": "To exhaust workshop space"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Incineration' or controlled destruction of unserviceable non-metallic items (e.g., old uniforms/condemned records)?",
+    "options": {
+      "A": "Authorized destruction under supervisory board presence following environmental safety norms",
+      "B": "Burying in river bed",
+      "C": "Throwing outside main gate",
+      "D": "Selling to school children"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which authority approves the write-off of material lost due to theft or fire in Stores Depot?",
+    "options": {
+      "A": "Competent Financial Authority (GM / AGM / PCMM as per Model SOP financial limits)",
+      "B": "Unskilled helper",
+      "C": "Local store clerk",
+      "D": "Outside driver"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Survey Register' maintained in Stores Depot?",
+    "options": {
+      "A": "Register recording all survey reports, items inspected, Survey Committee recommendations, and sanction details",
+      "B": "Register of daily gate entry",
+      "C": "Register of staff attendance",
+      "D": "Register of pass issues"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Lot Register' in scrap wards?",
+    "options": {
+      "A": "Register tracking formation, lot number, description, estimated quantity, e-auction date, sale order, and final delivery of scrap lots",
+      "B": "Register of parking cars",
+      "C": "Register of staff leave",
+      "D": "Register of canteen food"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which type of crane is commonly used in Stores Scrap Yards for lifting heavy ferrous scrap and wheel sets?",
+    "options": {
+      "A": "Overhead Gantry Crane / Mobile Hydraulic Crane / Magnet Crane",
+      "B": "Manual hand winch only",
+      "C": "Passenger elevator",
+      "D": "Tower crane used for skyscrapers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are Electromagnetic Cranes specifically useful in heavy ferrous scrap yards?",
+    "options": {
+      "A": "They quickly attract, lift, and load loose iron/steel scrap without needing manual slinging",
+      "B": "They lift wooden sleepers",
+      "C": "They sort aluminum from copper",
+      "D": "They clean oil spills"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Segregation' at source in workshop sections?",
+    "options": {
+      "A": "Practice of separating different metals (copper, brass, steel, aluminum) immediately at machine source before sending to Stores",
+      "B": "Mixing all metals together in one container",
+      "C": "Burying metal in ground",
+      "D": "Burning all scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the financial loss of failing to perform scrap segregation at source?",
+    "options": {
+      "A": "High-value non-ferrous metals get contaminated with steel and are valued at much lower mixed scrap rates during auction",
+      "B": "Increase in basic pay of staff",
+      "C": "Free delivery of material",
+      "D": "No financial loss occurs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Returned Stores Register' maintained by the Shop In-Charge?",
+    "options": {
+      "A": "Record book tracking all Advice Notes (S-1539) generated, items dispatched to Stores, and credit acknowledgments received from Accounts",
+      "B": "Book listing retired workers",
+      "C": "Register for overtime",
+      "D": "Book for pass applications"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are unserviceable lead-acid batteries disposed of by Railway Stores Depots?",
+    "options": {
+      "A": "Auctioned strictly to Ministry of Environment & Forests (MoEF) / CPCB registered battery recyclers under Batteries Rules",
+      "B": "Dumped in city garbage bins",
+      "C": "Sold to local ragpickers",
+      "D": "Thrown into workshop water tanks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Auction Catalogue' published before e-Auction on IREPS?",
+    "options": {
+      "A": "Official document listing all scrap lots, lot numbers, descriptions, locations, estimated quantities, and auction terms & conditions",
+      "B": "Book showing new machinery prices",
+      "C": "List of railway officers",
+      "D": "Train schedule timetable"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Post-Bid Clearance' in scrap e-Auction?",
+    "options": {
+      "A": "Formal administrative approval required from competent Stores authority before accepting bids below reserve price",
+      "B": "Cleaning scrap yard with water",
+      "C": "Sending buyer home",
+      "D": "Cancelling gate passes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Defaulted Lot' in scrap management?",
+    "options": {
+      "A": "A scrap lot whose auction sale was cancelled due to purchaser's failure to deposit full balance payment",
+      "B": "A lot containing brand new machines",
+      "C": "A lot gifted to charity",
+      "D": "A lot stored under water"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a Defaulted Lot is put up for re-auction, any loss incurred by Railways is covered by:",
+    "options": {
+      "A": "Forfeited Security Deposit / EMD of the defaulting purchaser",
+      "B": "Deduction from shop JE salary",
+      "C": "Increasing passenger ticket prices",
+      "D": "Taking loan from bank"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway Kolkata maintenance depots, worn-out brake blocks released from rake overhauls are classified as:",
+    "options": {
+      "A": "Cast Iron Scrap / Composite Synthetic Brake Block Scrap",
+      "B": "Copper Scrap",
+      "C": "Wood Scrap",
+      "D": "Glass Scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is processed to account for scrap generated during breakdown repairs on track or sub-stations?",
+    "options": {
+      "A": "Advice Note of Returned Stores (Form S-1539) credited to Revenue Maintenance Head",
+      "B": "Capital RSP Order",
+      "C": "Incentive Bill",
+      "D": "Overtime Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who holds administrative charge of the Central Stores Scrap Depot in a zonal railway / major production unit?",
+    "options": {
+      "A": "Deputy Chief Material Manager (Dy. CMM / Scrap) or Senior District Material Manager (Sr. DMM)",
+      "B": "Chief Medical Officer",
+      "C": "Divisional Safety Officer",
+      "D": "Assistant Personnel Officer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Material Delivery Scrap Pass' (Gate Pass)?",
+    "options": {
+      "A": "Pass generated electronically upon full weighment verification authorizing gate guards to allow scrap vehicle exit",
+      "B": "Pass for employee family travel",
+      "C": "Pass for hospital entry",
+      "D": "Pass for canteen lunch"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Surplus Store Inventory' in Stores Depot?",
+    "options": {
+      "A": "Serviceable stock items that have not moved/issued for over 24 months and are deemed excess to future needs",
+      "B": "Stock items issued every shift",
+      "C": "Newly arrived imported equipment",
+      "D": "Items purchased yesterday"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does the Standing Surplus Committee deal with Surplus Store Inventory?",
+    "options": {
+      "A": "Recommends re-advertisement to other zonal railways/metro networks, conversion to alternative use, or scrap condemnation",
+      "B": "Orders immediate burning of stock",
+      "C": "Distributes items to officers",
+      "D": "Ignores the stock forever"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Material Valuation Rate' applied to returned serviceable components?",
+    "options": {
+      "A": "Assessed percentage value (e.g., 50-70% of book rate) based on remaining life and reconditioning cost",
+      "B": "Zero value",
+      "C": "Double new price",
+      "D": "Triple market value"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which accounting ledger records progressive credits received by a Workshop for scrap returned via Form S-1539?",
+    "options": {
+      "A": "Workshop Out-turn Statement / WMS Ledger",
+      "B": "Leave Register",
+      "C": "D&AR Register",
+      "D": "Attendance Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is efficient processing of returned stores and scrap disposal critical for Railway Workshop Management?",
+    "options": {
+      "A": "Maximizes revenue generation, recycles materials, clears shop floor space, ensures vigilance safety, and optimizes maintenance costs",
+      "B": "Increases clerical file storage in offices",
+      "C": "Delays train turnaround times",
+      "D": "Prevents computerization of workshop accounts"
+    },
+    "answer": "A"
+  }
+]
+}
