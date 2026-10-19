@@ -1,5 +1,245 @@
 [
-  { "file": "hindi_Metro-Chetna-1.json", "subject": "Hindi", "chapter": "Part-1" },
-  { "file": "hindi_chapter-2.json", "subject": "Hindi", "chapter": "Chapter 2" },
-  { "file": "english_chapter-1.json", "subject": "English", "chapter": "Chapter 1" }
+  {
+    "file": "knowledge_of_incentive_schemes.json",
+    "subject": "Shop Management",
+    "chapter": "Knowledge of incentive schemes"
+  },
+  {
+    "file": "work_order_system.json",
+    "subject": "Shop Management",
+    "chapter": "Work order system"
+  },
+  {
+    "file": "booking_of_labour_hours.json",
+    "subject": "Shop Management",
+    "chapter": "Booking of labour hours and production planning"
+  },
+  {
+    "file": "workshop_documents_processing.json",
+    "subject": "Shop Management",
+    "chapter": "Workshop documents processing"
+  },
+  {
+    "file": "stock_and_non_stock_procedures.json",
+    "subject": "Shop Management",
+    "chapter": "Stock and non-stock procedure for indenting and drawl of stores"
+  },
+  {
+    "file": "return_of_serviceable_and_scrap_items.json",
+    "subject": "Shop Management",
+    "chapter": "Return of serviceable and scrap items, Stores Depot"
+  },
+  {
+    "file": "shop_registers_and_their_need.json",
+    "subject": "Shop Management",
+    "chapter": "Various registers maintained in shops and their need"
+  },
+  {
+    "file": "stock_verification_authorities.json",
+    "subject": "Shop Management",
+    "chapter": "Stock verification authorities and periodicity"
+  },
+  {
+    "file": "shop_floor_safety_measures.json",
+    "subject": "Shop Management",
+    "chapter": "Various safety measures to be followed on the shop floor and machines"
+  },
+  {
+    "file": "staff_protective_clothing.json",
+    "subject": "Shop Management",
+    "chapter": "Staff protective clothing and their entitlements"
+  },
+
+  {
+    "file": "basic_electrical_units.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Basic Electrical Units"
+  },
+  {
+    "file": "electrical_measuring_instruments.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Electrical Measuring Instruments & Measurements"
+  },
+  {
+    "file": "dc_machines.json",
+    "subject": "Technical Knowledge",
+    "chapter": "DC Machines"
+  },
+  {
+    "file": "ac_machines.json",
+    "subject": "Technical Knowledge",
+    "chapter": "AC Machines"
+  },
+  {
+    "file": "transformers.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Transformers"
+  },
+  {
+    "file": "installation.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Installation"
+  },
+  {
+    "file": "cables.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Cables"
+  },
+  {
+    "file": "wiring.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Wiring"
+  },
+  {
+    "file": "transmission_of_electrical_energy.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Transmission of Electrical Energy"
+  },
+  {
+    "file": "insulation_materials.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Insulation Materials"
+  },
+  {
+    "file": "lighting_fittings.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Lighting Fittings"
+  },
+  {
+    "file": "tools_and_plant.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Tools & Plant"
+  },
+  {
+    "file": "control_switchgear.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Control Switchgear"
+  },
+  {
+    "file": "sub_station.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Sub-Station"
+  },
+  {
+    "file": "precautions_to_avoid_accidents.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Precautions and action to be taken to avoid accidents"
+  },
+  {
+    "file": "pumps.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Pumps"
+  },
+  {
+    "file": "rolling_stock.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Rolling Stock"
+  },
+  {
+    "file": "air_conditioning_and_refrigeration.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Air Conditioning & Refrigeration"
+  },
+  {
+    "file": "air_duct_and_distribution_arrangement.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Supply & Return Air-Duct & Distribution Arrangement"
+  },
+  {
+    "file": "batteries.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Batteries"
+  },
+  {
+    "file": "reading_circuit_diagrams.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Reading of simple diagrams and circuit diagrams"
+  },
+  {
+    "file": "electrical_safety_regulations.json",
+    "subject": "Technical Knowledge",
+    "chapter": "Knowledge of electrical safety regulations, I.E. Rules"
+  },
+
+  {
+    "file": "stores_procurement_and_pl_numbers.json",
+    "subject": "Stores Accounts",
+    "chapter": "Specifications, indenting procedures, PL Numbers and procurement"
+  },
+  {
+    "file": "material_accountal_and_requisition.json",
+    "subject": "Stores Accounts",
+    "chapter": "Accountal of materials, T&P, M&P and preparation of requisition"
+  },
+  {
+    "file": "stores_storage_safety_security.json",
+    "subject": "Stores Accounts",
+    "chapter": "Storage of materials, safety and security of stores"
+  },
+
+  {
+    "file": "energy_conservation_measures.json",
+    "subject": "Energy Conservation",
+    "chapter": "Energy conservation measures and power factor improvement"
+  },
+  {
+    "file": "non_conventional_energy_sources.json",
+    "subject": "Energy Conservation",
+    "chapter": "Energy efficient fittings, non-conventional energy sources and controls"
+  },
+
+  {
+    "file": "conduct_rules_and_dar.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Knowledge of Railway Servants Conduct Rules, Discipline & Appeal Rules"
+  },
+  {
+    "file": "establishment_rules_leave_pass_pto.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Knowledge of Establishment Rules like Leave, Pass/PTO entitlement"
+  },
+  {
+    "file": "dar_rules_and_charge_sheets.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "D&AR Rules: Definitions, applicability, suspension, major and minor penalty"
+  },
+  {
+    "file": "casual_labours_engagement_rules.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Rules for engagement and discharge of casual labours/substitutes"
+  },
+  {
+    "file": "workmens_compensation_act.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Workmen's Compensation Act"
+  },
+  {
+    "file": "factory_act.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Factory Act"
+  },
+  {
+    "file": "hours_of_employment_regulations.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Hours of Employment Regulations"
+  },
+  {
+    "file": "working_of_railway_departments.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "General Knowledge about working of various departments in Railways"
+  },
+  {
+    "file": "staff_council_rules.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Staff Council and Rules of its formation/working"
+  },
+  {
+    "file": "railway_organization_hierarchy.json",
+    "subject": "General & Establishment Matters",
+    "chapter": "Hierarchy of Railway organisation from divisional to Railway Board level"
+  },
+  { "file": "hindi_Metro-Chetna.json",
+    "subject": "Hindi",
+    "chapter": "hindi_Metro-Chetna" 
+  }
 ]
