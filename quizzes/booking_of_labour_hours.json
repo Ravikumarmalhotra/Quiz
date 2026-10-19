@@ -1,0 +1,994 @@
+{
+  [
+  {
+    "question": "What is the basic difference between 'Time Keeping' and 'Time Booking' in workshop management?",
+    "options": {
+      "A": "Time Keeping records employee presence at factory gates; Time Booking records time spent on specific job orders on the shop floor",
+      "B": "Time Keeping is done by workers; Time Booking is done by officers",
+      "C": "Time Keeping calculates salary; Time Booking calculates pension",
+      "D": "There is no difference between them"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary objective of 'Booking of Labour Hours' on the shop floor?",
+    "options": {
+      "A": "To accurately allocate labour cost to specific Work Orders and evaluate worker efficiency/incentives",
+      "B": "To decide employee promotion dates",
+      "C": "To calculate income tax deductions",
+      "D": "To monitor canteen food consumption"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which basic document is used by the Time Keeper at the main workshop gate to record daily physical presence?",
+    "options": {
+      "A": "Muster Roll / Attendance Register (Form GA)",
+      "B": "Job Card",
+      "C": "Store Requisition Note",
+      "D": "Advice Note of Returned Stores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is primarily used by a Direct Worker on the shop floor to record time spent on a specific job operation?",
+    "options": {
+      "A": "Job Card / Time Ticket",
+      "B": "Pass Application Form",
+      "C": "Gate Entry Token",
+      "D": "Medical Certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What are 'Unaccounted Hours' in daily labour time booking?",
+    "options": {
+      "A": "Difference between gate attendance hours and total hours booked on Job Cards + Idle Time Cards",
+      "B": "Hours worked during overtime",
+      "C": "Hours spent on official leave",
+      "D": "Time taken for lunch breaks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Unaccounted hours during a worker's shift indicate:",
+    "options": {
+      "A": "Time leakage, improper time booking, or unauthorized absence on the shop floor",
+      "B": "High worker efficiency",
+      "C": "Accurate accounting",
+      "D": "Overtime calculation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is primarily responsible for daily verification and countersigning of Job Cards on the shop floor?",
+    "options": {
+      "A": "Shop Section Junior Engineer (JE) / Senior Section Engineer (SSE)",
+      "B": "Chief Cashier",
+      "C": "Store Keeper",
+      "D": "Security RPF Inspector"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a worker is present in the shop but cannot work due to a machine breakdown, how should their time be booked?",
+    "options": {
+      "A": "On an Idle Time Card under the relevant machine breakdown Work Order",
+      "B": "On the production Job Card",
+      "C": "Marked as absent in Muster Roll",
+      "D": "Booked as Overtime"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the impact of booking machine breakdown time on a production Job Card instead of an Idle Time Card?",
+    "options": {
+      "A": "It artificially increases Time Taken for the job, reducing worker's incentive efficiency unfairly",
+      "B": "It increases worker's incentive earnings",
+      "C": "It reduces machine repair costs",
+      "D": "It has no impact at all"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which card is used to aggregate the daily job-wise labour hours of a worker for an entire month?",
+    "options": {
+      "A": "Daily Labour Tally Sheet / Labour Card / Monthly Time Sheet",
+      "B": "Gate Pass Book",
+      "C": "Health Card",
+      "D": "Store Issue Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Time Punching' in workshop management?",
+    "options": {
+      "A": "Stamping the exact start and completion time on a Job Card using a mechanical or electronic time recorder",
+      "B": "Boxing practice on shop floor",
+      "C": "Punching holes in leather belts",
+      "D": "Manual entry of name in gate register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'ON-Punching' signify on a Job Card?",
+    "options": {
+      "A": "The official starting time of an operation by the worker",
+      "B": "The end of shift hours",
+      "C": "Lunch hour start",
+      "D": "Approval of leave"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'OFF-Punching' signify on a Job Card?",
+    "options": {
+      "A": "The completion or stoppage time of the operation on that card",
+      "B": "Starting time of work",
+      "C": "Entry time at main gate",
+      "D": "Arrival time of raw material"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If a Direct Worker works on three different Work Orders during an 8-hour shift, how should their labour hours be booked?",
+    "options": {
+      "A": "Separately on three respective Job Cards according to actual time spent on each work order",
+      "B": "Entire 8 hours on the first work order",
+      "C": "Entire 8 hours on the last work order",
+      "D": "Booked under general overheads"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are labour hours of Indirect Workers (e.g., Shop Cleaners, Helper for general upkeep) booked?",
+    "options": {
+      "A": "On Standing Work Orders (Shop Oncost / General Oncost)",
+      "B": "On individual component production job cards",
+      "C": "On Capital RSP Work Orders directly",
+      "D": "Indirect workers do not book hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Essential Indirect Workers (EIW) book their working hours against:",
+    "options": {
+      "A": "Specific EIW Standing Work Orders allocated for support services",
+      "B": "Direct job cards of turners",
+      "C": "Deposit work orders of outside parties",
+      "D": "Railway Board admin account"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Reconciliation of Labour Hours' performed by Workshop Accounts?",
+    "options": {
+      "A": "Comparing total gate attendance hours with total hours booked across all job cards and idle cards",
+      "B": "Comparing worker pay scales",
+      "C": "Counting physical stock items in store",
+      "D": "Checking track length"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If total gate attendance hours of a shop section equal 1,000 hours, what should the sum of booked labor hours (Job Cards + Idle Time + Indirect SWO) equal ideally?",
+    "options": {
+      "A": "Exactly 1,000 hours",
+      "B": "500 hours",
+      "C": "1,500 hours",
+      "D": "Zero hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary document used to resolve discrepancies between gate attendance and shop labour booking?",
+    "options": {
+      "A": "Daily Labour Discrepancy Statement",
+      "B": "Medical Requisition",
+      "C": "Store Indent",
+      "D": "Train Advice Note"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Labour Cost per Hour (Hourly Rate) for direct job billing is calculated by Accounts as:",
+    "options": {
+      "A": "Total wages paid to direct workers divided by total effective working labour hours booked",
+      "B": "Basic pay multiplied by 10",
+      "C": "Fixed ₹500 flat per hour",
+      "D": "Total material cost divided by 8"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In computerised workshop systems like WISE, labour hour booking is done using:",
+    "options": {
+      "A": "Barcode / RFID / Smart Card scanning at computer terminals on the shop floor",
+      "B": "Handwritten postal notes",
+      "C": "Verbal instructions to accounts",
+      "D": "Weekly newspapers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main advantage of computerized labour hour booking over manual job cards?",
+    "options": {
+      "A": "Real-time tracking, elimination of manual calculation errors, and prevention of time overlaps",
+      "B": "It eliminates the need for physical work",
+      "C": "It doubles worker basic pay automatically",
+      "D": "It stops machine wear and tear"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'Time Overlap' mean in labour hour booking?",
+    "options": {
+      "A": "Erroneous booking where a worker is shown working on two different Job Cards at the exact same clock time",
+      "B": "Working beyond 5 PM",
+      "C": "Taking lunch during work hours",
+      "D": "Arriving early to factory"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does an automated Time Booking system handle a Time Overlap error?",
+    "options": {
+      "A": "It rejects the second ON-punch until the previous OFF-punch is registered or corrected by JE",
+      "B": "It pays double incentive",
+      "C": "It cancels both work orders",
+      "D": "It marks employee absent"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Gang Booking' of labour hours?",
+    "options": {
+      "A": "Booking total man-hours spent by a group/gang of workers collectively on a single large task or overhaul assembly",
+      "B": "Booking hours for gangmen on track maintenance only",
+      "C": "Illegal booking of time",
+      "D": "Booking time for administrative clerks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Gang Booking, if a gang of 5 fitters works for 6 hours on a coach overhaul job, total man-hours booked to the job card are:",
+    "options": {
+      "A": "30 Man-Hours (5 × 6)",
+      "B": "6 Man-Hours",
+      "C": "11 Man-Hours",
+      "D": "60 Man-Hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Man-Hour Efficiency' ratio?",
+    "options": {
+      "A": "(Standard / Allowed Man-Hours) / (Actual Man-Hours Taken) × 100",
+      "B": "(Actual Man-Hours / Total Staff) × 100",
+      "C": "(Total Scrap Weight / Hours) × 100",
+      "D": "(Basic Pay / Hours) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If Allowed Time for a job is 40 Man-Hours and a gang completes it in 32 Man-Hours, what is the time saved?",
+    "options": {
+      "A": "8 Man-Hours",
+      "B": "72 Man-Hours",
+      "C": "1.25 Man-Hours",
+      "D": "0 Man-Hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In the above question, what is the worker efficiency achieved?",
+    "options": {
+      "A": "125%",
+      "B": "80%",
+      "C": "20%",
+      "D": "100%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which card is used when a worker is diverted from production work to perform urgent machine maintenance?",
+    "options": {
+      "A": "Indirect Work Ticket / Machine Repair Work Card",
+      "B": "Production Job Card",
+      "C": "Canteen Pass",
+      "D": "Sick Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What should a worker do if they lose their active Job Card on the shop floor?",
+    "options": {
+      "A": "Report immediately to Shop JE/SSE to obtain a certified Duplicate Job Card from PCO",
+      "B": "Stop working for the rest of the month",
+      "C": "Punch time on a blank scrap paper without signature",
+      "D": "Take a copy of someone else's job card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Duplicate Job Cards issued by PCO carry which distinct marking?",
+    "options": {
+      "A": "Marked 'DUPLICATE' in red ink with authorization signature",
+      "B": "Marked 'CANCELLED'",
+      "C": "Marked 'FREE'",
+      "D": "No marking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Overtime (OT) Labour Hours Booking' procedure?",
+    "options": {
+      "A": "Hours worked beyond standard daily/weekly limits sanctioned by competent authority and recorded on separate Overtime Muster Cards",
+      "B": "Hours booked during regular lunch break",
+      "C": "Hours worked coming early voluntarily without permission",
+      "D": "Hours spent on official leave"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Railway rules, Overtime labour hours worked under the Factories Act are paid at what wage rate?",
+    "options": {
+      "A": "Double the ordinary rate of wages (200%)",
+      "B": "Equal to basic pay (100%)",
+      "C": "Half basic pay (50%)",
+      "D": "Triple basic pay (300%)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Can regular incentive bonus and Factories Act Overtime pay be claimed for the exact same physical working hours?",
+    "options": {
+      "A": "No, they are mutually exclusive for the same timeframe",
+      "B": "Yes, always allowed",
+      "C": "Yes, for supervisors only",
+      "D": "Yes, during festivals only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Night Duty Allowance (NDA) booking requires recording hours worked between:",
+    "options": {
+      "A": "22:00 hours (10 PM) to 06:00 hours (6 AM)",
+      "B": "18:00 hours to 24:00 hours",
+      "C": "00:00 hours to 12:00 hours",
+      "D": "20:00 hours to 04:00 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Preparation Time' included in machine shop job cards?",
+    "options": {
+      "A": "Allowed time for setting tools, fixing raw stock, reading drawings before machining begins",
+      "B": "Time spent cooking food",
+      "C": "Time spent travelling to factory",
+      "D": "Time spent attending union meetings"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a single operator manages two automatic machines simultaneously (Multi-machine operating), how are labour hours booked?",
+    "options": {
+      "A": "Booked according to specific multi-machine rating allocation rules established by PCO work study",
+      "B": "Double full hours charged to both machines independently",
+      "C": "No hours booked",
+      "D": "Only half shift hours credited as attendance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Lost Time' due to material non-availability?",
+    "options": {
+      "A": "Idle time booked when workers cannot proceed because required material is not issued by Stores",
+      "B": "Time lost during train travel",
+      "C": "Time lost due to worker illness",
+      "D": "Time spent in canteen"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Lost Time' due to drawing/instruction delay?",
+    "options": {
+      "A": "Idle time booked when work stops while waiting for approved technical drawings or clarifications",
+      "B": "Time spent painting the shop",
+      "C": "Time spent in safety training",
+      "D": "Time spent during gate check"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must countersign Idle Time Cards due to power failure before submission to Accounts?",
+    "options": {
+      "A": "Shop SSE and Electrical Power Maintenance SSE / Engineer",
+      "B": "Time Keeper alone",
+      "C": "Gate Guard",
+      "D": "Store Clerk"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary risk of delayed submission of Job Cards to Accounts at the end of the month?",
+    "options": {
+      "A": "Delay in monthly incentive calculation and variance in cost accounting",
+      "B": "Loss of employee seniority",
+      "C": "Machine theft",
+      "D": "Cancellation of railway passes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In railway workshops, what is the cutoff date generally set for returning completed Job Cards for monthly incentive billing?",
+    "options": {
+      "A": "Last working day of the accounting month (or as designated by CWM/WAO)",
+      "B": "15th of next month",
+      "C": "End of financial year only",
+      "D": "Every Monday morning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Piece Rate System' compared to 'Time Rate System'?",
+    "options": {
+      "A": "Piece Rate pays based on output produced; Time Rate pays based on time spent on duty",
+      "B": "Piece Rate is for officers; Time Rate is for helpers",
+      "C": "Piece Rate is illegal in India",
+      "D": "There is no difference"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The CLW Incentive Pattern followed in Indian Railways is essentially a:",
+    "options": {
+      "A": "Modified Time Bonus Scheme (Guaranteed Basic Pay + Piece Work Rate on Time Saved)",
+      "B": "Pure Straight Piece Rate Scheme without guaranteed pay",
+      "C": "Commission-only scheme",
+      "D": "Profit sharing scheme"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Standard Man-Hours' required for a product?",
+    "options": {
+      "A": "Total normative labour hours calculated by PCO to build/overhaul one unit of product",
+      "B": "Total working hours in a year",
+      "C": "24 hours",
+      "D": "Hours spent on tea break"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Direct Labour Cost' charged to a Work Order?",
+    "options": {
+      "A": "Booked Direct Labour Hours × Direct Hourly Labour Rate",
+      "B": "Total Shop Oncost",
+      "C": "Material Price × Quantity",
+      "D": "Officer basic salary"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which accounting account is debited with total Direct Labour Cost of workshop workers every month?",
+    "options": {
+      "A": "Workshop Manufacturing Suspense (WMS) Account",
+      "B": "Staff Benefit Fund",
+      "C": "Capital Account",
+      "D": "Revenue Account Demand 3"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When work on a Job Card extends into the next accounting month without physical completion, it is treated as:",
+    "options": {
+      "A": "Work-in-Progress (WIP) job ticket",
+      "B": "Cancelled job",
+      "C": "Scrapped work",
+      "D": "Idle time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "For WIP Job Cards at the month end, labour hours spent during the current month are:",
+    "options": {
+      "A": "Booked and accounted for current month billing/WIP, while job remains open for next month",
+      "B": "Forfeited and ignored",
+      "C": "Paid at double rate",
+      "D": "Charged to supervisor's pay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Labour Utilization Percentage'?",
+    "options": {
+      "A": "(Productive Labour Hours Booked on Jobs / Total Available Gate Hours) × 100",
+      "B": "(Idle Hours / Total Hours) × 100",
+      "C": "(Leave Days / Total Days) × 100",
+      "D": "(Overtime Hours / Regular Hours) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "High Idle Time percentage on the shop floor indicates:",
+    "options": {
+      "A": "Poor shop planning, machine breakdowns, or material supply bottlenecks",
+      "B": "High shop productivity",
+      "C": "Excellent rate fixing",
+      "D": "Efficient store management"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Job Card Punching Terminal' (JPT)?",
+    "options": {
+      "A": "Shop floor hardware unit used by workers to scan smart cards/barcodes to record job start/stop times",
+      "B": "Railway station ticket vending machine",
+      "C": "ATM machine",
+      "D": "Gate security guard room"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Clock Time' vs 'Allowed Time'?",
+    "options": {
+      "A": "Clock Time is actual elapsed time measured by clock; Allowed Time is standard budgeted time for the job",
+      "B": "Clock Time is night time; Allowed Time is day time",
+      "C": "Clock Time is overtime; Allowed Time is regular time",
+      "D": "They mean the exact same thing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If Clock Time Taken = 6 hours and Allowed Time = 9 hours, what is the Time Saved?",
+    "options": {
+      "A": "3 hours",
+      "B": "15 hours",
+      "C": "1.5 hours",
+      "D": "54 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If Clock Time Taken = 10 hours and Allowed Time = 8 hours, what is the Time Saved?",
+    "options": {
+      "A": "0 hours (Negative 2 hours / No time saved)",
+      "B": "2 hours",
+      "C": "18 hours",
+      "D": "80 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In the case of negative time saved (Time Taken > Allowed Time), worker's incentive bonus for that job is:",
+    "options": {
+      "A": "Zero (NIL)",
+      "B": "Deducted from basic pay",
+      "C": "Paid at 50%",
+      "D": "Paid at 100%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Does a worker suffer any reduction in guaranteed basic pay if their total monthly Time Taken exceeds Allowed Time?",
+    "options": {
+      "A": "No, basic pay is fully guaranteed under Railway Incentive Rules",
+      "B": "Yes, basic pay is reduced by 50%",
+      "C": "Yes, basic pay is reduced by 10%",
+      "D": "Yes, they are dismissed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Proxy Punching' in time booking systems?",
+    "options": {
+      "A": "Illegal practice where one worker punches time for an absent colleague",
+      "B": "Punching job card using computer software",
+      "C": "Punching time card at officer office",
+      "D": "Valid authorization to work late"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Proxy punching on shop floor attracts punishment under which Railway rule?",
+    "options": {
+      "A": "Railway Servants (Discipline & Appeal) Rules - Major/Minor Penalty proceedings for misconduct",
+      "B": "Pass Rules",
+      "C": "Pension Rules",
+      "D": "Medical Attendance Rules"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Shift Hours' standard duration in standard railway workshops?",
+    "options": {
+      "A": "8 hours per day (excluding meal break) / 48 hours per week standard",
+      "B": "12 hours per day",
+      "C": "4 hours per day",
+      "D": "24 hours per day"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Meal break duration in standard workshop shifts is generally:",
+    "options": {
+      "A": "30 minutes to 1 hour (unpaid non-working time)",
+      "B": "3 hours",
+      "C": "10 minutes",
+      "D": "Whole shift"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Is meal break time included in job operation Allowed Time calculation?",
+    "options": {
+      "A": "No, meal breaks are excluded from working labour hours",
+      "B": "Yes, included always",
+      "C": "Included only on Sundays",
+      "D": "Included only for supervisors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Time Card Reconciliation Audit' conducted by Workshop Accounts Officers?",
+    "options": {
+      "A": "Test-checking job card entries, punching timestamps, and supervisor signatures against gate muster records",
+      "B": "Audit of canteen accounts",
+      "C": "Audit of uniform stitching quality",
+      "D": "Audit of tree planting in colony"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is generated by WISE software showing daily exceptions like missing punches or unbooked hours?",
+    "options": {
+      "A": "Daily Time Exception Report",
+      "B": "Monthly Store Balance Sheet",
+      "C": "Pension Payment Order",
+      "D": "Service Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What action is taken by Section JE on a Daily Time Exception Report?",
+    "options": {
+      "A": "Verify genuine cause of missing punch, make necessary manual override/correction, and sign justification",
+      "B": "Ignore the report",
+      "C": "Delete the employee from system",
+      "D": "Send employee home"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Metro Railway maintenance depots, labour hours for preventive maintenance rakes are booked under:",
+    "options": {
+      "A": "Standard Rake Maintenance Standing Work Orders",
+      "B": "Capital RSP Account",
+      "C": "Outside Agency Account",
+      "D": "Stationmaster Cash Account"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Man-Power Planning' based on labour hour records?",
+    "options": {
+      "A": "Estimating future staff requirement by analyzing historical standard labour hours required per unit output",
+      "B": "Planning employee vacation trips",
+      "C": "Arranging staff bus transport",
+      "D": "Designing staff quarters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Idle Time Allowance' in rate fixing?",
+    "options": {
+      "A": "Unavoidable minor delays inherent to process built into standard estimates (like machine clear-out)",
+      "B": "Allowance for coming late",
+      "C": "Allowance for sleeping on duty",
+      "D": "Allowance for strike"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Machine Controlled Time' in time study?",
+    "options": {
+      "A": "Operating time during which the machine runs automatically and pace is governed by machine parameters, not operator",
+      "B": "Time taken by operator to clean machine",
+      "C": "Time machine stays broken",
+      "D": "Time spent buying new machine"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Operator Controlled Time'?",
+    "options": {
+      "A": "Operating time where speed of work depends entirely on operator skill, effort, and manual handling",
+      "B": "Time machine is turned off",
+      "C": "Time spent in office",
+      "D": "Time spent on leave"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "During Machine Controlled Time, can a worker be expected to earn standard incentive efficiency if feeds/speeds are fixed?",
+    "options": {
+      "A": "Yes, rates are mathematically computed based on standard machine cutting speeds and feeds plus allowances",
+      "B": "No, incentive is impossible",
+      "C": "Yes, by over-speeding machine dangerously",
+      "D": "Only if supervisor agrees"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Waiting for Work' Idle Time?",
+    "options": {
+      "A": "Idle time caused when worker is available but PCO/Shop has not allocated a job card/work piece",
+      "B": "Time spent waiting for bus",
+      "C": "Time spent waiting for salary",
+      "D": "Time spent waiting for pension"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Waiting for Crane' Idle Time?",
+    "options": {
+      "A": "Idle time caused in heavy fabrication shops when crane overhead lifting is delayed",
+      "B": "Time spent watching birds",
+      "C": "Time spent repairing crane engine by turner",
+      "D": "Time spent on track"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Waiting for Tools' Idle Time?",
+    "options": {
+      "A": "Idle time caused when special tools, jigs, or fixtures are not readily available in tool room",
+      "B": "Time spent repairing home furniture",
+      "C": "Time spent buying personal tools",
+      "D": "Time spent in garden"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "All Idle Time hours booked on the shop floor are categorized in cost accounting as:",
+    "options": {
+      "A": "Shop Oncost (Indirect Expenses)",
+      "B": "Direct Material Cost",
+      "C": "Direct Revenue Profit",
+      "D": "Capital Investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who analyzes monthly shop Idle Time reports to take corrective managerial actions?",
+    "options": {
+      "A": "Workshop Superintendent / Dy. CME / CWM",
+      "B": "Gate Watchman",
+      "C": "Canteen Contractor",
+      "D": "Station Ticketing Staff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Labour Direct Booking Ratio'?",
+    "options": {
+      "A": "(Direct Labour Hours Booked / Total Labour Hours Booked) × 100",
+      "B": "(Indirect Hours / Direct Hours) × 100",
+      "C": "(Overtime Hours / Gate Hours) × 100",
+      "D": "(Leave Days / Working Days) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A healthy manufacturing/repair workshop strives to keep the Labour Direct Booking Ratio:",
+    "options": {
+      "A": "As high as possible (maximizing productive direct labour utilization)",
+      "B": "As low as possible (0%)",
+      "C": "Exactly 10%",
+      "D": "Irrelevant"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Attendance Card' (Clock Card) used in mechanical card-punching clocks?",
+    "options": {
+      "A": "Card stamped by worker at gate entry and exit showing total attendance hours",
+      "B": "Card used to claim free meals",
+      "C": "Card used for medical checkup",
+      "D": "Card for store issue"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a worker works across midnight in a night shift, labour hours booking system records attendance based on:",
+    "options": {
+      "A": "Shift start date or designated night shift accounting rules",
+      "B": "Two separate full day salaries",
+      "C": "Sunday holiday rules",
+      "D": "It ignores midnight hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Rest Allowance' in shift work labour booking?",
+    "options": {
+      "A": "Mandatory periodic rest hours prescribed under Hours of Employment Regulations (HOER) between shifts",
+      "B": "Time allowed to sleep during production shift",
+      "C": "Tea break bonus",
+      "D": "Vacation pay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does HOER stand for in Indian Railways?",
+    "options": {
+      "A": "Hours of Employment Regulations",
+      "B": "Head of Electrical Repairs",
+      "C": "High Operational Efficiency Rating",
+      "D": "Heavy Overhaul Equipment Rules"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under HOER, workshop staff are generally classified as:",
+    "options": {
+      "A": "Continuous / Intensive / Essentially Intermittent (Workshops strictly governed by Factories Act 1948)",
+      "B": "Excluded staff only",
+      "C": "Executive management",
+      "D": "Unskilled casuals only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Factories Act 1948, maximum normal working hours per week for an adult worker without overtime is:",
+    "options": {
+      "A": "48 hours",
+      "B": "60 hours",
+      "C": "72 hours",
+      "D": "36 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Factories Act 1948, maximum continuous working stretch allowed without a rest interval of at least 30 mins is:",
+    "options": {
+      "A": "5 hours",
+      "B": "8 hours",
+      "C": "10 hours",
+      "D": "12 hours"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Labour hours booked on 'Rectification Job Cards' (Rework) are evaluated to analyze:",
+    "options": {
+      "A": "Quality failures, poor workmanship, or substandard raw material input",
+      "B": "Worker seniority",
+      "C": "Canteen expenditure",
+      "D": "Office stationery consumption"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must approve a Rectification (Rework) Job Card before labour hours can be officially booked on it?",
+    "options": {
+      "A": "Inspection Officer / Shop SSE / Quality Control JE",
+      "B": "Gate Keeper",
+      "C": "Store Peon",
+      "D": "Time Keeper Clerk"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Time Study, 'Basic Time' is converted to 'Standard Time' by adding:",
+    "options": {
+      "A": "Allowances (Fatigue, Contingency, Personal Needs, Machine Setup)",
+      "B": "Worker basic pay",
+      "C": "Scrap weight",
+      "D": "Train delay time"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If Basic Time is 100 minutes and total allowances equal 20%, what is the Standard Allowed Time?",
+    "options": {
+      "A": "120 minutes",
+      "B": "80 minutes",
+      "C": "200 minutes",
+      "D": "100 minutes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Performance Rating' applied during time study observation of labour hours?",
+    "options": {
+      "A": "Multiplier factor comparing observed worker pace with standard normal pace",
+      "B": "Worker's annual confidential report grade",
+      "C": "Safety award ranking",
+      "D": "Canteen feedback score"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the formula for 'Observed Basic Time' in Time Study?",
+    "options": {
+      "A": "Observed Actual Time × (Observed Performance Rating / Standard Rating)",
+      "B": "Observed Actual Time + 100",
+      "C": "Observed Actual Time / 2",
+      "D": "Observed Actual Time × 0"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Idle Time Register' maintained in the shop section?",
+    "options": {
+      "A": "Register recording date, worker name, cause, duration, and supervisory sign for all booked idle hours",
+      "B": "Register of staff on annual leave",
+      "C": "Register of retired employees",
+      "D": "Register of incoming trains"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Job Card Reconciliation Statement' submitted monthly to Accounts?",
+    "options": {
+      "A": "Summary report proving all job cards issued by PCO are accounted for as Completed, In-Progress, or Cancelled",
+      "B": "List of passes issued",
+      "C": "List of medical bills reimbursed",
+      "D": "List of discipline cases"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Labour hours spent on repairing shop floor machine tools are booked under which department's work orders?",
+    "options": {
+      "A": "Millwright Maintenance Section Standing Work Orders",
+      "B": "Carriage Repair Production Work Orders",
+      "C": "Traffic Department Operations Account",
+      "D": "Commercial Ticket Account"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Out-of-Routine Job Ticket'?",
+    "options": {
+      "A": "Ticket issued for non-standard, emergency repair work not covered by standard operational route cards",
+      "B": "Bus travel ticket",
+      "C": "Holiday trip pass",
+      "D": "Canteen snack coupon"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are labour hours booked for training programs attended by shop workers during shift hours?",
+    "options": {
+      "A": "Booked under Training Standing Work Order (General Oncost)",
+      "B": "Booked as direct production output",
+      "C": "Marked as leave without pay",
+      "D": "Booked on component job card"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the ultimate benefit of disciplined booking of labour hours in Metro Railway workshops?",
+    "options": {
+      "A": "Accurate unit costing of maintenance, higher productivity, fair incentive payment, and optimal staff utilization",
+      "B": "Increased paper consumption in offices",
+      "C": "Higher penalty on workers",
+      "D": "Elimination of maintenance schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who has the final authority to audit and pass monthly Labour Cost Allocation Statements in Railway Workshops?",
+    "options": {
+      "A": "Workshop Accounts Officer (WAO)",
+      "B": "Senior Section Engineer (Stores)",
+      "C": "Chief Security Commissioner",
+      "D": "Head Clerk Personnel"
+    },
+    "answer": "A"
+  }
+]
+}
