@@ -1,0 +1,994 @@
+{
+[
+  {
+    "question": "What is a 'Stock Item' in Indian Railways and Metro Railway store management?",
+    "options": {
+      "A": "An item required for a one-time project only",
+      "B": "An item for which a regular stock is maintained in Stores Depots due to frequent and recurring demand",
+      "C": "An item purchased directly from local retail market by the user shop",
+      "D": "An item that cannot be coded with a PL number"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is a 'Non-Stock Item'?",
+    "options": {
+      "A": "An item stored permanently in huge quantities in depot wards",
+      "B": "An item needed for a specific work/sanctioned estimate, non-recurring in nature, and not kept in regular store inventory",
+      "C": "An item that has zero purchase cost",
+      "D": "An item issued only to administrative officers"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How many digits are standardly used in an Indian Railway Price Ledger (PL) Number for identifying stock items?",
+    "options": {
+      "A": "6 digits",
+      "B": "8 digits",
+      "C": "10 digits",
+      "D": "12 digits"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In an 8-digit PL Number '30 12 345 6', what do the first two digits '30' represent?",
+    "options": {
+      "A": "Sub-group of the item",
+      "B": "Main Group / Category of the store item",
+      "C": "Serial number of the item",
+      "D": "Check digit"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In an 8-digit PL Number, what do the 3rd and 4th digits represent?",
+    "options": {
+      "A": "Main Group",
+      "B": "Sub-Group of the store item",
+      "C": "Manufacturing year",
+      "D": "Store Depot Code"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of the 8th (last) digit in a PL Number?",
+    "options": {
+      "A": "It indicates the price of the item",
+      "B": "It is a Check Digit calculated using a computer algorithm to prevent data entry errors",
+      "C": "It indicates the shelf life in months",
+      "D": "It indicates the supplier rating"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which Railway Stores Form is standardly used by the user shop as a Requisition / Issue Note (S-1313) to draw Stock Items from Stores Depot?",
+    "options": {
+      "A": "Form S-1302",
+      "B": "Form S-1313",
+      "C": "Form S-1539",
+      "D": "Form S-1727"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which form is used by an indented shop/office for Requisitioning Non-Stock Items?",
+    "options": {
+      "A": "Form S-1302 (Indent for Non-Stock Items)",
+      "B": "Form S-1313",
+      "C": "Form S-1539",
+      "D": "Form GA-3"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which online portal is used across Indian Railways and Metro Railway for e-procurement and digital indenting of non-stock materials?",
+    "options": {
+      "A": "IREPS (Indian Railways E-Procurement System) / iMMIS",
+      "B": "FOIS",
+      "C": "COMS",
+      "D": "HRMS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does iMMIS stand for in Railway Store Management?",
+    "options": {
+      "A": "Integrated Material Management Information System",
+      "B": "Indian Metro Material Inspection System",
+      "C": "International Material Maintenance Inventory System",
+      "D": "Internal Machinery Management Information Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'ABC Analysis' in inventory management of Railway stores?",
+    "options": {
+      "A": "Categorization of store items based on their annual consumption value",
+      "B": "Classification based on weight of items",
+      "C": "Classification based on shelf-life",
+      "D": "Categorization based on supplier country"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In ABC Analysis, 'A' Category items represent approximately what proportion of total store inventory value?",
+    "options": {
+      "A": "70% to 80% of total annual consumption value (covering ~10-15% of total items)",
+      "B": "10% of total value",
+      "C": "5% of total value",
+      "D": "100% of total items"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In ABC Analysis, 'C' Category items represent:",
+    "options": {
+      "A": "High-value items",
+      "B": "Low-value items representing ~65-70% of total inventory items but only ~5-10% of total consumption value",
+      "C": "Safety critical items only",
+      "D": "Imported items only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does 'VED Analysis' stand for in railway store classification?",
+    "options": {
+      "A": "Volume, Energy, Weight Analysis",
+      "B": "Vital, Essential, Desirable Analysis",
+      "C": "Vendor, Equipment, Delivery Analysis",
+      "D": "Valuable, Economic, Durable Analysis"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In VED Analysis, 'Vital' (V) items are those whose non-availability results in:",
+    "options": {
+      "A": "Immediate total breakdown or stoppage of train operations / maintenance work",
+      "B": "Minor inconvenience only",
+      "C": "No effect on work",
+      "D": "Cost reduction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'FSN Analysis' in stores management?",
+    "options": {
+      "A": "Fast moving, Slow moving, and Non-moving (Dead) stock classification",
+      "B": "Fuel, Steel, Nickel classification",
+      "C": "Factory Safety Network",
+      "D": "First Supply Note"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Dead Stock' or 'Surplus Stock'?",
+    "options": {
+      "A": "Items for which there has been no demand/issue for 24 months or more",
+      "B": "Items issued every day",
+      "C": "Newly purchased high-value machinery",
+      "D": "Fuel stock"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Proprietary Article Certificate' (PAC)?",
+    "options": {
+      "A": "Certificate issued by the indenting officer confirming that a specific brand/make is required and no other substitute is acceptable",
+      "B": "Certificate showing land ownership",
+      "C": "Medical certificate for staff",
+      "D": "Tax exemption certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "PAC Indenting under Model Schedule of Powers (Model SOP) Form 16(a) is submitted when:",
+    "options": {
+      "A": "The required item is manufactured only by a single specific firm and no substitute available",
+      "B": "Item is manufactured by thousands of local suppliers",
+      "C": "Item is scrap metal",
+      "D": "Item is stationery paper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must approve a PAC Non-Stock Indent of high value as per Railway Model SOP before submission to Stores?",
+    "options": {
+      "A": "Competent Technical Officer (e.g., SAG officer / DRM / CWM / HOD depending on financial threshold)",
+      "B": "Unskilled Helper",
+      "C": "Store Peon",
+      "D": "Junior Clerk"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Accounts Vetting' of a Non-Stock Indent?",
+    "options": {
+      "A": "Financial scrutiny and endorsement of the indent by the Associate Finance/Accounts officer prior to procurement",
+      "B": "Physical weighing of goods",
+      "C": "Painting the material",
+      "D": "Storing material in bin"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Is Accounts Vetting required for ALL non-stock indents regardless of value?",
+    "options": {
+      "A": "Yes, always required",
+      "B": "No, threshold financial limits are fixed under SOP below which indents can be processed directly without prior vetting",
+      "C": "Accounts vetting is illegal",
+      "D": "Only required for stationery"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary document used to return unserviceable scrap or excess raw material from user shop back to Stores Depot?",
+    "options": {
+      "A": "Advice Note of Returned Stores (Form S-1539)",
+      "B": "Form S-1313",
+      "C": "Form S-1302",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How many copies of Advice Note of Returned Stores (Form S-1539) are generally prepared by the returning shop?",
+    "options": {
+      "A": "2 copies",
+      "B": "6 copies (or as prescribed for accountal, ward receipt, and user acknowledgment)",
+      "C": "100 copies",
+      "D": "1 copy only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When raw material already drawn for Work Order 'X' is transferred to Work Order 'Y' within the shop, which form must be processed?",
+    "options": {
+      "A": "Advice of Material Transfer (Form S-1727)",
+      "B": "Form S-1302",
+      "C": "Form S-1539",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stocking Proposal' in store management?",
+    "options": {
+      "A": "Proposal submitted by user department to convert a frequently used Non-Stock item into a regular Stock Item",
+      "B": "Proposal to sell all store items",
+      "C": "Proposal to build new staff quarters",
+      "D": "Proposal to close the stores depot"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A Stocking Proposal must contain which of the following essential details?",
+    "options": {
+      "A": "Anticipated annual consumption, estimated rate, specification, recommended initial stock level, and justification",
+      "B": "Color of the building",
+      "C": "Names of retired workers",
+      "D": "Bus fare details"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who gives the final financial and technical sanction for converting a Non-Stock item to a Stock Item?",
+    "options": {
+      "A": "Principal Chief Material Manager (PCMM) / Competent Stores & Finance Authority",
+      "B": "Junior Engineer",
+      "C": "Section Clerk",
+      "D": "Third party contractor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Lead Time' in stores procurement?",
+    "options": {
+      "A": "Time spent in loading material",
+      "B": "Total time elapsed between initiation of indent/requisition and actual physical receipt of material in depot",
+      "C": "Time spent in worker lunch break",
+      "D": "Time taken by train to reach station"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Buffer Stock' (Safety Stock)?",
+    "options": {
+      "A": "Extra reserve inventory maintained to protect against sudden spikes in demand or delays in supply during lead time",
+      "B": "Scrap stored in open yard",
+      "C": "Material kept for private sale",
+      "D": "Damaged goods waiting for dumping"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Re-Order Level' (ROL)?",
+    "options": {
+      "A": "Stock level at which an automated fresh procurement action/indent must be triggered to replenish stock before depletion",
+      "B": "Maximum capacity of storage warehouse",
+      "C": "Zero stock level",
+      "D": "Level of water in tank"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Formula for Re-Order Level (ROL) is generally expressed as:",
+    "options": {
+      "A": "ROL = (Minimum Stock / Safety Stock) + Lead Time Consumption",
+      "B": "ROL = Maximum Stock × 100",
+      "C": "ROL = Total Scrap + Zero",
+      "D": "ROL = Price / Quantity"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Maximum Stock Level'?",
+    "options": {
+      "A": "Upper limit of stock inventory above which holding stock causes unnecessary working capital blockage and holding cost",
+      "B": "Unlimited stock",
+      "C": "Zero stock",
+      "D": "Stock level during strike"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Minimum Stock Level'?",
+    "options": {
+      "A": "Stock level below which inventory should not normally fall; acts as safety margin before buffer stock is tapped",
+      "B": "Highest amount of stock in store",
+      "C": "Total weight of warehouse",
+      "D": "Stock sold to scrap dealer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Imprest Stores' in workshop/maintenance depot management?",
+    "options": {
+      "A": "Fixed standing quantity of specific recurring maintenance materials held directly by the user shop SSE for immediate day-to-day work",
+      "B": "Central stores depot inventory",
+      "C": "Scrap material inventory",
+      "D": "Personal tools owned by workers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How are Imprest Stores replenished (recouped) when consumed?",
+    "options": {
+      "A": "User SSE submits an Imprest Recoupment Requisition (Form S-1830 / S-1313) to Stores Depot to bring stock back to sanctioned limit",
+      "B": "By purchasing from open market without permission",
+      "C": "By stealing from another shop",
+      "D": "Imprest stores cannot be replenished"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How often are Imprest Store limits reviewed jointly by User Department and Stores/Finance?",
+    "options": {
+      "A": "Periodically (typically once a year or every two years) to adjust limits based on actual consumption patterns",
+      "B": "Every 100 years",
+      "C": "Daily every shift",
+      "D": "Never reviewed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Emergency Purchase' of non-stock items?",
+    "options": {
+      "A": "Special purchase powers exercised by officers to procure critical items urgently to avoid operational breakdown",
+      "B": "Purchase made during night shift without bill",
+      "C": "Regular bulk purchasing",
+      "D": "Importing items from abroad"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under GeM (Government e-Marketplace), common use goods and services are procured as per Government mandate. What does GeM stand for?",
+    "options": {
+      "A": "General Electrical Machinery",
+      "B": "Government e-Marketplace",
+      "C": "General Engineering Manual",
+      "D": "Government Equipment Movement"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Under current Railway directives, procurement of common-use store goods available on GeM portal is:",
+    "options": {
+      "A": "Mandatory through GeM portal beyond prescribed financial limits",
+      "B": "Prohibited",
+      "C": "Optional only for food items",
+      "D": "Restricted to foreign vendors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a 'Consignee' in store procurement documentation?",
+    "options": {
+      "A": "The official user/depot receiving authority to whom the purchased goods are to be delivered",
+      "B": "The seller or manufacturer",
+      "C": "The transport driver",
+      "D": "The bank manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Inspection Authority' in store purchase orders?",
+    "options": {
+      "A": "Designated agency (e.g., RITES, RDSO, or Consignee) responsible for inspecting and certifying material quality before dispatch",
+      "B": "Local police station",
+      "C": "Gate security watchman",
+      "D": "Trade union leader"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does RITES stand for in railway material inspection Context?",
+    "options": {
+      "A": "Rail India Technical and Economic Service",
+      "B": "Railway Industrial Testing and Electrical Standards",
+      "C": "Regional Inspection & Transport Engineering System",
+      "D": "Railway Infrastructure & Track Evaluation Society"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does RDSO stand for?",
+    "options": {
+      "A": "Research Designs and Standards Organisation",
+      "B": "Railway Depot & Stores Office",
+      "C": "Regional Development & Safety Operations",
+      "D": "Rolling Stock Design Office"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When material is inspected by Consignee directly at destination upon receipt, it is called:",
+    "options": {
+      "A": "Consignee Inspection",
+      "B": "RITES pre-dispatch inspection",
+      "C": "Third-party audit",
+      "D": "Global inspection"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is generated by Stores Depot when incoming stock material is physically received and accepted into ward balance?",
+    "options": {
+      "A": "Receipt Note / Stores Receipt Sheet (Form S-1307)",
+      "B": "Form S-1302",
+      "C": "Form S-1727",
+      "D": "Gate Pass"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Rejection Advice' (Rejection Memo) issued by Stores Depot / Consignee?",
+    "options": {
+      "A": "Formal notification sent to vendor and accounts rejecting supplied material due to defects/non-conformance to drawing",
+      "B": "Approval letter to pay vendor bill",
+      "C": "Receipt for scrap material",
+      "D": "Work completion ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Within how many days should rejected non-conforming material generally be lifted by the vendor from railway premises after rejection advice?",
+    "options": {
+      "A": "21 days (or as specified in store contract rules, after which ground rent is charged)",
+      "B": "10 years",
+      "C": "Same day within 1 hour",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If rejected material is not lifted by the vendor beyond the stipulated period, Railways may charge:",
+    "options": {
+      "A": "Ground Rent / Storage Charges (and eventually auction the material as per conditions)",
+      "B": "Incentive bonus to vendor",
+      "C": "Customs duty",
+      "D": "No charges"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Warranty Guarantee (BG)' clause in store purchase contracts?",
+    "options": {
+      "A": "Requirement for supplier to provide Bank Guarantee ensuring rectification/replacement if item fails during warranty period",
+      "B": "Guarantee for worker employment",
+      "C": "Guarantee for train punctuality",
+      "D": "Free meal voucher"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens when a component fails within its warranty period on a Metro coach on shop floor?",
+    "options": {
+      "A": "Shop issues a Warranty Rejection Advice to Stores/Vendor for free replacement/repair",
+      "B": "Shop buys a new item from employee's personal salary",
+      "C": "Shop throws away coach",
+      "D": "Shop ignores the failure"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Earnest Money Deposit' (EMD) submitted by bidders in store tenders?",
+    "options": {
+      "A": "Monetary deposit submitted along with tender to establish bidder's earnestness and sincerity to participate",
+      "B": "Final payment for material",
+      "C": "Bribe given to clerk",
+      "D": "Discount given to railways"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Security Deposit' (SD) submitted by a successful supplier?",
+    "options": {
+      "A": "Financial security deposited after contract award to guarantee due performance and fulfillment of contract conditions",
+      "B": "Salary advance to security guards",
+      "C": "Payment for railway pass",
+      "D": "Canteen security deposit"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Limited Tender' in store procurement?",
+    "options": {
+      "A": "Tender invitation issued directly to a limited number of registered/approved suppliers on the approved vendor list",
+      "B": "Tender published in all international newspapers globally",
+      "C": "Tender given to one local shopkeeper verbally",
+      "D": "Tender open for 10 minutes only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Open Tender'?",
+    "options": {
+      "A": "Procurement notice published publicly on IREPS/GeM where any eligible supplier can participate",
+      "B": "Tender with no opening date",
+      "C": "Tender without financial value",
+      "D": "Tender reserved for railway staff only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Single Tender'?",
+    "options": {
+      "A": "Tender invitation issued to only one specific firm (used under PAC or extreme emergency conditions)",
+      "B": "Tender for purchasing 1 single screw",
+      "C": "Tender submitted by single unmarried person",
+      "D": "Tender opened on Sunday"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Global Tender'?",
+    "options": {
+      "A": "Tender advertised internationally when required high-tech material is not adequately available from domestic manufacturers",
+      "B": "Tender for buying earth land",
+      "C": "Tender issued by DRM office",
+      "D": "Tender for station cleaning"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which authority approves the 'Approved List of Vendors' (Vendor Directory) for critical railway components?",
+    "options": {
+      "A": "RDSO / CLW / ICF / BLW / Centralized Nodal Agencies",
+      "B": "Local shop junior engineer",
+      "C": "Private contractor",
+      "D": "Station master"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Developmental Vendor' status in Railway vendor classification?",
+    "options": {
+      "A": "A vendor approved for placing educational/trial orders to develop technical capability and capacity",
+      "B": "A vendor who builds residential houses",
+      "C": "A vendor who has closed business",
+      "D": "An unapproved vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Regular Vendor' (Approved Source) status?",
+    "options": {
+      "A": "A vendor proven for bulk supply orders after successfully meeting developmental criteria and quality standards",
+      "B": "A vendor who supplies food",
+      "C": "A vendor with no factory",
+      "D": "A temporary helper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Verification' in Stores Depots and User Wards?",
+    "options": {
+      "A": "Physical stock count conducted by independent Accounts Stock Verifiers to reconcile physical stock with ledger balances",
+      "B": "Checking ticket at station",
+      "C": "Testing train speed",
+      "D": "Painting store racks"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How frequently are 'A Category' stock items physically verified by Stock Verifiers?",
+    "options": {
+      "A": "Once every 6 months (or annually as per store verification rules)",
+      "B": "Once in 50 years",
+      "C": "Every 10 years",
+      "D": "Never verified"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How frequently are 'C Category' stock items physically verified?",
+    "options": {
+      "A": "Once in two years (or as per prescribed periodic cycle)",
+      "B": "Daily every shift",
+      "C": "Every hour",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is issued by the Stock Verifier when physical stock is LESS than book ledger balance?",
+    "options": {
+      "A": "Stock Sheet (showing shortage)",
+      "B": "Incentive Certificate",
+      "C": "Work Order Pass",
+      "D": "Promotion Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What document is issued when physical stock is MORE than book balance?",
+    "options": {
+      "A": "Stock Sheet (showing surplus)",
+      "B": "Gate Pass",
+      "C": "Rejection Slip",
+      "D": "Overtime Slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who must explain the cause of stock shortages reported in an Accounts Stock Sheet?",
+    "options": {
+      "A": "The Store Keeper / Custodian SSE holding charge of the ward/imprest",
+      "B": "Canteen supervisor",
+      "C": "Train Driver",
+      "D": "Security RPF constable"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Survey Committee' in Railway Workshops?",
+    "options": {
+      "A": "Committee of officers appointed to inspect unserviceable stores/machinery and recommend condemnation or write-off",
+      "B": "Committee for staff sports",
+      "C": "Committee for ticket inspection",
+      "D": "Committee for holiday booking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed by the Survey Committee for condemning assets?",
+    "options": {
+      "A": "Survey Report (Form S-2269)",
+      "B": "Form S-1313",
+      "C": "Form S-1302",
+      "D": "Form GA-1"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Scrap Lot' in stores scrap depot?",
+    "options": {
+      "A": "Accumulated scrap material grouped into a specific lot number by weight/category for public auction",
+      "B": "Parking lot for cars",
+      "C": "Plot of residential land",
+      "D": "Lottery ticket"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which method is primarily used for selling railway scrap through IREPS online portal?",
+    "options": {
+      "A": "e-Auction",
+      "B": "Verbal sale to employees",
+      "C": "Free distribution",
+      "D": "Dumping in sea"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Delivery Order' (Form S-2339) issued after scrap auction?",
+    "options": {
+      "A": "Document authorizing the successful auction purchaser to lift specified scrap lot quantity from depot within fixed period",
+      "B": "Order to deliver pizza",
+      "C": "Order to transfer JE",
+      "D": "Order to cancel train"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Risk Purchase' clause in railway store contracts?",
+    "options": {
+      "A": "Right of Railways to purchase material from alternative source at supplier's risk and cost if supplier defaults in supply",
+      "B": "Purchasing insurance policy",
+      "C": "Buying stocks in stock market",
+      "D": "Purchasing items without testing"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What are 'Liquidated Damages' (LD) charged to a defaulting supplier?",
+    "options": {
+      "A": "Pre-estimated penalty compensation charged for delay in supply of material beyond contract delivery date",
+      "B": "Cost of liquid water",
+      "C": "Damage caused by flood",
+      "D": "Discount offered by vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Standard maximum cap on Liquidated Damages (LD) for delayed supply in standard Railway contracts is generally:",
+    "options": {
+      "A": "10% of total contract value",
+      "B": "100% of contract value",
+      "C": "50% of contract value",
+      "D": "0%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Option Clause' in major railway store contracts?",
+    "options": {
+      "A": "Purchaser's right to increase or decrease the ordered quantity by a specified percentage (e.g., ± 30%) during contract currency",
+      "B": "Option to cancel contract without notice",
+      "C": "Option to change supplier name",
+      "D": "Option to pay in foreign currency"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Price Variation Clause' (PVC) in long-term store contracts?",
+    "options": {
+      "A": "Formula-based adjustment of contract price to account for fluctuations in raw material/labor market indices during contract period",
+      "B": "Fixing price permanently regardless of market",
+      "C": "Giving random price discount",
+      "D": "Changing price every minute"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Firm Price Contract'?",
+    "options": {
+      "A": "Contract where price remains fixed throughout delivery period without any Price Variation Clause adjustment",
+      "B": "Contract signed by firm owner only",
+      "C": "Contract for building firm boundary wall",
+      "D": "Contract with zero value"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In store indenting, what does 'Specification' define?",
+    "options": {
+      "A": "Detailed technical parameters, drawings, material composition, and testing requirements of required item",
+      "B": "Price of item",
+      "C": "Name of store keeper",
+      "D": "Delivery vehicle color"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'IS Specification'?",
+    "options": {
+      "A": "Indian Standard Specification established by Bureau of Indian Standards (BIS)",
+      "B": "International Safety Specification",
+      "C": "Internal Shop Specification",
+      "D": "Inspector Sanction Specification"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'IRS Specification'?",
+    "options": {
+      "A": "Indian Railway Standard Specification",
+      "B": "International Repair System",
+      "C": "Internal Revenue Service",
+      "D": "Indian Road Safety"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What does 'OEM' stand for in non-stock equipment spare procurement?",
+    "options": {
+      "A": "Original Equipment Manufacturer",
+      "B": "Official Electrical Manual",
+      "C": "Overseas Engineering Method",
+      "D": "Operational Efficiency Measure"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When buying spare parts for specialized imported Metro equipment, indents are usually placed on OEM under:",
+    "options": {
+      "A": "PAC / Single Tender basis",
+      "B": "Open global bidding to local scrap dealers",
+      "C": "Spot cash purchase by peon",
+      "D": "Free donation request"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Stock Card' (or Ledger Sheet) maintained in Stores Depot?",
+    "options": {
+      "A": "Official accounting register/card recording every receipt, issue, and progressive balance of a stock item",
+      "B": "Worker identity card",
+      "C": "Gate entry token",
+      "D": "Leave application form"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Out-of-Stock' situation in stores management?",
+    "options": {
+      "A": "Condition when physical stock balance of an essential item drops to ZERO, leading to stockout",
+      "B": "Condition when store warehouse is full",
+      "C": "Condition when store is closed on Sunday",
+      "D": "Condition when scrap is sold"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Out-of-stock situation of Vital items directly leads to:",
+    "options": {
+      "A": "Loss of production / Train detentions / Maintenance bottlenecks",
+      "B": "High incentive bonus payout",
+      "C": "Reduction in store theft",
+      "D": "Promotion of store keeper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Turnover Ratio' (TOR) of Stores inventory?",
+    "options": {
+      "A": "(Total Value of Inventory at end of year / Total Value of Issues during the year) × 100",
+      "B": "(Total Weight / Total Price) × 100",
+      "C": "(Total Staff / Total Items) × 100",
+      "D": "(Scrap Sold / New Stock) × 100"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A LOWER Stores Turnover Ratio (TOR) percentage indicates:",
+    "options": {
+      "A": "Better and more efficient inventory management (less capital locked in unused stock)",
+      "B": "Worst store management",
+      "C": "Excessive overstocking",
+      "D": "High proportion of scrap"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Target Stores Turnover Ratio (TOR) set by Railway Board for major zonal railways/production units is generally around:",
+    "options": {
+      "A": "10% to 15% (or as periodically revised by Railway Board)",
+      "B": "90% to 100%",
+      "C": "500%",
+      "D": "0%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Inactive Stock'?",
+    "options": {
+      "A": "Stock items that have not been issued/consumed for more than 12 months but less than 24 months",
+      "B": "Stock items actively issued every hour",
+      "C": "Food items in canteen",
+      "D": "Office chairs in use"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What action is taken by Stores & User Department regarding 'Surplus / Inactive Stock'?",
+    "options": {
+      "A": "Review by Standing Surplus Committee for potential transfer to other depots/railways or write-off",
+      "B": "Throw in river immediately",
+      "C": "Distribute free to workers",
+      "D": "Hide in dark room"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Depot Code' in store accounting?",
+    "options": {
+      "A": "Unique 2 or 3 digit numerical code identifying a specific Stores Depot ward location",
+      "B": "PIN code of city",
+      "C": "Telephone code of CWM",
+      "D": "Railway station code"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Sub-Indent'?",
+    "options": {
+      "A": "An internal subsidiary indent placed by a shop floor section to its main Shop Imprest / Tool Room ward",
+      "B": "Indent placed to foreign country",
+      "C": "Indent for stationery items",
+      "D": "Indent for food items"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document is processed when a user shop requests urgent issue of stock item out-of-turn to prevent line blockade?",
+    "options": {
+      "A": "Urgent / Out-of-turn Stores Requisition duly marked 'EMERGENCY' with supervisory justification",
+      "B": "Leave letter",
+      "C": "Pass application",
+      "D": "Gate entry slip"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Direct Issue' of stores?",
+    "options": {
+      "A": "Material procured against a non-stock indent that is directly delivered and charged to the end-user work order upon receipt",
+      "B": "Material stored in depot ward for 10 years",
+      "C": "Material sold to scrap dealer",
+      "D": "Material gifted to vendor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Capital Stores'?",
+    "options": {
+      "A": "Stores materials procured specifically for capital works, new construction projects, or track doubling",
+      "B": "Stores located in national capital Delhi",
+      "C": "Stationery items for headquarters",
+      "D": "Uniform for officers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Revenue Stores'?",
+    "options": {
+      "A": "Stores materials procured for routine repair, maintenance, and operation of railway assets",
+      "B": "Stores used to collect passenger ticket revenue",
+      "C": "Stores sold in open market",
+      "D": "Scrap metal"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is processed by the Store Keeper to record daily receipts and issues of materials in user ward?",
+    "options": {
+      "A": "Ward Material Register / Stock Register",
+      "B": "Attendance Register",
+      "C": "Overtime Book",
+      "D": "Medical Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary role of 'Integrated Material Management Information System' (iMMIS) on shop floor?",
+    "options": {
+      "A": "Complete digital workflow for placing non-stock indents, checking stock availability, issuing materials, and tracking status online",
+      "B": "Monitoring train signal lights",
+      "C": "Calculating worker retirement pension",
+      "D": "Booking hotel rooms for officers"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is proper store indenting and inventory control critical for Metro Railway Kolkata JE/SSE supervisory staff?",
+    "options": {
+      "A": "Ensures uninterrupted availability of critical maintenance spares, prevents overstocking/wastage, and maintains train safety & punctuality",
+      "B": "To increase paper filing work in office",
+      "C": "To delay coach maintenance overhauls",
+      "D": "To exhaust budget intentionally"
+    },
+    "answer": "A"
+  }
+    ]
+}
