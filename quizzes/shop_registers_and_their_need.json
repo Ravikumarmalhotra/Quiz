@@ -1,0 +1,1004 @@
+{
+[
+  {
+    "question": "Which standard register is maintained at the shop entrance gate to record the daily arrival and departure timings of shop staff?",
+    "options": {
+      "A": "Muster Roll / Attendance Register (Form GA)",
+      "B": "Work Order Register",
+      "C": "Imprest Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under the Factories Act 1948, which form number is prescribed for maintaining the 'Register of Adult Workers' in a workshop?",
+    "options": {
+      "A": "Form 12",
+      "B": "Form 5",
+      "C": "Form 1",
+      "D": "Form 25"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary need for maintaining an 'Idle Time Register' on the shop floor?",
+    "options": {
+      "A": "To record non-productive staff time due to machine failure, power outage, or material shortage for cost booking and incentive adjustment",
+      "B": "To record staff leave applications",
+      "C": "To record pass and PTO details",
+      "D": "To monitor canteen meal consumption"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained by the Shop JE/SSE to track all active Work Orders issued by PCO for execution in that section?",
+    "options": {
+      "A": "Work Order Register / Job Register",
+      "B": "Pass Issue Register",
+      "C": "Casual Leave Register",
+      "D": "Medical Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 59 of the Factories Act 1948, which form is used to maintain the 'Overtime Register' for workers?",
+    "options": {
+      "A": "Form 10",
+      "B": "Form 2",
+      "C": "Form 18",
+      "D": "Form 30"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary purpose of maintaining a 'Machinery History Register / History Card' for each shop machine?",
+    "options": {
+      "A": "To record machine installation date, major overhauls, component replacements, repair costs, and breakdown history",
+      "B": "To record the name of machine operator only",
+      "C": "To calculate worker daily incentive bonus",
+      "D": "To list total machines available in whole Railway zone"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in the shop tool room to track specialized tools issued to and returned by technicians?",
+    "options": {
+      "A": "Tool Issue / Tool Loan Register (or Tool Card System)",
+      "B": "Muster Roll",
+      "C": "Store Requisition Register",
+      "D": "Medical Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When a tool is damaged or broken during shop floor operations, details are recorded in which register?",
+    "options": {
+      "A": "Broken Tool Register / Breakage Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records all store requisitions (Form S-1313) submitted to Stores Depot for drawing raw materials?",
+    "options": {
+      "A": "Store Drawal / Material Requisition Register",
+      "B": "Gate Entry Register",
+      "C": "Overtime Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Details of scrap and unserviceable items returned to Stores Depot via Form S-1539 are tracked in which shop register?",
+    "options": {
+      "A": "Returned Stores Register (Advice Note Register)",
+      "B": "Imprest Register",
+      "C": "Leave Register",
+      "D": "PCO Rate Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "When raw material is transferred from one job order to another directly on the shop floor, it is logged in which register?",
+    "options": {
+      "A": "Advice of Material Transfer (Form S-1727) Register",
+      "B": "Gate Pass Register",
+      "C": "Tool Loan Register",
+      "D": "Injury Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained at the shop office to log 'Returnable Gate Passes' issued for sending tools outside for repair?",
+    "options": {
+      "A": "Returnable Gate Pass Register",
+      "B": "Non-Returnable Gate Pass Register",
+      "C": "Muster Roll",
+      "D": "Service Book Movement Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained to record permanent movement of scrap or finished components out of the workshop gate?",
+    "options": {
+      "A": "Non-Returnable Gate Pass Register",
+      "B": "Returnable Gate Pass Register",
+      "C": "Casual Leave Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under the Factories Act 1948, which statutory register must be maintained in the shop medical/first-aid room to log injuries?",
+    "options": {
+      "A": "Accident and First-Aid Register (Form 26 / Injury Register)",
+      "B": "Pass Register",
+      "C": "Store Indent Register",
+      "D": "Work Order Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary need for maintaining a 'First-Aid / Injury Register' in the workshop?",
+    "options": {
+      "A": "To record nature of workplace injuries, treatment provided, and enable statutory reporting to Factory Inspector and compensation processing",
+      "B": "To decide employee promotion",
+      "C": "To calculate overtime pay",
+      "D": "To record daily weather details"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained by the Millwright section to log machine breakdown calls received from production shops?",
+    "options": {
+      "A": "Machine Breakdown Register / Breakdown Log Book",
+      "B": "Imprest Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records routine maintenance schedules (daily, weekly, monthly, annual) carried out on shop machinery?",
+    "options": {
+      "A": "Preventive Maintenance Register",
+      "B": "Casual Leave Register",
+      "C": "Scrap Register",
+      "D": "Tool Issue Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is used in continuous shift sections (e.g., Sub-station, Air Compressor Plant) for passing instructions to the next shift?",
+    "options": {
+      "A": "Shift Handover Log Book / Shift Register",
+      "B": "Attendance Register",
+      "C": "Work Order Ledger",
+      "D": "Audit Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "At Metro Railway stabling depots, technical defects reported by Train Drivers (Loco Pilots) are recorded in which register?",
+    "options": {
+      "A": "Defect Register / Rake Log Register",
+      "B": "Muster Roll",
+      "C": "Imprest Register",
+      "D": "Leave Account Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained to log formal safety isolation clearances before undertaking hazardous work on high voltage lines?",
+    "options": {
+      "A": "Permit to Work (PTW) Register",
+      "B": "Casual Leave Register",
+      "C": "Overtime Register",
+      "D": "Gate Entry Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary need for maintaining a 'Calibration Register' on the shop floor?",
+    "options": {
+      "A": "To track calibration due dates and test results for measuring instruments, torque wrenches, and pressure gauges to ensure quality compliance",
+      "B": "To record staff leave balances",
+      "C": "To record daily fuel consumption of cars",
+      "D": "To record pass applications"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks the distribution of Personal Protective Equipment (safety shoes, helmets, goggles) to shop workers?",
+    "options": {
+      "A": "PPE Issue Register / Protective Clothing Register",
+      "B": "Pass Register",
+      "C": "Job Card Register",
+      "D": "Work Order Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained by the Shop SSE to account for cash spent on petty local emergency purchases?",
+    "options": {
+      "A": "Imprest Cash Account Register / Petty Cash Register",
+      "B": "Muster Roll",
+      "C": "Store Requisition Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records the receipt and distribution of Railway Travel Passes and Privilege Ticket Orders (PTOs) to staff?",
+    "options": {
+      "A": "Pass and PTO Issue Register",
+      "B": "Casual Leave Register",
+      "C": "Tool Loan Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in the supervisory office to record disciplinary charge-sheets (SF-5, SF-11) issued to employees?",
+    "options": {
+      "A": "D&AR (Discipline and Appeal Rules) Register",
+      "B": "Imprest Register",
+      "C": "Attendance Register",
+      "D": "Calibration Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs physical stock counts and shortages/surpluses noted during audit inspections?",
+    "options": {
+      "A": "Stock Verification / Stock Sheet Register",
+      "B": "Gate Pass Register",
+      "C": "Night Duty Register",
+      "D": "Overtime Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained by the shop clerk to record Casual Leave (CL) and Restricted Holidays (RH) availed by staff?",
+    "options": {
+      "A": "Casual Leave (CL) Register",
+      "B": "Service Book",
+      "C": "Muster Roll",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks non-stock local purchases made through spot purchase committees or local market indents?",
+    "options": {
+      "A": "Local Purchase / Spot Purchase Register",
+      "B": "Pass Register",
+      "C": "Tool Register",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records remarks and instructions given by visiting higher officers (CWM, DRM, GM, HODs) during shop inspection?",
+    "options": {
+      "A": "Inspection Note / Officers' Inspection Register",
+      "B": "Muster Roll",
+      "C": "Imprest Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records pending audit queries and stock sheets received from Workshop Accounts Officer (WAO)?",
+    "options": {
+      "A": "Audit Objection / Stock Sheet Settlement Register",
+      "B": "Casual Leave Register",
+      "C": "Tool Issue Register",
+      "D": "Overtime Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks the inspection dates and refilling schedules of First Aid boxes located in shop sections?",
+    "options": {
+      "A": "First Aid Box Inspection Register",
+      "B": "Imprest Register",
+      "C": "Work Order Register",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in welding sections to monitor daily receipt, issue, and return of industrial gas cylinders (Oxygen/Acetylene)?",
+    "options": {
+      "A": "Gas Cylinder Register",
+      "B": "Medical Register",
+      "C": "Pass Register",
+      "D": "Service Book Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 28 & 29 of Factories Act 1948, which register records periodic load testing and safety inspection of cranes and lifting tackles?",
+    "options": {
+      "A": "Register of Hoists, Cranes, and Lifting Tackles (Form 11)",
+      "B": "Muster Roll",
+      "C": "Casual Leave Register",
+      "D": "Pass Issue Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under Section 31 of Factories Act 1948, which register records safety testing details for air receivers and pressure vessels?",
+    "options": {
+      "A": "Pressure Plant Testing Register (Form 8)",
+      "B": "Work Order Register",
+      "C": "Night Duty Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records the details of outsourced contract workers entering the shop floor for specialized maintenance work?",
+    "options": {
+      "A": "Contract Labour Attendance / Gate Entry Register",
+      "B": "Casual Leave Register",
+      "C": "PCO Job Register",
+      "D": "Service Book Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained to log details of Night Duty Allowance (NDA) performed by shop staff?",
+    "options": {
+      "A": "Night Duty Allowance (NDA) Register",
+      "B": "Tool Issue Register",
+      "C": "Imprest Register",
+      "D": "Pass Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs staff working on National Holidays to process National Holiday Allowance (NHA)?",
+    "options": {
+      "A": "National Holiday Allowance (NHA) Register",
+      "B": "Breakdown Register",
+      "C": "Casual Leave Register",
+      "D": "Calibration Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in electric sub-stations to log hourly voltage, current, power factor, and transformer temperature readings?",
+    "options": {
+      "A": "Sub-Station Log Book / Register",
+      "B": "Muster Roll",
+      "C": "Casual Leave Register",
+      "D": "Pass Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs daily pressure, oil level, and running hours of air compressors in the compressor room?",
+    "options": {
+      "A": "Compressor Plant Log Register",
+      "B": "Work Order Register",
+      "C": "D&AR Register",
+      "D": "Medical Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in the battery room to record specific gravity, voltage, and electrolyte temperature during battery charging?",
+    "options": {
+      "A": "Battery Charging Log Register",
+      "B": "Pass Register",
+      "C": "Tool Loan Register",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register in the wheel shop logs ultrasonic testing (UST) details of axles to ensure defect-free wheel sets?",
+    "options": {
+      "A": "UST (Ultrasonic Testing) Inspection Register",
+      "B": "Imprest Register",
+      "C": "Muster Roll",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records wheel profiling dimensions (flange thickness, tread diameter, root profile) before and after turning on lathe?",
+    "options": {
+      "A": "Wheel Turning Measurement Register",
+      "B": "Pass Book",
+      "C": "Night Duty Register",
+      "D": "Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which document/register stays attached to a coach/rake detailing all POH, IOH, and major modification activities over its lifecycle?",
+    "options": {
+      "A": "Coach History Register / History Book",
+      "B": "Tool Register",
+      "C": "Muster Roll",
+      "D": "Imprest Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records joint inspection details when an overhauled Metro rake is handed over to Traffic/Operations division?",
+    "options": {
+      "A": "Rake Handover / Takeover Register",
+      "B": "Casual Leave Register",
+      "C": "Breakdown Register",
+      "D": "Overtime Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained at the store receiving ward to log incoming vendor material shipments before inspection?",
+    "options": {
+      "A": "Material Receipt Register / Gate Entry Log",
+      "B": "Pass Register",
+      "C": "Tool Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records vendor material rejections along with rejection advice memo numbers?",
+    "options": {
+      "A": "Material Rejection Register",
+      "B": "Attendance Register",
+      "C": "Imprest Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs warranty failure claims raised against suppliers for failed coach components?",
+    "options": {
+      "A": "Warranty Rejection / Claim Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks scrap lot formation, lot numbers, estimated weight, and auction dates in the scrap yard?",
+    "options": {
+      "A": "Scrap Lot Formation Register",
+      "B": "Work Order Register",
+      "C": "Imprest Register",
+      "D": "Tool Loan Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs items submitted to and approved by the Survey Committee for condemnation?",
+    "options": {
+      "A": "Survey Committee Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Attendance Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under ISO 9001 quality management, which register records internal quality non-conformities (NCRs) and corrective actions?",
+    "options": {
+      "A": "Corrective and Preventive Action (CAPA) Register / NCR Register",
+      "B": "Muster Roll",
+      "C": "Overtime Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under ISO 14001 Environment Management, which register tracks hazardous waste generation (used oil, e-waste, lead batteries)?",
+    "options": {
+      "A": "Hazardous Waste Management Register",
+      "B": "Casual Leave Register",
+      "C": "Tool Register",
+      "D": "Pass Book"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs monthly 5S housekeeping audit scores across different shop sections?",
+    "options": {
+      "A": "5S Audit Observation Register",
+      "B": "Medical Register",
+      "C": "Imprest Register",
+      "D": "Work Order Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks technical modification advices (RDSO/Metro HQ) implemented on Metro coaches?",
+    "options": {
+      "A": "Modification Advice Implementation Register",
+      "B": "Casual Leave Register",
+      "C": "Night Duty Register",
+      "D": "Gate Entry Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records master technical drawings received, distributed, or revised on the shop floor?",
+    "options": {
+      "A": "Drawing Master Register / Drawing Issue Register",
+      "B": "Pass Register",
+      "C": "Tool Loan Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained in the supervisory office to log staff grievances and tracking responses?",
+    "options": {
+      "A": "Staff Grievance Register",
+      "B": "Muster Roll",
+      "C": "Calibration Register",
+      "D": "Work Order Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks staff due dates for mandatory Periodic Medical Examination (PME)?",
+    "options": {
+      "A": "PME (Periodic Medical Examination) Due Register",
+      "B": "Casual Leave Register",
+      "C": "Tool Issue Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs eye testing schedules and medical certificates for crane drivers, welders, and train operators?",
+    "options": {
+      "A": "Specialized Staff Medical Fitness Register",
+      "B": "Pass Register",
+      "C": "Overtime Register",
+      "D": "Scrap Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs technical training and refresher courses completed by shop technicians?",
+    "options": {
+      "A": "Staff Training & Competency Register",
+      "B": "Breakdown Register",
+      "C": "Casual Leave Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records annual increments granted to shop staff for service record tracking?",
+    "options": {
+      "A": "Increment Register",
+      "B": "Tool Register",
+      "C": "Imprest Book",
+      "D": "Gate Pass Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs movement of employee Service Books sent to Personnel Branch for verification?",
+    "options": {
+      "A": "Service Book Movement Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Calibration Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks annual performance appraisal (APAR) submission dates for supervisory staff?",
+    "options": {
+      "A": "APAR Monitoring Register",
+      "B": "Muster Roll",
+      "C": "Tool Issue Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained at sub-stations to log issuance and return of vital room keys and safety padlock keys?",
+    "options": {
+      "A": "Key Issue Register / Key Log Book",
+      "B": "Casual Leave Register",
+      "C": "Imprest Register",
+      "D": "Work Order Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs periodic inspection, pressure checking, and refilling of fire extinguishers across the shop?",
+    "options": {
+      "A": "Fire Extinguisher Inspection Register",
+      "B": "Pass Register",
+      "C": "Tool Register",
+      "D": "Service Book Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records periodic earth resistance testing values (in Ohms) measured at shop earth pits?",
+    "options": {
+      "A": "Earth Pit Testing Register",
+      "B": "Casual Leave Register",
+      "C": "Muster Roll",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs dielectric oil breakdown voltage (BDV) testing results for sub-station transformers?",
+    "options": {
+      "A": "Transformer Oil BDV Test Register",
+      "B": "Imprest Register",
+      "C": "Pass Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks rework hours and rectification job cards issued to correct defective shop workmanship?",
+    "options": {
+      "A": "Rework / Rectification Register",
+      "B": "Casual Leave Register",
+      "C": "Gate Pass Register",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks recoupment claims submitted to Accounts to replenish the shop Imprest Cash balance?",
+    "options": {
+      "A": "Imprest Recoupment Register",
+      "B": "Tool Issue Register",
+      "C": "D&AR Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs consumable lubricants (grease, gear oil, hydraulic oil) drawn and consumed on shop machinery?",
+    "options": {
+      "A": "Oil and Lubricants Consumption Register",
+      "B": "Pass Register",
+      "C": "Casual Leave Register",
+      "D": "Medical Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records target vs actual daily out-turn output (e.g., number of bogies overhauled) achieved on shop floor?",
+    "options": {
+      "A": "Daily Production / Out-turn Register",
+      "B": "Imprest Register",
+      "C": "Tool Register",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register is maintained by PCO to log synthetic time data and rate-fixing calculations for new operations?",
+    "options": {
+      "A": "PCO Rate Fixing / Synthetic Data Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records monthly incentive bonus calculations compiled for direct workers before sending to WAO?",
+    "options": {
+      "A": "Incentive Calculation Summary Register",
+      "B": "Tool Issue Register",
+      "C": "Breakdown Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records gate attendance discrepancies reconciled between gate muster cards and computerized time punch records?",
+    "options": {
+      "A": "Time Attendance Discrepancy Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Service Book Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs biometric attendance exceptions authorized manually by the Shop SSE?",
+    "options": {
+      "A": "Biometric Exception Manual Regularization Register",
+      "B": "Imprest Register",
+      "C": "Tool Register",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs safety walk-through observations and hazard remediation actions noted by the Shop Safety Committee?",
+    "options": {
+      "A": "Safety Audit & Hazard Observation Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records water quality, pH levels, and chemical dosing at the Effluent Treatment Plant (ETP)?",
+    "options": {
+      "A": "ETP / WTP Operation Log Register",
+      "B": "Tool Issue Register",
+      "C": "Imprest Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is proper maintenance of statutory and operational shop registers essential in Railway Workshop Management?",
+    "options": {
+      "A": "Ensures legal compliance under Factories Act, audit readiness, cost control, worker safety, and quality traceability",
+      "B": "To increase paper filing work only",
+      "C": "To delay employee retirement",
+      "D": "To exhaust office cabinet space"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who holds primary administrative responsibility for ensuring that all shop registers in a section are updated daily?",
+    "options": {
+      "A": "Senior Section Engineer (SSE) / Section In-Charge",
+      "B": "Canteen Manager",
+      "C": "Store Peon",
+      "D": "Gate Security Guard"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How long must statutory registers under the Factories Act (e.g., Muster Roll, Overtime Register) be preserved?",
+    "options": {
+      "A": "Prescribed statutory retention period (typically 3 years to permanent as per Railway Record Retention rules)",
+      "B": "1 day",
+      "C": "1 week",
+      "D": "100 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In digitalized railway workshops (WISE/e-Office), physical registers are increasingly replaced by:",
+    "options": {
+      "A": "Digital Logbooks and Computerized System Dashboards",
+      "B": "Verbal communications",
+      "C": "Handwritten letters",
+      "D": "Memory tokens"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records details of official letters, notices, and memos received in the shop office?",
+    "options": {
+      "A": "Inward / Receipt Register (Dak Register)",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records details of letters and memos dispatched from the shop office to higher authorities?",
+    "options": {
+      "A": "Outward / Dispatch Register",
+      "B": "Tool Register",
+      "C": "Imprest Book",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks the movement of physical files within the shop office?",
+    "options": {
+      "A": "File Movement Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Book",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records local train/bus travel expenses claimed by shop staff traveling on local official duty?",
+    "options": {
+      "A": "Local Journey Allowance Claim Register",
+      "B": "Muster Roll",
+      "C": "Tool Loan Register",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs details of stationary items received from Stores and issued to shop clerks?",
+    "options": {
+      "A": "Stationery Account Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records physical inspection details of lifting slings, wire ropes, and D-shackles before daily use?",
+    "options": {
+      "A": "Lifting Tackle Daily Inspection Register",
+      "B": "Imprest Register",
+      "C": "APAR Register",
+      "D": "Service Book Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records periodic testing of emergency stop buttons and safety interlocks on automated CNC machines?",
+    "options": {
+      "A": "Emergency Safety Interlock Testing Register",
+      "B": "Casual Leave Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs the calibration of pressure gauges installed on Metro coach air brake systems?",
+    "options": {
+      "A": "Brake Test Gauge Calibration Register",
+      "B": "Tool Issue Register",
+      "C": "D&AR Register",
+      "D": "Casual Leave Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records periodic cleaning and water quality testing of shop drinking water coolers?",
+    "options": {
+      "A": "Drinking Water Cooler Maintenance Register",
+      "B": "Imprest Register",
+      "C": "Pass Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs the issue of uniform cloth, stitching charges, or ready-made uniforms to shop staff?",
+    "options": {
+      "A": "Uniform Issue Register",
+      "B": "Casual Leave Register",
+      "C": "Muster Roll",
+      "D": "Overtime Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks local industrial visits or apprentice trainee group attendance in the shop?",
+    "options": {
+      "A": "Trainee / Apprentice Attendance Register",
+      "B": "Pass Register",
+      "C": "Imprest Book",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records details of rubber items (O-rings, seals) received to monitor shelf life before installation?",
+    "options": {
+      "A": "Rubber Items Shelf-Life Monitoring Register",
+      "B": "Casual Leave Register",
+      "C": "Muster Roll",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs periodic baking temperatures and holding times for welding electrodes in drying ovens?",
+    "options": {
+      "A": "Electrode Oven Temperature Log Register",
+      "B": "Tool Issue Register",
+      "C": "Pass Book",
+      "D": "D&AR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records dye-penetrant testing (DPT) or magnetic particle testing (MPT) results of bogie welds?",
+    "options": {
+      "A": "NDT Weld Inspection Register",
+      "B": "Casual Leave Register",
+      "C": "Imprest Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks torque wrench setting checks performed before tightening safety-critical Metro bogie bolts?",
+    "options": {
+      "A": "Torque Wrench Check Register",
+      "B": "Muster Roll",
+      "C": "Pass Register",
+      "D": "Night Duty Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs chemical cleaning and flushing of Metro coach air conditioning condenser coils?",
+    "options": {
+      "A": "AC Plant Maintenance Log Register",
+      "B": "Casual Leave Register",
+      "C": "Tool Loan Register",
+      "D": "APAR Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register tracks replacement dates of battery cells in train emergency lighting systems?",
+    "options": {
+      "A": "Emergency Battery Maintenance Register",
+      "B": "Imprest Register",
+      "C": "Pass Register",
+      "D": "Muster Roll"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records ultrasonic thickness measurements of worn steel plates on coach underframes?",
+    "options": {
+      "A": "Plate Thickness Gauge Inspection Register",
+      "B": "Casual Leave Register",
+      "C": "D&AR Register",
+      "D": "Breakdown Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register logs insulation resistance (Megger values) measured on traction motor windings?",
+    "options": {
+      "A": "Megger Test / Insulation Resistance Log Register",
+      "B": "Muster Roll",
+      "C": "Pass Register",
+      "D": "Imprest Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which register records the receipt, deployment, and return of temporary special machinery hired for project work?",
+    "options": {
+      "A": "Hired Plant & Machinery Log Register",
+      "B": "Casual Leave Register",
+      "C": "D&AR Register",
+      "D": "Tool Issue Register"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the ultimate goal of maintaining systematic technical and administrative registers in Metro Railway Kolkata workshops?",
+    "options": {
+      "A": "To ensure maximum operational reliability, passenger safety, strict financial accountability, and high productivity",
+      "B": "To increase paper consumption in office",
+      "C": "To create delay in train schedules",
+      "D": "To avoid computerization"
+    },
+    "answer": "A"
+  }
+      ]
+}
