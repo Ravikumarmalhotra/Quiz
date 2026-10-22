@@ -1,0 +1,1004 @@
+{"questions":
+[
+  {
+    "question": "Which of the following electrical measuring instruments is classified as an Integrating Instrument?",
+    "options": {
+      "A": "Ammeter",
+      "B": "Voltmeter",
+      "C": "Electric Energy Meter",
+      "D": "Wattmeter"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Instruments which indicate the instantaneous value of the electrical quantity being measured at the time of measurement are called:",
+    "options": {
+      "A": "Absolute instruments",
+      "B": "Indicating instruments",
+      "C": "Recording instruments",
+      "D": "Integrating instruments"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of instrument gives the value of the quantity to be measured in terms of instrument constants and its deflection only, without requiring comparison?",
+    "options": {
+      "A": "Secondary instrument",
+      "B": "Absolute instrument",
+      "C": "Indicating instrument",
+      "D": "Recording instrument"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Tangent Galvanometer and Rayleigh Current Balance are examples of:",
+    "options": {
+      "A": "Absolute instruments",
+      "B": "Secondary instruments",
+      "C": "Integrating instruments",
+      "D": "Recording instruments"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What are the three essential torques required for the proper operation of an indicating instrument?",
+    "options": {
+      "A": "Deflecting, Restraining, and Friction torques",
+      "B": "Deflecting, Controlling, and Damping torques",
+      "C": "Primary, Secondary, and Parasitic torques",
+      "D": "Rotational, Gravitational, and Magnetic torques"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The controlling torque in an indicating instrument is required to:",
+    "options": {
+      "A": "Bring the pointer to rest quickly at its final deflected position",
+      "B": "Move the pointer from zero position",
+      "C": "Oppose the deflecting torque and bring pointer back to zero when signal is removed",
+      "D": "Reduce friction errors at the bearings"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In a spring-controlled instrument, the controlling torque (Tc) is proportional to:",
+    "options": {
+      "A": "Deflection angle θ",
+      "B": "Square of deflection angle θ²",
+      "C": "Sine of deflection angle sin θ",
+      "D": "Square root of deflection angle √θ"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a gravity-controlled instrument, the controlling torque (Tc) is proportional to:",
+    "options": {
+      "A": "Deflection angle θ",
+      "B": "cos θ",
+      "C": "sin θ",
+      "D": "tan θ"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Why is phosphor bronze preferred for hairsprings in PMMC instruments?",
+    "options": {
+      "A": "High resistance and high magnetic permeability",
+      "B": "Non-magnetic properties, low specific resistance, and low temperature coefficient",
+      "C": "High temperature coefficient and high magnetic susceptibility",
+      "D": "Low tensile strength and high elasticity"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which controlling system requires the measuring instrument to be kept strictly in a vertical position during measurement?",
+    "options": {
+      "A": "Spring control",
+      "B": "Gravity control",
+      "C": "Eddy current control",
+      "D": "Fluid friction control"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Damping torque is provided in measuring instruments to:",
+    "options": {
+      "A": "Increase the deflecting torque",
+      "B": "Prevent pointer oscillations and bring it to rest rapidly at final reading",
+      "C": "Return pointer to zero position when current is switched off",
+      "D": "Eliminate temperature errors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Eddy current damping works on the principle of:",
+    "options": {
+      "A": "Coulomb's Law",
+      "B": "Faraday's and Lenz's Laws of Electromagnetic Induction",
+      "C": "Ampere's Circuital Law",
+      "D": "Peltier Effect"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which damping method is most commonly used in Moving Iron (MI) instruments?",
+    "options": {
+      "A": "Eddy current damping",
+      "B": "Air friction damping",
+      "C": "Fluid friction damping",
+      "D": "Electromagnetic damping"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Permanent Magnet Moving Coil (PMMC) instruments can be used for measuring:",
+    "options": {
+      "A": "DC quantities only",
+      "B": "AC quantities only",
+      "C": "Both AC and DC quantities",
+      "D": "High frequency RF signals only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an AC current is passed through a PMMC meter, what will the pointer display?",
+    "options": {
+      "A": "Peak value of AC current",
+      "B": "RMS value of AC current",
+      "C": "Zero deflection (or vibrate around zero)",
+      "D": "Maximum scale deflection"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The scale of a PMMC instrument is:",
+    "options": {
+      "A": "Non-linear / Cramped at zero",
+      "B": "Uniformly divided / Linear",
+      "C": "Logarithmic",
+      "D": "Exponential"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The deflecting torque (Td) of a PMMC instrument is given by:",
+    "options": {
+      "A": "Td = B × I × N × A",
+      "B": "Td = 0.5 × I² × (dL/dθ)",
+      "C": "Td = I² × R",
+      "D": "Td = V × I × cos θ"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which type of damping is used in PMMC instruments?",
+    "options": {
+      "A": "Air friction damping",
+      "B": "Fluid friction damping",
+      "C": "Eddy current damping",
+      "D": "Hysteresis damping"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Moving Iron (MI) instruments can be used for:",
+    "options": {
+      "A": "DC quantities only",
+      "B": "AC quantities only",
+      "C": "Both AC and DC quantities",
+      "D": "High frequency radio signals only"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The deflecting torque of a Moving Iron (MI) instrument is proportional to:",
+    "options": {
+      "A": "Current (I)",
+      "B": "Square of current (I²)",
+      "C": "Cube of current (I³)",
+      "D": "Square root of current (√I)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The scale of a Moving Iron (MI) instrument is:",
+    "options": {
+      "A": "Linear and uniform",
+      "B": "Non-uniform / Cramped at the beginning",
+      "C": "Logarithmic",
+      "D": "Inverse linear"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Moving Iron instruments indicate which value of an AC current?",
+    "options": {
+      "A": "Average value",
+      "B": "Peak value",
+      "C": "RMS (Root Mean Square) value",
+      "D": "Peak-to-peak value"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "A DC current of 5 A produces a deflection of 10° in a Moving Iron instrument. What will be the deflection for a DC current of 10 A?",
+    "options": {
+      "A": "20°",
+      "B": "30°",
+      "C": "40°",
+      "D": "50°"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Hysteresis and eddy current errors in Moving Iron instruments occur mainly during measurement of:",
+    "options": {
+      "A": "DC measurements",
+      "B": "AC measurements",
+      "C": "Both AC and DC measurements",
+      "D": "High resistance measurements"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Frequency error in Moving Iron voltmeters can be compensated by connecting a capacitor in parallel with:",
+    "options": {
+      "A": "The moving coil",
+      "B": "The series multiplier resistor",
+      "C": "The supply mains",
+      "D": "The damping chamber"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Electrodynamometer-type instruments can be used to measure:",
+    "options": {
+      "A": "AC only",
+      "B": "DC only",
+      "C": "Both AC and DC",
+      "D": "Pulsating DC only"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Electrodynamometer instruments are most commonly used as standard calibration instruments for:",
+    "options": {
+      "A": "Wattmeters and transfer instruments",
+      "B": "Insulation resistance testers",
+      "C": "Frequency meters",
+      "D": "Flux meters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In an Electrodynamometer-type Wattmeter, the fixed coil is connected in:",
+    "options": {
+      "A": "Parallel with the load (Pressure Coil)",
+      "B": "Series with the load (Current Coil)",
+      "C": "Across the supply mains through a capacitor",
+      "D": "Series with the voltage multiplier"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In an Electrodynamometer Wattmeter, the moving coil is called the:",
+    "options": {
+      "A": "Current Coil (CC)",
+      "B": "Pressure Coil or Voltage Coil (PC)",
+      "C": "Compensating Coil",
+      "D": "Braking Coil"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The pressure coil of a wattmeter is designed to be:",
+    "options": {
+      "A": "Highly inductive with low resistance",
+      "B": "Highly resistive with negligible inductance",
+      "C": "Purely capacitive",
+      "D": "Low resistance and thick wire"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How is a low range Ammeter converted into a higher range Ammeter?",
+    "options": {
+      "A": "By connecting a high resistance in series",
+      "B": "By connecting a low resistance in shunt (parallel)",
+      "C": "By connecting a high capacitance in parallel",
+      "D": "By connecting an inductor in series"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The resistance of an ammeter shunt should be made of a material with:",
+    "options": {
+      "A": "High temperature coefficient of resistance",
+      "B": "Zero or extremely low temperature coefficient of resistance (e.g., Manganin)",
+      "C": "High magnetic permeability",
+      "D": "Negative temperature coefficient like silicon"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The value of shunt resistance (Rsh) required to extend the range of an ammeter from Rm to m times its basic range is given by:",
+    "options": {
+      "A": "Rsh = Rm / (m - 1)",
+      "B": "Rsh = Rm × (m - 1)",
+      "C": "Rsh = Rm / (m + 1)",
+      "D": "Rsh = Rm × m"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A PMMC ammeter has an internal resistance of 100 Ω and gives full scale deflection for 1 mA. To measure up to 10 mA, what shunt resistance is required?",
+    "options": {
+      "A": "11.11 Ω",
+      "B": "900 Ω",
+      "C": "10 Ω",
+      "D": "100 Ω"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How is a low range Voltmeter converted into a higher range Voltmeter?",
+    "options": {
+      "A": "By connecting a low resistance in parallel",
+      "B": "By connecting a high resistance in series (Multiplier)",
+      "C": "By connecting a low capacitance in series",
+      "D": "By short-circuiting its terminals"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The value of multiplier resistance (Rse) required to extend the voltage range of a voltmeter from V to m times Vm is given by:",
+    "options": {
+      "A": "Rse = Rm / (m - 1)",
+      "B": "Rse = Rm × (m - 1)",
+      "C": "Rse = Rm / m",
+      "D": "Rse = Rm × (m + 1)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A voltmeter of 500 Ω resistance gives FSD at 1 V. What series multiplier resistance is needed to measure up to 100 V?",
+    "options": {
+      "A": "49,500 Ω",
+      "B": "50,000 Ω",
+      "C": "5,000 Ω",
+      "D": "4,500 Ω"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "An ideal Ammeter should have:",
+    "options": {
+      "A": "Infinite internal resistance",
+      "B": "Zero internal resistance",
+      "C": "1 kΩ internal resistance",
+      "D": "Capacitive reactance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An ideal Voltmeter should have:",
+    "options": {
+      "A": "Zero internal resistance",
+      "B": "Infinite internal resistance",
+      "C": "1 Ω internal resistance",
+      "D": "Inductive reactance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What happens if an Ammeter is accidentally connected across (in parallel with) a high-voltage AC/DC supply source?",
+    "options": {
+      "A": "No current will flow",
+      "B": "The meter will read correctly",
+      "C": "A heavy short-circuit current will flow, damaging the meter and blowing fuses",
+      "D": "The pointer will move in reverse direction slowly"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The sensitivity of a Voltmeter is expressed in:",
+    "options": {
+      "A": "Amperes per Volt",
+      "B": "Ohms per Volt (Ω/V)",
+      "C": "Volts per Ohm",
+      "D": "Watts per Volt"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "High sensitivity voltmeters are desirable because they:",
+    "options": {
+      "A": "Draw heavy current from the circuit under test",
+      "B": "Minimize the loading effect on high resistance circuits",
+      "C": "Are very cheap to construct",
+      "D": "Do not require calibration"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Resistances below 1 Ohm are classified as:",
+    "options": {
+      "A": "Low resistance",
+      "B": "Medium resistance",
+      "C": "High resistance",
+      "D": "Insulation resistance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Resistances ranging from 1 Ohm to 100,000 Ohms (100 kΩ) are classified as:",
+    "options": {
+      "A": "Low resistance",
+      "B": "Medium resistance",
+      "C": "High resistance",
+      "D": "Ultra-high resistance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Resistances above 100 kΩ (0.1 MΩ) are classified as:",
+    "options": {
+      "A": "Low resistance",
+      "B": "Medium resistance",
+      "C": "High resistance",
+      "D": "Contact resistance"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which measuring bridge is specifically used for precise measurement of very low resistances (e.g., armature winding, busbars)?",
+    "options": {
+      "A": "Wheatstone Bridge",
+      "B": "Kelvin's Double Bridge",
+      "C": "Schering Bridge",
+      "D": "Maxwell Bridge"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is Kelvin's Double Bridge preferred over Wheatstone Bridge for low resistance measurement?",
+    "options": {
+      "A": "It eliminates the effect of lead and contact resistances",
+      "B": "It uses AC power supply",
+      "C": "It does not require a galvanometer",
+      "D": "It can measure high insulation values"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following methods is most suitable for measuring medium resistances?",
+    "options": {
+      "A": "Kelvin's Double Bridge",
+      "B": "Wheatstone Bridge",
+      "C": "Megger method",
+      "D": "Loss of charge method"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument is used in Metro Railway workshop maintenance to test insulation resistance of traction motors, cables, and switchgear?",
+    "options": {
+      "A": "Kelvin Bridge",
+      "B": "Megger (Insulation Tester)",
+      "C": "Multimeter in lowest range",
+      "D": "Tong Tester"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A Megger works on the working principle of:",
+    "options": {
+      "A": "Moving iron attraction",
+      "B": "Electrodynamic ratiometer (Crossed-coil ratio meter)",
+      "C": "Thermal expansion of wire",
+      "D": "Piezoelectric effect"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why does a hand-driven Megger use a permanent magnet DC generator (or electronic inverter)?",
+    "options": {
+      "A": "To produce high DC voltage (e.g., 500V, 1000V, 2500V) for testing insulation",
+      "B": "To supply AC power to the display",
+      "C": "To demagnetize the cable under test",
+      "D": "To discharge residual capacitance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of the 'Guard Terminal' provided on a high-resistance Megger?",
+    "options": {
+      "A": "To protect the operator from high current",
+      "B": "To eliminate errors caused by surface leakage currents",
+      "C": "To provide earthing to the frame",
+      "D": "To step up the generated voltage"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument is used to measure Earth Electrode Resistance in railway substations and installations?",
+    "options": {
+      "A": "Standard Wheatstone Bridge",
+      "B": "Earth Resistance Tester (Earth Megger)",
+      "C": "Schering Bridge",
+      "D": "Hydrometer"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is Alternating Current (AC) used instead of DC inside an Earth Resistance Megger?",
+    "options": {
+      "A": "To avoid electrolytic polarization effects in the soil",
+      "B": "To reduce internal magnetic loss",
+      "C": "To decrease voltage requirement",
+      "D": "To eliminate skin effect in earth spikes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which AC bridge is used for the measurement of self-inductance of a coil with Medium Quality Factor (1 < Q < 10)?",
+    "options": {
+      "A": "Maxwell's Inductance-Capacitance Bridge",
+      "B": "Hay's Bridge",
+      "C": "Schering Bridge",
+      "D": "Wien Bridge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which AC bridge is best suited for measuring high Quality Factor (Q > 10) inductors?",
+    "options": {
+      "A": "Maxwell's Bridge",
+      "B": "Hay's Bridge",
+      "C": "De Sauty Bridge",
+      "D": "Wheatstone Bridge"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which AC bridge is widely used for precise measurement of Capacitance and Dielectric Loss (Dissipation Factor) of cables and insulators?",
+    "options": {
+      "A": "Anderson Bridge",
+      "B": "Schering Bridge",
+      "C": "Hay's Bridge",
+      "D": "Heaviside Bridge"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which AC bridge is used for measuring Audio Frequency as well as unknown capacitance?",
+    "options": {
+      "A": "Wien's Bridge",
+      "B": "Maxwell's Bridge",
+      "C": "Kelvin's Bridge",
+      "D": "Owen's Bridge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which AC bridge is a modification of Maxwell's bridge and is used for precise measurement of self-inductance in terms of a standard capacitor?",
+    "options": {
+      "A": "Anderson's Bridge",
+      "B": "Schering Bridge",
+      "C": "De Sauty Bridge",
+      "D": "Campbell Bridge"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What device is used in AC bridge circuits to eliminate errors due to stray capacitances to earth?",
+    "options": {
+      "A": "Wagner Earthing Device",
+      "B": "Faraday Cage",
+      "C": "Guard Ring Fuse",
+      "D": "Choke Coil"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase, 3-wire balanced or unbalanced load, the minimum number of single-phase wattmeters required to measure total active power is:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In the 2-wattmeter method for 3-phase power measurement, if both wattmeters W1 and W2 read equal positive values (W1 = W2), the power factor of the load is:",
+    "options": {
+      "A": "0.5",
+      "B": "Zero",
+      "C": "1.0 (Unity)",
+      "D": "0.866"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In the 2-wattmeter method, if one wattmeter reads zero and the other reads positive, what is the power factor of the 3-phase load?",
+    "options": {
+      "A": "1.0",
+      "B": "0.866",
+      "C": "0.5",
+      "D": "Zero"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In the 2-wattmeter method, if one wattmeter gives a negative reading, what does it indicate about the load power factor?",
+    "options": {
+      "A": "Power factor is unity",
+      "B": "Power factor is greater than 0.5",
+      "C": "Power factor is less than 0.5",
+      "D": "Power factor is zero"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the formula for total active power P in a 3-phase system using 2-wattmeter readings W1 and W2?",
+    "options": {
+      "A": "P = W1 - W2",
+      "B": "P = W1 + W2",
+      "C": "P = √(W1² + W2²)",
+      "D": "P = √3 × (W1 + W2)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the formula for reactive power Q in a 3-phase system using 2-wattmeter readings W1 and W2?",
+    "options": {
+      "A": "Q = W1 + W2",
+      "B": "Q = √3 × (W1 - W2)",
+      "C": "Q = (W1 - W2) / √3",
+      "D": "Q = 3 × (W1 - W2)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An induction-type single-phase Energy Meter measures energy in terms of:",
+    "options": {
+      "A": "kW",
+      "B": "kVA",
+      "C": "kVAR",
+      "D": "kWh"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "In a single-phase induction energy meter, the rotating element (disc) is made of:",
+    "options": {
+      "A": "Copper",
+      "B": "Aluminum",
+      "C": "Soft Iron",
+      "D": "Brass"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is aluminum used for the disc in an induction energy meter instead of copper?",
+    "options": {
+      "A": "Aluminum is magnetic",
+      "B": "Aluminum has lower weight per unit conductivity, giving a higher torque-to-weight ratio",
+      "C": "Copper cannot conduct eddy currents",
+      "D": "Aluminum does not experience braking torque"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Creeping' in an electrical energy meter?",
+    "options": {
+      "A": "Fast rotation of the disc on full load",
+      "B": "Slow continuous rotation of the disc when potential coil is energized but no load current flows",
+      "C": "Reverse rotation of the disc during peak load",
+      "D": "Vibration of the spindle due to loose bearings"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How is creeping error prevented in induction energy meters?",
+    "options": {
+      "A": "By placing a heavy weight on the disc",
+      "B": "By drilling two diametrically opposite holes in the aluminum disc",
+      "C": "By increasing potential coil turns",
+      "D": "By removing permanent braking magnet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The permanent magnet positioned near the edge of the disc in an induction energy meter serves to:",
+    "options": {
+      "A": "Provide deflecting torque",
+      "B": "Provide braking (damping) torque proportional to disc speed",
+      "C": "Compensate for friction",
+      "D": "Prevent phase lag error"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Phantom Loading' (Fictitious Loading) in energy meter testing?",
+    "options": {
+      "A": "Loading the meter with actual heavy high-power load resistors",
+      "B": "Supplying pressure coil from normal voltage source and current coil from a separate low voltage high current source to save power",
+      "C": "Testing the meter under no-voltage condition",
+      "D": "Connecting capacitors in series with the current coil"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The Meter Constant of an energy meter is expressed in units of:",
+    "options": {
+      "A": "Revolutions per kWh (rev/kWh)",
+      "B": "kWh per revolution",
+      "C": "Amperes per kWh",
+      "D": "Volts per revolution"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "An energy meter has a constant of 1200 rev/kWh. If it makes 300 revolutions in a test, the energy recorded is:",
+    "options": {
+      "A": "0.25 kWh",
+      "B": "4 kWh",
+      "C": "0.5 kWh",
+      "D": "2.5 kWh"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Current Transformers (CT) and Potential Transformers (PT) are collectively known as:",
+    "options": {
+      "A": "Power Transformers",
+      "B": "Distribution Transformers",
+      "C": "Instrument Transformers",
+      "D": "Auto Transformers"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary function of a Current Transformer (CT)?",
+    "options": {
+      "A": "Step up high DC current to safer level",
+      "B": "Step down high AC line current to a standardized low value (e.g., 1A or 5A) for measurement/protection",
+      "C": "Step down high AC voltage to 110V",
+      "D": "Convert AC current to DC current"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the standard rated secondary current for most industrial and railway protection CTs?",
+    "options": {
+      "A": "10 A or 20 A",
+      "B": "1 A or 5 A",
+      "C": "100 mA",
+      "D": "50 A"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the standard secondary voltage rating for Potential Transformers (PT)?",
+    "options": {
+      "A": "230 V",
+      "B": "110 V",
+      "C": "415 V",
+      "D": "24 V"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why should the secondary winding of an energized Current Transformer (CT) NEVER be left open-circuited?",
+    "options": {
+      "A": "It will short circuit the primary line",
+      "B": "Extremely high dangerous voltage will be induced across secondary terminals causing insulation breakdown and risk of shock",
+      "C": "The primary current will become zero",
+      "D": "The CT core will demagnetize completely"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a CT needs to be disconnected from an ammeter while the main line is energized, what safety action must be taken first?",
+    "options": {
+      "A": "Open circuit the CT secondary terminals",
+      "B": "Short-circuit the secondary terminals of the CT using a shorting link",
+      "C": "Earth the primary line",
+      "D": "Remove the primary fuse"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The primary winding of a Current Transformer (CT) consists of:",
+    "options": {
+      "A": "Large number of turns of thin wire",
+      "B": "Few turns of thick conductor (or single bar conductor)",
+      "C": "High resistance wire coil",
+      "D": "Multiturn aluminum sheet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The load connected across the secondary terminals of an instrument transformer is called its:",
+    "options": {
+      "A": "Surge load",
+      "B": "Burden (expressed in VA)",
+      "C": "Regulation load",
+      "D": "Damping load"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument is used in electrical maintenance to measure AC current in an insulated overhead or third-rail cable without disconnecting the conductor?",
+    "options": {
+      "A": "Moving Coil Voltmeter",
+      "B": "Tong Tester (Clamp Meter)",
+      "C": "Wheatstone Bridge",
+      "D": "Megger"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A Clamp Meter (Tong Tester) operates on the principle of:",
+    "options": {
+      "A": "Variable capacitance",
+      "B": "Current Transformer with a split magnetic core",
+      "C": "Wheatstone bridge balance",
+      "D": "Electrostatic attraction"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a Cathode Ray Oscilloscope (CRO), the electron beam brightness is controlled by adjusting the voltage on the:",
+    "options": {
+      "A": "Focusing anode",
+      "B": "Control grid",
+      "C": "Vertical deflection plates",
+      "D": "Phosphor screen"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The Time Base Generator in a Cathode Ray Oscilloscope (CRO) generates a voltage waveform of what shape?",
+    "options": {
+      "A": "Sinusoidal wave",
+      "B": "Square wave",
+      "C": "Sawtooth wave",
+      "D": "Triangular wave"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Lissajous patterns displayed on a CRO screen are used to measure:",
+    "options": {
+      "A": "Current and resistance",
+      "B": "Frequency ratio and Phase angle between two signals",
+      "C": "Power factor and active power",
+      "D": "Insulation breakdown voltage"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A Digital Multimeter (DMM) converts an analog voltage input to digital format using an:",
+    "options": {
+      "A": "Analog-to-Digital Converter (ADC)",
+      "B": "Inverter",
+      "C": "Attenuator network only",
+      "D": "Electromechanical relay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of meter is used to measure the moisture content or specific gravity of electrolyte in Metro Railway lead-acid backup batteries?",
+    "options": {
+      "A": "Hydrometer",
+      "B": "Hygrometer",
+      "C": "Pyrometer",
+      "D": "Tachometer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which instrument is used to measure rotational speed of electric motors in workshop premises?",
+    "options": {
+      "A": "Tachometer",
+      "B": "Anemometer",
+      "C": "Fluxmeter",
+      "D": "Voltmeter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the recommended DC test voltage of a Megger used for testing 415 V AC shop floor distribution panels?",
+    "options": {
+      "A": "50 V DC",
+      "B": "500 V DC or 1000 V DC",
+      "C": "10 kV DC",
+      "D": "2.5 V DC"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "According to standard Indian Railway / Metro standards, what should be the minimum acceptable insulation resistance for 415 V equipment?",
+    "options": {
+      "A": "0.1 kΩ",
+      "B": "1 MΩ",
+      "C": "10 Ω",
+      "D": "500 Ω"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What should be the maximum earth electrode resistance for a main electrical power substation grounding system?",
+    "options": {
+      "A": "10.0 Ohms",
+      "B": "1.0 Ohm (or less than 0.5 Ohm for major sub-stations)",
+      "C": "50 Ohms",
+      "D": "100 Ohms"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The degree of closeness of a measured value to the true value of the quantity is called:",
+    "options": {
+      "A": "Precision",
+      "B": "Accuracy",
+      "C": "Resolution",
+      "D": "Sensitivity"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The repeatability or reproducibility of measurements under identical conditions is called:",
+    "options": {
+      "A": "Accuracy",
+      "B": "Precision",
+      "C": "Fidelity",
+      "D": "Drift"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The smallest change in measured input quantity to which an instrument will respond is termed its:",
+    "options": {
+      "A": "Accuracy",
+      "B": "Resolution",
+      "C": "Tolerance",
+      "D": "Range"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Errors due to human mistakes in reading, recording, or misusing instruments are classified as:",
+    "options": {
+      "A": "Systematic errors",
+      "B": "Gross errors",
+      "C": "Random errors",
+      "D": "Environmental errors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Errors caused by temperature variations, stray magnetic fields, or humidity changes are classified as:",
+    "options": {
+      "A": "Gross errors",
+      "B": "Environmental (Systematic) errors",
+      "C": "Random errors",
+      "D": "Observational errors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument uses a Thermocouple to measure non-contact high temperatures in motor bearings or furnaces?",
+    "options": {
+      "A": "Pyrometer / Infrared Thermometer",
+      "B": "Hydrometer",
+      "C": "Barometer",
+      "D": "Galvanometer"
+    },
+    "answer": "A"
+  }
+]
+}
