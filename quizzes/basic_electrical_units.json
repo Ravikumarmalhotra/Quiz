@@ -1,0 +1,1004 @@
+{"questions":
+[
+  {
+    "question": "What is the SI unit of Electric Current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Coulomb",
+      "D": "Ohm"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Potential Difference (Voltage)?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Volt",
+      "D": "Farad"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The SI unit of Electrical Resistance is:",
+    "options": {
+      "A": "Siemens",
+      "B": "Ohm",
+      "C": "Henry",
+      "D": "Tesla"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Electrical Conductance?",
+    "options": {
+      "A": "Siemens",
+      "B": "Ohm-meter",
+      "C": "Farad",
+      "D": "Weber"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Electric Charge?",
+    "options": {
+      "A": "Ampere",
+      "B": "Coulomb",
+      "C": "Joule",
+      "D": "Watt-hour"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "One Coulomb is equivalent to:",
+    "options": {
+      "A": "1 Volt × 1 Ampere",
+      "B": "1 Ampere × 1 Second",
+      "C": "1 Watt / 1 Second",
+      "D": "1 Joule / 1 Second"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The unit of Specific Resistance (Resistivity) is:",
+    "options": {
+      "A": "Ohm / meter",
+      "B": "Ohm / sq. meter",
+      "C": "Ohm-meter",
+      "D": "Siemens / meter"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The SI unit of Specific Conductance (Electrical Conductivity) is:",
+    "options": {
+      "A": "Siemens-meter",
+      "B": "Siemens per meter (S/m)",
+      "C": "Ohm-meter",
+      "D": "Mho-meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Capacitance?",
+    "options": {
+      "A": "Henry",
+      "B": "Farad",
+      "C": "Coulomb",
+      "D": "Tesla"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "One Farad is equal to:",
+    "options": {
+      "A": "1 Coulomb / Volt",
+      "B": "1 Volt / Coulomb",
+      "C": "1 Joule / Volt",
+      "D": "1 Ampere / Volt"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The SI unit of Self and Mutual Inductance is:",
+    "options": {
+      "A": "Weber",
+      "B": "Tesla",
+      "C": "Henry",
+      "D": "Gauss"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "One Henry is equivalent to:",
+    "options": {
+      "A": "1 Volt-second per Ampere",
+      "B": "1 Ampere per Volt-second",
+      "C": "1 Joule per Ampere",
+      "D": "1 Weber per Volt"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Electric Power?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Watt-hour",
+      "D": "Volt-Ampere"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "One Watt is equal to:",
+    "options": {
+      "A": "1 Joule per second",
+      "B": "1 Newton per second",
+      "C": "1 Coulomb per second",
+      "D": "1 Erg per second"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the commercial unit of Electrical Energy used by Indian Railways / Metro Railway?",
+    "options": {
+      "A": "Kilo-Watt",
+      "B": "Kilo-Watt-Hour (kWh)",
+      "C": "Mega-Watt",
+      "D": "Joule-Second"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Board of Trade Unit (BOTU) of electrical energy is equal to:",
+    "options": {
+      "A": "1 Watt-hour",
+      "B": "100 Watt-hours",
+      "C": "1 kWh",
+      "D": "10 kWh"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "1 kWh of electrical energy is equal to how many Joules?",
+    "options": {
+      "A": "3.6 × 10^3 J",
+      "B": "3.6 × 10^5 J",
+      "C": "3.6 × 10^6 J",
+      "D": "3.6 × 10^8 J"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "1 kWh of energy is equivalent to approximately how many Heat Calories (kcal)?",
+    "options": {
+      "A": "418 kcal",
+      "B": "860 kcal",
+      "C": "1000 kcal",
+      "D": "3600 kcal"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Magnetic Flux?",
+    "options": {
+      "A": "Tesla",
+      "B": "Weber",
+      "C": "Maxwell",
+      "D": "Gauss"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the CGS unit of Magnetic Flux?",
+    "options": {
+      "A": "Weber",
+      "B": "Maxwell",
+      "C": "Gauss",
+      "D": "Oersted"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Weber is equal to how many Maxwells?",
+    "options": {
+      "A": "10^4",
+      "B": "10^6",
+      "C": "10^8",
+      "D": "10^10"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of Magnetic Flux Density?",
+    "options": {
+      "A": "Weber",
+      "B": "Tesla",
+      "C": "Ampere-turns",
+      "D": "Henry/meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Tesla is equal to:",
+    "options": {
+      "A": "1 Weber / sq. meter",
+      "B": "1 Weber-meter",
+      "C": "1 Maxwell / sq. cm",
+      "D": "1 Gauss"
+    },
+    "answer": "A"
+  },
+  {
+    "question": " What is the CGS unit of Magnetic Flux Density?",
+    "options": {
+      "A": "Maxwell",
+      "B": "Gauss",
+      "C": "Oersted",
+      "D": "Gilbert"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Tesla is equal to how many Gauss?",
+    "options": {
+      "A": "10^2",
+      "B": "10^4",
+      "C": "10^6",
+      "D": "10^8"
+    },
+    "answer": "B"
+  },
+  {
+    "question": " What is the SI unit of Magnetomotive Force (MMF)?",
+    "options": {
+      "A": "Ampere-turns (AT)",
+      "B": "Weber/meter",
+      "C": "Tesla-meter",
+      "D": "Gilbert"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the CGS unit of Magnetomotive Force (MMF)?",
+    "options": {
+      "A": "Oersted",
+      "B": "Gilbert",
+      "C": "Gauss",
+      "D": "Maxwell"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Magnetic Field Intensity (H)?",
+    "options": {
+      "A": "Ampere-turns per meter (AT/m)",
+      "B": "Weber per meter",
+      "C": "Tesla per meter",
+      "D": "Henry per meter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the CGS unit of Magnetic Field Intensity (H)?",
+    "options": {
+      "A": "Gilbert",
+      "B": "Oersted",
+      "C": "Gauss",
+      "D": "Maxwell"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Magnetic Reluctance?",
+    "options": {
+      "A": "Henry",
+      "B": "Ampere-turns per Weber (AT/Wb)",
+      "C": "Weber per Ampere-turn",
+      "D": "Siemens"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The reciprocal of Reluctance is Permeance. What is the unit of Permeance?",
+    "options": {
+      "A": "AT/Wb",
+      "B": "Weber per Ampere-turn (Wb/AT) or Henry",
+      "C": "Ohm",
+      "D": "Farad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Absolute Permeability (μ)?",
+    "options": {
+      "A": "Farad per meter (F/m)",
+      "B": "Henry per meter (H/m)",
+      "C": "Henry-meter",
+      "D": "Dimensionless"
+    },
+    "answer": "B"
+  },
+  {
+    "question": " What is the unit of Relative Permeability (μr)?",
+    "options": {
+      "A": "Henry per meter",
+      "B": "Tesla/meter",
+      "C": "It is dimensionless (no unit)",
+      "D": "Weber/Ampere"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The value of Absolute Permeability of Free Space (μ0) is:",
+    "options": {
+      "A": "8.854 × 10^-12 H/m",
+      "B": "4π × 10^-7 H/m",
+      "C": "9 × 10^9 H/m",
+      "D": "1.6 × 10^-19 H/m"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Absolute Permittivity (ε)?",
+    "options": {
+      "A": "Henry per meter (H/m)",
+      "B": "Farad per meter (F/m)",
+      "C": "Coulomb per meter",
+      "D": "Volt per meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The value of Absolute Permittivity of Free Space (ε0) is:",
+    "options": {
+      "A": "4π × 10^-7 F/m",
+      "B": "8.854 × 10^-12 F/m",
+      "C": "1.0 F/m",
+      "D": "9 × 10^9 F/m"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Relative Permittivity (εr)?",
+    "options": {
+      "A": "Farad/meter",
+      "B": "Coulomb/Volt",
+      "C": "No unit (Dimensionless)",
+      "D": "Volt/meter"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Electric Field Strength (Electric Intensity, E)?",
+    "options": {
+      "A": "Volt per meter (V/m) or Newton per Coulomb (N/C)",
+      "B": "Volt-meter",
+      "C": "Coulomb per sq. meter",
+      "D": "Joule per meter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Electric Flux Density (D)?",
+    "options": {
+      "A": "Coulomb per meter",
+      "B": "Coulomb per square meter (C/m²)",
+      "C": "Farad per meter",
+      "D": "Volt per square meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Potential Gradient in an underground cable?",
+    "options": {
+      "A": "kV / mm or V / m",
+      "B": "kV-mm",
+      "C": "Ampere / mm²",
+      "D": "Ohm / km"
+    },
+    "answer": "A"
+  },
+  {
+    "question": " What is the unit of Dielectric Strength of an insulating material?",
+    "options": {
+      "A": "kV per mm (or V per meter)",
+      "B": "kWh",
+      "C": "Coulomb per sq. meter",
+      "D": "Ohm-cm"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Frequency?",
+    "options": {
+      "A": "Radian per second",
+      "B": "Hertz (Hz)",
+      "C": "Cycles per minute",
+      "D": "Seconds"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Hertz is equivalent to:",
+    "options": {
+      "A": "1 cycle per minute",
+      "B": "1 cycle per second",
+      "C": "60 cycles per second",
+      "D": "1 cycle per hour"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Angular Frequency (ω)?",
+    "options": {
+      "A": "Hertz",
+      "B": "Degrees per second",
+      "C": "Radians per second (rad/s)",
+      "D": "Revolutions per minute"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Apparent Power in AC circuits?",
+    "options": {
+      "A": "Watt (W)",
+      "B": "Volt-Ampere (VA)",
+      "C": "Volt-Ampere Reactive (VAR)",
+      "D": "Kilo-Watt-Hour (kWh)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Reactive Power in AC circuits?",
+    "options": {
+      "A": "Volt-Ampere (VA)",
+      "B": "Volt-Ampere Reactive (VAR)",
+      "C": "Watt (W)",
+      "D": "Joule"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Active (True/Real) Power in AC circuits?",
+    "options": {
+      "A": "Volt-Ampere (VA)",
+      "B": "Volt-Ampere Reactive (VAR)",
+      "C": "Watt (W)",
+      "D": "Henry"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Power Factor?",
+    "options": {
+      "A": "Watts",
+      "B": "Degrees",
+      "C": "It is dimensionless (no unit)",
+      "D": "Volt-Amperes"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the SI unit of Temperature Coefficient of Resistance?",
+    "options": {
+      "A": "Ohm per °C",
+      "B": "Per degree Celsius (/°C or °C^-1)",
+      "C": "Ohm-°C",
+      "D": "Degree Celsius per Ohm"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Inductive Reactance (XL)?",
+    "options": {
+      "A": "Henry",
+      "B": "Farad",
+      "C": "Ohm",
+      "D": "Siemens"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Capacitive Reactance (XC)?",
+    "options": {
+      "A": "Farad",
+      "B": "Ohm",
+      "C": "Siemens",
+      "D": "Henry"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Impedance (Z)?",
+    "options": {
+      "A": "Siemens",
+      "B": "Mho",
+      "C": "Ohm",
+      "D": "Henry"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Admittance (Y)?",
+    "options": {
+      "A": "Ohm",
+      "B": "Siemens",
+      "C": "Henry",
+      "D": "Farad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Susceptance (B)?",
+    "options": {
+      "A": "Ohm",
+      "B": "Siemens",
+      "C": "Henry",
+      "D": "Weber"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Metric Horsepower (HP) is equivalent to how many Watts?",
+    "options": {
+      "A": "746 W",
+      "B": "735.5 W",
+      "C": "1000 W",
+      "D": "500 W"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Mechanical (Imperial) Horsepower (HP) is equivalent to how many Watts?",
+    "options": {
+      "A": "735.5 W",
+      "B": "746 W",
+      "C": "750 W",
+      "D": "1000 W"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'milli' equal to?",
+    "options": {
+      "A": "10^-2",
+      "B": "10^-3",
+      "C": "10^-6",
+      "D": "10^-9"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'micro' (μ) equal to?",
+    "options": {
+      "A": "10^-3",
+      "B": "10^-6",
+      "C": "10^-9",
+      "D": "10^-12"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'nano' (n) equal to?",
+    "options": {
+      "A": "10^-6",
+      "B": "10^-9",
+      "C": "10^-12",
+      "D": "10^-15"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'pico' (p) equal to?",
+    "options": {
+      "A": "10^-9",
+      "B": "10^-12",
+      "C": "10^-15",
+      "D": "10^-6"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'Giga' (G) equal to?",
+    "options": {
+      "A": "10^6",
+      "B": "10^9",
+      "C": "10^12",
+      "D": "10^15"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the prefix 'Mega' (M) equal to?",
+    "options": {
+      "A": "10^3",
+      "B": "10^6",
+      "C": "10^9",
+      "D": "10^12"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Surge Impedance of a transmission line / traction line?",
+    "options": {
+      "A": "Siemens",
+      "B": "Ohm",
+      "C": "Henry/meter",
+      "D": "Farad/meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The dimensional formula of Electric Current in SI units is denoted by:",
+    "options": {
+      "A": "[M^0 L^0 T^0 A^1]",
+      "B": "[M^1 L^1 T^-2 A^0]",
+      "C": "[M^1 L^2 T^-3 A^-1]",
+      "D": "[M^0 L^0 T^1 A^1]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The dimensional formula for Electric Charge [Q] is:",
+    "options": {
+      "A": "[A T]",
+      "B": "[A T^-1]",
+      "C": "[M L T^-1 A]",
+      "D": "[A^2 T]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The dimensional formula for Electric Potential (Voltage) is:",
+    "options": {
+      "A": "[M L^2 T^-3 A^-1]",
+      "B": "[M L^2 T^-2 A^-1]",
+      "C": "[M L T^-3 A^-1]",
+      "D": "[M L^2 T^-3 A^-2]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The dimensional formula for Electrical Resistance [R] is:",
+    "options": {
+      "A": "[M L^2 T^-3 A^-2]",
+      "B": "[M L^2 T^-2 A^-1]",
+      "C": "[M L^3 T^-3 A^-2]",
+      "D": "[M L^2 T^-1 A^-2]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The dimensional formula for Capacitance [C] is:",
+    "options": {
+      "A": "[M^-1 L^-2 T^4 A^2]",
+      "B": "[M L^2 T^-3 A^-2]",
+      "C": "[M^-1 L^-2 T^2 A^2]",
+      "D": "[M^1 L^2 T^-4 A^-2]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The dimensional formula for Inductance [L] is:",
+    "options": {
+      "A": "[M L^2 T^-2 A^-2]",
+      "B": "[M L^2 T^-3 A^-1]",
+      "C": "[M L T^-2 A^-2]",
+      "D": "[M^-1 L^-2 T^4 A^2]"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of Form Factor of an AC waveform?",
+    "options": {
+      "A": "Volts",
+      "B": "Amperes",
+      "C": "Hertz",
+      "D": "Dimensionless (Unitless)"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the unit of Peak Factor (Crest Factor)?",
+    "options": {
+      "A": "Volts",
+      "B": "Dimensionless",
+      "C": "Watts",
+      "D": "Radians"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Luminous Flux?",
+    "options": {
+      "A": "Lux",
+      "B": "Lumen",
+      "C": "Candela",
+      "D": "Watt"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit of Illuminance (Illumination level)?",
+    "options": {
+      "A": "Lumen",
+      "B": "Lux (Lumen / m²)",
+      "C": "Candela",
+      "D": "Foot-candle"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Lux is equivalent to:",
+    "options": {
+      "A": "1 Lumen per square meter",
+      "B": "1 Candela per square meter",
+      "C": "1 Lumen-meter",
+      "D": "1 Watt per square meter"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Luminous Intensity?",
+    "options": {
+      "A": "Lux",
+      "B": "Lumen",
+      "C": "Candela (cd)",
+      "D": "Watt"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Energy Consumption measured in Metro Railway rake auxiliary systems?",
+    "options": {
+      "A": "KVA",
+      "B": "kWh or MWh",
+      "C": "kW/h",
+      "D": "kVAR"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A capacitor is rated as 10 μF. How many Farads is this?",
+    "options": {
+      "A": "10 × 10^-3 F",
+      "B": "10 × 10^-6 F",
+      "C": "10 × 10^-9 F",
+      "D": "10 × 10^-12 F"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An inductor is rated as 5 mH. How many Henrys is this?",
+    "options": {
+      "A": "0.005 H",
+      "B": "0.05 H",
+      "C": "0.000005 H",
+      "D": "0.5 H"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A insulation resistance tester (Megger) displays 50 MΩ. What is this value in Ohms?",
+    "options": {
+      "A": "50 × 10^3 Ω",
+      "B": "50 × 10^6 Ω",
+      "C": "50 × 10^9 Ω",
+      "D": "50 × 10^12 Ω"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Calorie is equal to approximately how many Joules?",
+    "options": {
+      "A": "0.24 J",
+      "B": "4.186 J",
+      "C": "860 J",
+      "D": "736 J"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Joule is equal to how many Calories?",
+    "options": {
+      "A": "0.239 Calorie",
+      "B": "4.186 Calorie",
+      "C": "860 Calorie",
+      "D": "3.6 Calorie"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "1 Erg (CGS unit of work/energy) is equal to how many Joules?",
+    "options": {
+      "A": "10^-5 J",
+      "B": "10^-7 J",
+      "C": "10^-9 J",
+      "D": "10^-3 J"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "1 Newton (SI unit of force) is equal to how many Dynes (CGS unit)?",
+    "options": {
+      "A": "10^3 Dynes",
+      "B": "10^5 Dynes",
+      "C": "10^7 Dynes",
+      "D": "10^6 Dynes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Current Density (J)?",
+    "options": {
+      "A": "Ampere per meter",
+      "B": "Ampere per square meter (A/m²)",
+      "C": "Ampere-meter",
+      "D": "Volt per square meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Charge Density (Surface Charge Density, σ)?",
+    "options": {
+      "A": "Coulomb per meter",
+      "B": "Coulomb per square meter (C/m²)",
+      "C": "Coulomb per cubic meter",
+      "D": "Farad per square meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Volume Charge Density (ρ)?",
+    "options": {
+      "A": "Coulomb per square meter",
+      "B": "Coulomb per cubic meter (C/m³)",
+      "C": "Ampere per cubic meter",
+      "D": "Volt per cubic meter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the unit of Electrostatic Potential Energy?",
+    "options": {
+      "A": "Volt",
+      "B": "Joule",
+      "C": "Watt",
+      "D": "Coulomb"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Electron-Volt (eV) is a unit of:",
+    "options": {
+      "A": "Voltage",
+      "B": "Charge",
+      "C": "Energy",
+      "D": "Power"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "1 Electron-Volt (1 eV) is equal to:",
+    "options": {
+      "A": "1.602 × 10^-19 Joules",
+      "B": "1.602 × 10^-19 Volts",
+      "C": "9.1 × 10^-31 Joules",
+      "D": "1.602 × 10^-19 Coulombs"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of Moment of Coupling / Mutual Flux in magnetic circuits?",
+    "options": {
+      "A": "Henry",
+      "B": "Weber",
+      "C": "Tesla",
+      "D": "Ampere-turn"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the SI unit for Frequency of Supply in Metro Railway AC Traction Systems (25 kV system)?",
+    "options": {
+      "A": "16.67 Hz",
+      "B": "25 Hz",
+      "C": "50 Hz",
+      "D": "60 Hz"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "The rating of a Transformer is always expressed in:",
+    "options": {
+      "A": "kW",
+      "B": "kVA",
+      "C": "kVAR",
+      "D": "kWh"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The rating of a DC Generator or Motor in shop floor machinery is expressed in:",
+    "options": {
+      "A": "kVA",
+      "B": "kW or HP",
+      "C": "kVAR",
+      "D": "Ah"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The capacity of a Storage Battery (e.g., Substation Backup Battery / Rake Battery) is expressed in:",
+    "options": {
+      "A": "Watt-hours only",
+      "B": "Ampere-hours (Ah)",
+      "C": "Volts",
+      "D": "Amperes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does '1 Ampere-hour (Ah)' represent?",
+    "options": {
+      "A": "Unit of Power",
+      "B": "Unit of Current",
+      "C": "Unit of Electric Charge (3600 Coulombs)",
+      "D": "Unit of Energy"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the relationship between Watt-hour (Wh) and Ampere-hour (Ah)?",
+    "options": {
+      "A": "Wh = Ah × Voltage",
+      "B": "Wh = Ah / Voltage",
+      "C": "Wh = Ah × Resistance",
+      "D": "Wh = Ah × Current"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of Quality Factor (Q-factor) of a resonant AC circuit?",
+    "options": {
+      "A": "Ohm",
+      "B": "Henry",
+      "C": "Dimensionless (Unitless)",
+      "D": "Hertz"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of Damping Factor in control systems/electrical circuits?",
+    "options": {
+      "A": "Dimensionless",
+      "B": "Seconds",
+      "C": "1/Seconds",
+      "D": "Radians"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase system, what is the unit of Line Voltage and Phase Voltage?",
+    "options": {
+      "A": "Volt (V)",
+      "B": "Volt-Ampere (VA)",
+      "C": "Volt per phase",
+      "D": "Watt"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If an electrical heater consumes 1000 W for 2 hours, how many units (kWh) of energy are consumed?",
+    "options": {
+      "A": "1 Unit",
+      "B": "2 Units",
+      "C": "5 Units",
+      "D": "2000 Units"
+    },
+    "answer": "B"
+  }
+]
+}
