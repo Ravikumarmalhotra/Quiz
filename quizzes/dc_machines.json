@@ -1,0 +1,1004 @@
+{"questions":
+[
+  {
+    "question": "What fundamental principle governs the working of a DC Generator?",
+    "options": {
+      "A": "Faraday's Law of Electromagnetic Induction",
+      "B": "Lorentz Force Law",
+      "C": "Ampere's Circuital Law",
+      "D": "Lenz's Law only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What principle governs the operation of a DC Motor?",
+    "options": {
+      "A": "Faraday's Law of Electromagnetic Induction",
+      "B": "Force on a current-carrying conductor placed in a magnetic field (B I L sin θ)",
+      "C": "Seebeck Effect",
+      "D": "Self-inductance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a DC machine, the armature coil voltage generated dynamically inside the rotating armature conductors is fundamentally:",
+    "options": {
+      "A": "Pure DC",
+      "B": "Alternating Current (AC)",
+      "C": "Pulsating DC with zero average value",
+      "D": "Static DC"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What component in a DC generator converts the AC voltage generated in the armature coils into DC output voltage at the brushes?",
+    "options": {
+      "A": "Slip rings",
+      "B": "Commutator (Mechanical Rectifier)",
+      "C": "Equalizer rings",
+      "D": "Field pole shoes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Commutator segments in a DC machine are made of high-conductivity hard-drawn copper and insulated from each other by thin sheets of:",
+    "options": {
+      "A": "PVC",
+      "B": "Mica",
+      "C": "Asbestos",
+      "D": "Pressboard"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The main function of Pole Shoes in a DC machine is to:",
+    "options": {
+      "A": "Spread out the flux in the air gap and support the field coils",
+      "B": "Reduce armature reaction",
+      "C": "Collect current from the commutator",
+      "D": "Increase core losses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Armature core of a DC machine is laminated in order to reduce:",
+    "options": {
+      "A": "Hysteresis loss",
+      "B": "Eddy current loss",
+      "C": "Copper loss",
+      "D": "Friction and windage loss"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The brushes in a DC machine are usually made of carbon or electro-graphite because carbon:",
+    "options": {
+      "A": "Has high resistance and negative temperature coefficient of resistance which aids sparkless commutation",
+      "B": "Is a very cheap magnetic material",
+      "C": "Increases generated voltage",
+      "D": "Prevents eddy currents"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Lap Winding of a DC machine, the number of parallel paths (A) is equal to:",
+    "options": {
+      "A": "2",
+      "B": "Number of poles (P)",
+      "C": "P / 2",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In Wave Winding of a DC machine, the number of parallel paths (A) is always equal to:",
+    "options": {
+      "A": "2",
+      "B": "Number of poles (P)",
+      "C": "4",
+      "D": "P / 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "For high current, low voltage DC generator applications, which type of winding is used?",
+    "options": {
+      "A": "Wave winding",
+      "B": "Lap winding",
+      "C": "Concentric winding",
+      "D": "Open mesh winding"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "For high voltage, low current DC generator applications, which type of winding is used?",
+    "options": {
+      "A": "Lap winding",
+      "B": "Wave winding",
+      "C": "Duplex lap winding",
+      "D": "Frog-leg winding"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Equalizer rings are used in DC machines equipped with:",
+    "options": {
+      "A": "Wave winding to avoid sparkless commutation",
+      "B": "Lap winding to avoid unequal current distribution at brushes caused by unequal flux under poles",
+      "C": "Series field winding",
+      "D": "Interpoles"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Dummy coils are provided in a DC wave winding to:",
+    "options": {
+      "A": "Increase generated EMF",
+      "B": "Maintain mechanical balance of the rotating armature core",
+      "C": "Improve power factor",
+      "D": "Reduce flux leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the Generated EMF equation of a DC Generator?",
+    "options": {
+      "A": "Eg = (P × Φ × Z × N) / (60 × A)",
+      "B": "Eg = (P × Φ × Z) / (60 × N × A)",
+      "C": "Eg = (Φ × Z × N) / (60 × P × A)",
+      "D": "Eg = (60 × A × P) / (Φ × Z × N)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A 4-pole DC generator having lap winding has 500 armature conductors and runs at 1200 rpm. If flux per pole is 0.02 Wb, generated voltage is:",
+    "options": {
+      "A": "100 V",
+      "B": "200 V",
+      "C": "400 V",
+      "D": "800 V"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If the same generator in the previous question is wave-wound, what will be the generated voltage?",
+    "options": {
+      "A": "200 V",
+      "B": "400 V",
+      "C": "800 V",
+      "D": "100 V"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a DC Shunt Generator, the field winding is connected in:",
+    "options": {
+      "A": "Series with armature winding",
+      "B": "Parallel (shunt) with armature winding",
+      "C": "Series with load",
+      "D": "Across interpole winding"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The field winding of a DC Shunt Generator consists of:",
+    "options": {
+      "A": "Few turns of thick wire (low resistance)",
+      "B": "Many turns of thin wire (high resistance)",
+      "C": "Copper strip of single turn",
+      "D": "Aluminum foil turns"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The field winding of a DC Series Generator consists of:",
+    "options": {
+      "A": "Many turns of thin wire",
+      "B": "Few turns of thick wire (low resistance)",
+      "C": "High resistance wire",
+      "D": "Nichrome wire"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which DC generator maintains almost constant terminal voltage from no load to full load?",
+    "options": {
+      "A": "DC Series Generator",
+      "B": "Flat-compounded (Level-compounded) Generator",
+      "C": "Differential Compounded Generator",
+      "D": "Un-excited Generator"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which DC generator is commonly used as a Booster in DC distribution lines to compensate for voltage drop?",
+    "options": {
+      "A": "DC Shunt Generator",
+      "B": "DC Series Generator",
+      "C": "Over-compounded Generator",
+      "D": "Separately Excited Generator"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of DC compound generator has series field flux assisting the main shunt field flux?",
+    "options": {
+      "A": "Differential Compound Generator",
+      "B": "Cumulative Compound Generator",
+      "C": "Shunt Generator",
+      "D": "Series Generator"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which DC generator is specially used for Electric Arc Welding due to its drooping voltage characteristic?",
+    "options": {
+      "A": "Cumulative Compound Generator",
+      "B": "Differentially Compounded DC Generator",
+      "C": "DC Shunt Generator",
+      "D": "Flat Compounded Generator"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What essential condition must be satisfied for a self-excited DC shunt generator to build up voltage?",
+    "options": {
+      "A": "Residual magnetism must be present in field poles",
+      "B": "Field circuit resistance must be less than Critical Resistance (Rcr)",
+      "C": "Speed of machine must be above Critical Speed",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What will happen if a self-excited DC shunt generator is rotated in the reverse direction of rotation?",
+    "options": {
+      "A": "It will generate double voltage",
+      "B": "Residual magnetism will be destroyed and voltage will fail to build up",
+      "C": "It will burn out immediately",
+      "D": "It will generate AC voltage"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a self-excited DC shunt generator fails to build up voltage due to loss of residual magnetism, how can it be restored?",
+    "options": {
+      "A": "By increasing prime mover speed to double",
+      "B": "By Flashing the Field (connecting field to external DC source briefly)",
+      "C": "By short-circuiting armature terminals",
+      "D": "By reversing brush leads"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Armature Reaction' in a DC machine?",
+    "options": {
+      "A": "Effect of main field flux on armature conductors",
+      "B": "Effect of flux produced by armature current on main field flux",
+      "C": "Mechanical vibration of armature core",
+      "D": "Heating of armature winding"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Armature reaction in a DC machine results in which two main effects?",
+    "options": {
+      "A": "Cross-magnetization (distortion) and Demagnetization (weakening) of main field flux",
+      "B": "Increasing speed and torque",
+      "C": "Increasing eddy current and hysteresis losses",
+      "D": "Reducing brush friction and spark"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC Generator, the Magnetic Neutral Axis (MNA) shifts due to armature reaction in the direction of:",
+    "options": {
+      "A": "Rotation of armature",
+      "B": "Opposite to direction of rotation",
+      "C": "Perpendicular to GNA",
+      "D": "MNA does not shift"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC Motor, the Magnetic Neutral Axis (MNA) shifts due to armature reaction in the direction of:",
+    "options": {
+      "A": "Rotation of motor",
+      "B": "Opposite to the direction of rotation",
+      "C": "Towards main pole center",
+      "D": "Randomly"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can the demagnetizing effect of armature reaction be compensated?",
+    "options": {
+      "A": "By shifting brushes to MNA or adding extra turns to main field poles",
+      "B": "By reducing field current",
+      "C": "By using high resistance brushes",
+      "D": "By using dummy coils"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Compensating windings in large heavy-duty DC machines are placed in slots in pole faces and connected in:",
+    "options": {
+      "A": "Parallel with main field winding",
+      "B": "Series with armature winding so that current flows opposite to armature conductor current",
+      "C": "Parallel with load",
+      "D": "Series with shunt field"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Interpoles (Compensating poles) are small auxiliary poles fitted between main poles in DC machines to:",
+    "options": {
+      "A": "Improve commutation and neutralize cross-magnetizing armature flux in commutating zone",
+      "B": "Increase generated EMF",
+      "C": "Decrease armature current",
+      "D": "Reduce speed of motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Interpole coils are connected in:",
+    "options": {
+      "A": "Series with armature winding",
+      "B": "Parallel with armature winding",
+      "C": "Series with shunt field winding",
+      "D": "Parallel with load"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC Generator, the polarity of an interpole must be:",
+    "options": {
+      "A": "Same as that of main pole ahead in direction of rotation",
+      "B": "Same as that of main pole behind in direction of rotation",
+      "C": "North pole always",
+      "D": "South pole always"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC Motor, the polarity of an interpole must be:",
+    "options": {
+      "A": "Same as that of main pole ahead in direction of rotation",
+      "B": "Same as that of main pole behind in direction of rotation",
+      "C": "North pole always",
+      "D": "Opposite to adjacent main pole"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What causes severe heavy sparking at the brushes during commutation in a DC machine?",
+    "options": {
+      "A": "Reactance Voltage induced in coil undergoing reversal of current due to self-inductance",
+      "B": "Low contact resistance of carbon brushes",
+      "C": "Over-cooling of commutator",
+      "D": "Excessive high voltage"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Back EMF' (Eb) in a DC motor?",
+    "options": {
+      "A": "Voltage applied at motor terminals",
+      "B": "EMF induced in armature conductors opposing applied voltage according to Lenz's Law",
+      "C": "Voltage drop across field winding",
+      "D": "IR drop across brushes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The Back EMF equation of a DC motor is given by:",
+    "options": {
+      "A": "Eb = V + Ia × Ra",
+      "B": "Eb = V - Ia × Ra",
+      "C": "Eb = V / Ia",
+      "D": "Eb = Ia × Ra"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The mechanical power developed by a DC motor armature is maximum when Back EMF Eb is equal to:",
+    "options": {
+      "A": "Applied terminal voltage V",
+      "B": "Half of applied voltage (V / 2)",
+      "C": "Zero",
+      "D": "Double of applied voltage (2V)"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the relationship between Speed (N), Back EMF (Eb), and Flux (Φ) in a DC motor?",
+    "options": {
+      "A": "N ∝ Eb / Φ",
+      "B": "N ∝ Φ / Eb",
+      "C": "N ∝ Eb × Φ",
+      "D": "N ∝ 1 / (Eb × Φ)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the relationship between Electromagnetic Torque (Ta) and Armature Current (Ia) in a DC motor before magnetic saturation?",
+    "options": {
+      "A": "Ta ∝ Φ × Ia",
+      "B": "Ta ∝ Eb / Ia",
+      "C": "Ta ∝ Ia / Φ",
+      "D": "Ta ∝ N × Ia"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC Series Motor, before magnetic saturation, Torque (Ta) is proportional to:",
+    "options": {
+      "A": "Ia",
+      "B": "Ia² (Square of armature current)",
+      "C": "√Ia",
+      "D": "1 / Ia"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why must a DC Series Motor NEVER be started on no-load condition?",
+    "options": {
+      "A": "It will fail to start",
+      "B": "It will attain dangerously high speeds and may burst due to excessive centrifugal force",
+      "C": "It will draw huge short-circuit current",
+      "D": "It will rotate in reverse direction"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of DC motor is best suited for electric traction applications (old DC traction / auxiliary winches) requiring high starting torque?",
+    "options": {
+      "A": "DC Shunt Motor",
+      "B": "DC Series Motor",
+      "C": "Differential Compound Motor",
+      "D": "Separately Excited Shunt Motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of DC motor provides almost constant speed from no load to full load and is used in machine shop lathes/blowers?",
+    "options": {
+      "A": "DC Series Motor",
+      "B": "DC Shunt Motor",
+      "C": "Differential Compound Motor",
+      "D": "Series Booster Motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a DC Shunt Motor, if the field winding accidentally opens up while running, what will happen?",
+    "options": {
+      "A": "The motor stops instantly",
+      "B": "The speed will increase dangerously high (runaway condition) if lightly loaded, drawing heavy current",
+      "C": "The motor will run at half speed",
+      "D": "The direction of rotation will reverse"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How can the direction of rotation of a DC motor be reversed?",
+    "options": {
+      "A": "By reversing supply mains polarity",
+      "B": "By reversing either armature terminals OR field terminals (not both)",
+      "C": "By reversing both armature and field terminals simultaneously",
+      "D": "By adding extra resistance in field"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If supply line terminals to a DC Shunt motor are interchanged, what will happen to direction of rotation?",
+    "options": {
+      "A": "It will reverse",
+      "B": "It will remain unchanged (same direction)",
+      "C": "Motor will stop",
+      "D": "Motor will burn"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why is a Starter required for starting a DC motor?",
+    "options": {
+      "A": "Because Back EMF Eb is zero at starting, resulting in dangerously high initial armature current",
+      "B": "To increase initial field flux",
+      "C": "To reverse motor rotation",
+      "D": "To prevent overvoltage from mains"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A 3-Point Starter is used to start which type of DC motors?",
+    "options": {
+      "A": "DC Series Motors only",
+      "B": "DC Shunt and Compound Motors",
+      "C": "3-Phase Induction Motors",
+      "D": "Synchronous Motors"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main drawback of a 3-Point Starter when used with field flux control speed variation?",
+    "options": {
+      "A": "No Volt Coil (NVC) is connected in series with shunt field, so weakening field drops NVC holding current releasing starter handle",
+      "B": "Overload release coil burns",
+      "C": "Starting resistance gets shorted",
+      "D": "Armature current increases"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How does a 4-Point Starter overcome the limitation of a 3-Point Starter?",
+    "options": {
+      "A": "NVC is connected independently across supply line with a protective current-limiting resistor",
+      "B": "It eliminates overload coil",
+      "C": "It removes starting resistance",
+      "D": "It uses AC supply"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which starter is specifically used for starting DC Series Motors?",
+    "options": {
+      "A": "3-Point Starter",
+      "B": "2-Point Starter",
+      "C": "4-Point Starter",
+      "D": "Star-Delta Starter"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Speed control of a DC Shunt Motor ABOVE base speed is achieved by:",
+    "options": {
+      "A": "Armature Resistance Control Method",
+      "B": "Field Control (Flux weakening) Method",
+      "C": "Voltage Control Method",
+      "D": "Tapped Armature Method"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Speed control of a DC Shunt Motor BELOW base speed is achieved by:",
+    "options": {
+      "A": "Field Control Method",
+      "B": "Armature Resistance Control (Rheostatic Control) Method",
+      "C": "Field Diverter Method",
+      "D": "Pole Changing Method"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which speed control method of DC motors provides wide, smooth, stepless speed regulation both below and above normal rated speed in heavy machinery?",
+    "options": {
+      "A": "Ward-Leonard Speed Control System",
+      "B": "Armature Series Resistance Method",
+      "C": "Field Tapping Method",
+      "D": "Field Diverter Method"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What are the common speed control methods used for DC Series Motors?",
+    "options": {
+      "A": "Field Diverter, Armature Diverter, Field Tappings, and Series-Parallel Control",
+      "B": "Ward-Leonard system only",
+      "C": "Star-Delta control",
+      "D": "Rotor resistance control"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In electric traction DC stock, two identical DC series motors connected in SERIES during starting produce how much speed compared to PARALLEL connection for same line voltage?",
+    "options": {
+      "A": "Same speed",
+      "B": "Half speed",
+      "C": "Double speed",
+      "D": "One-fourth speed"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main advantage of Series-Parallel speed control of traction DC motors?",
+    "options": {
+      "A": "High efficiency with low rheostatic starting energy losses",
+      "B": "Low torque at starting",
+      "C": "Elimination of field flux",
+      "D": "Constant current operation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Regenerative Braking of a DC motor:",
+    "options": {
+      "A": "Motor works as a generator and feeds kinetic energy back into the power supply mains",
+      "B": "Motor energy is dissipated as heat in external braking resistors",
+      "C": "Armature connections are reversed to push motor backward",
+      "D": "Mechanical brake shoes lock the wheels"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What condition must be met for Regenerative Braking to take place in a DC motor?",
+    "options": {
+      "A": "Back EMF Eb must be greater than applied line voltage V (Eb > V)",
+      "B": "Back EMF Eb must be less than V",
+      "C": "Armature current must be zero",
+      "D": "Field current must be zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Dynamic (Rheostatic) Braking of a DC motor:",
+    "options": {
+      "A": "Armature is disconnected from supply lines and connected across a braking resistor while field remains energized",
+      "B": "Power is fed back to the overhead 3rd rail",
+      "C": "Supply voltage polarity is reversed",
+      "D": "Field circuit is open circuited"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In Plugging (Reverse Current Braking) of a DC motor:",
+    "options": {
+      "A": "Armature connections are reversed while running so motor produces torque in reverse direction",
+      "B": "Field is disconnected",
+      "C": "Motor acts as transformer",
+      "D": "Voltage is reduced to zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which braking method provides maximum retarding torque and quickest stop but wastes maximum energy?",
+    "options": {
+      "A": "Regenerative Braking",
+      "B": "Plugging (Reverse Current Braking)",
+      "C": "Dynamic Braking",
+      "D": "Friction Braking"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Copper losses in a DC machine vary with load current (Ia) as:",
+    "options": {
+      "A": "Proportional to Ia",
+      "B": "Proportional to Ia²",
+      "C": "Independent of Ia",
+      "D": "Proportional to √Ia"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Core losses (Iron losses) in a DC machine consist of:",
+    "options": {
+      "A": "Armature copper loss and field copper loss",
+      "B": "Hysteresis loss and Eddy current loss",
+      "C": "Brush contact loss and friction loss",
+      "D": "Stray load loss"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Iron losses in a DC machine take place primarily in the:",
+    "options": {
+      "A": "Armature core",
+      "B": "Yoke (Outer frame)",
+      "C": "Commutator segments",
+      "D": "Carbon brushes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Hysteresis loss in armature core depends on:",
+    "options": {
+      "A": "Bmax^1.6 × f × V",
+      "B": "Bmax² × f² × t²",
+      "C": "I² × R",
+      "D": "V² / R"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Eddy current loss in armature core is proportional to:",
+    "options": {
+      "A": "Bmax × f",
+      "B": "Bmax² × f² × t² (where t is lamination thickness)",
+      "C": "1 / t²",
+      "D": "Square root of speed"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a DC machine, constant losses include:",
+    "options": {
+      "A": "Armature copper loss only",
+      "B": "Shunt field copper loss, core loss, and mechanical friction/windage losses",
+      "C": "Series field copper loss",
+      "D": "Interpole copper loss"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Maximum efficiency of a DC generator occurs when:",
+    "options": {
+      "A": "Variable losses (Armature Cu loss) = Constant losses",
+      "B": "Variable losses = 2 × Constant losses",
+      "C": "Iron losses = Mechanical losses",
+      "D": "Field copper loss = Zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Swinburne's Test for testing DC machines is a/an:",
+    "options": {
+      "A": "Direct loading test",
+      "B": "Indirect no-load test",
+      "C": "Regenerative full-load test",
+      "D": "Short circuit test"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary advantage of Swinburne's Test?",
+    "options": {
+      "A": "Requires low power since machine is tested at no-load to determine efficiency as generator/motor",
+      "B": "Measures full load temperature rise accurately",
+      "C": "Tests commutation at full load",
+      "D": "Can be performed on series motors easily"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Swinburne's Test CANNOT be conducted on which type of DC motor?",
+    "options": {
+      "A": "DC Shunt Motor",
+      "B": "DC Series Motor",
+      "C": "DC Flat Compound Motor",
+      "D": "DC Separately Excited Motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Hopkinson's Test (Back-to-Back Test) on DC machines is a:",
+    "options": {
+      "A": "No-load test",
+      "B": "Full-load regenerative test using two identical mechanically coupled DC machines",
+      "C": "Stator resistance test",
+      "D": "High voltage breakdown test"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the major advantage of Hopkinson's Test?",
+    "options": {
+      "A": "Total power drawn from mains equals only total machine losses, allowing full-load testing with low power consumption",
+      "B": "Requires only one machine",
+      "C": "No electrical connection needed",
+      "D": "Can be conducted without meters"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Retardation Test (Run-down test) on a DC motor is used to determine:",
+    "options": {
+      "A": "Armature copper loss",
+      "B": "Stray losses (Stray power loss = Core loss + Mechanical loss)",
+      "C": "Brush contact drop",
+      "D": "Series field resistance"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Field's Test is specifically conducted to determine efficiency of:",
+    "options": {
+      "A": "DC Shunt Motors",
+      "B": "DC Series Motors (using two similar series machines)",
+      "C": "Compound Generators",
+      "D": "Alternators"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a DC Shunt generator, voltage regulation is defined as:",
+    "options": {
+      "A": "(Vno-load - Vfull-load) / Vfull-load × 100",
+      "B": "(Vfull-load - Vno-load) / Vno-load × 100",
+      "C": "Vfull-load / Vno-load",
+      "D": "(Vno-load + Vfull-load) / 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the typical voltage regulation of a good DC Shunt Generator?",
+    "options": {
+      "A": "20% to 30%",
+      "B": "5% to 10%",
+      "C": "50%",
+      "D": "-20%"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The speed regulation of a DC motor is defined as:",
+    "options": {
+      "A": "(Nno-load - Nfull-load) / Nfull-load × 100",
+      "B": "(Nfull-load - Nno-load) / Nno-load × 100",
+      "C": "Nfull-load / Nno-load",
+      "D": "(Nno-load + Nfull-load) / 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which motor exhibits negative speed regulation (speed increases with load)?",
+    "options": {
+      "A": "DC Shunt Motor",
+      "B": "Cumulative Compound Motor",
+      "C": "Differential Compound Motor",
+      "D": "DC Series Motor"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Over-compounded DC generators are used when:",
+    "options": {
+      "A": "Load is located at a long distance from generator to compensate line drop",
+      "B": "Load is very near the generator",
+      "C": "Constant voltage at generator terminals is required",
+      "D": "Welding power supply is required"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a long-shunt compound DC generator, shunt field winding is connected in parallel with:",
+    "options": {
+      "A": "Armature only",
+      "B": "Series combination of armature and series field winding",
+      "C": "Series field winding only",
+      "D": "Load terminals only"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a short-shunt compound DC generator, shunt field winding is connected in parallel with:",
+    "options": {
+      "A": "Armature winding only",
+      "B": "Series combination of armature and series field",
+      "C": "Series field winding only",
+      "D": "Load terminals directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The frame or Yoke of a small DC machine is made of cast iron, whereas for large DC machines it is made of:",
+    "options": {
+      "A": "Cast steel or rolled steel",
+      "B": "Aluminum alloy",
+      "C": "Stainless steel",
+      "D": "Copper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The function of the Yoke in a DC machine is to:",
+    "options": {
+      "A": "Provide mechanical protection and carry magnetic flux between poles",
+      "B": "Generate induced EMF",
+      "C": "Collect current from armature",
+      "D": "Reduce copper losses"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens to brush contact resistance loss in a DC machine as armature current increases?",
+    "options": {
+      "A": "Increases proportional to Ia²",
+      "B": "Varies linearly with Ia (since brush voltage drop is roughly constant at ~2V total)",
+      "C": "Decreases to zero",
+      "D": "Remains completely zero"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which component in a DC motor starter protects the motor against high overload currents?",
+    "options": {
+      "A": "No-Volt Release Coil (NVC)",
+      "B": "Overload Release Coil (OLR)",
+      "C": "Spiral Spring",
+      "D": "Commutator segment"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a 220 V DC shunt motor with Ra = 0.5 Ω, if back EMF is 210 V, what is the armature current?",
+    "options": {
+      "A": "10 A",
+      "B": "20 A",
+      "C": "40 A",
+      "D": "200 A"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If flux of a DC shunt motor is halved while torque remains constant, the armature current will:",
+    "options": {
+      "A": "Remain same",
+      "B": "Be halved",
+      "C": "Double",
+      "D": "Quadruple"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If flux of a DC shunt motor is halved, the speed of the motor will approximately:",
+    "options": {
+      "A": "Remain unchanged",
+      "B": "Double",
+      "C": "Be halved",
+      "D": "Reduce to one-fourth"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which motor is used for electric cranes, hoists, and electric trains/locos requiring heavy starting torque?",
+    "options": {
+      "A": "DC Series Motor",
+      "B": "DC Shunt Motor",
+      "C": "Differential Compound Motor",
+      "D": "Synchronous Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the thickness of laminations used in armature cores of DC machines to minimize eddy currents?",
+    "options": {
+      "A": "0.35 mm to 0.5 mm",
+      "B": "2 mm to 5 mm",
+      "C": "10 mm",
+      "D": "0.01 mm"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Grooving or 'undercutting' of mica between commutator segments is done to:",
+    "options": {
+      "A": "Ensure mica level is slightly below copper segments so brushes don't ride on mica",
+      "B": "Increase copper surface area",
+      "C": "Increase brush spring tension",
+      "D": "Cool the commutator shaft"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of DC motor drive is widely used in rolling mills and mine hoists?",
+    "options": {
+      "A": "Ward-Leonard controlled DC Shunt/Separately Excited Motor",
+      "B": "Direct-on-line DC Series Motor",
+      "C": "Single-phase DC Motor",
+      "D": "Differential Compound Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a DC machine, pitch of commutator segments for lap winding (Yc) is:",
+    "options": {
+      "A": "±1",
+      "B": "2",
+      "C": "(P ± 1) / 2",
+      "D": "Zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A DC shunt motor running at 1000 rpm on 200V takes 20A. If field flux is suddenly reduced by 10%, the immediate effect on armature current will be to:",
+    "options": {
+      "A": "Decrease sharply",
+      "B": "Increase sharply because Back EMF decreases immediately",
+      "C": "Remain constant",
+      "D": "Drop to zero"
+    },
+    "answer": "B"
+  }
+]
+}
