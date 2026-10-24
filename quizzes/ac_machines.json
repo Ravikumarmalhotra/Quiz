@@ -1,0 +1,1004 @@
+{"questions":
+[
+  {
+    "question": "What is the operating principle of a 3-Phase Induction Motor?",
+    "options": {
+      "A": "Faraday's Law of Electromagnetic Induction and production of Rotating Magnetic Field",
+      "B": "Variable Reluctance Principle",
+      "C": "Piezoelectric Effect",
+      "D": "Electrostatic Attraction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The synchronous speed (Ns) of a 3-phase AC machine having 'P' poles supplied with frequency 'f' Hz is given by:",
+    "options": {
+      "A": "Ns = (120 × f) / P",
+      "B": "Ns = (120 × P) / f",
+      "C": "Ns = (60 × f) / P",
+      "D": "Ns = (f × P) / 120"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the synchronous speed of a 4-pole, 3-phase induction motor operating on a 50 Hz AC supply?",
+    "options": {
+      "A": "3000 rpm",
+      "B": "1500 rpm",
+      "C": "1000 rpm",
+      "D": "750 rpm"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "The rotor speed (N) of a 3-phase induction motor is always:",
+    "options": {
+      "A": "Greater than synchronous speed (Ns)",
+      "B": "Equal to synchronous speed (Ns)",
+      "C": "Slightly less than synchronous speed (Ns)",
+      "D": "Zero under normal running conditions"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Slip (s) of a 3-phase induction motor is defined by the formula:",
+    "options": {
+      "A": "s = (Ns - N) / Ns",
+      "B": "s = (N - Ns) / N",
+      "C": "s = (Ns - N) / N",
+      "D": "s = Ns / N"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "At standstill (when rotor speed N = 0), the slip (s) of an induction motor is:",
+    "options": {
+      "A": "0",
+      "B": "1.0 (100%)",
+      "C": "Infinity",
+      "D": "0.5"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the rotor frequency (fr) of an induction motor running at slip 's' with supply frequency 'f'?",
+    "options": {
+      "A": "fr = f / s",
+      "B": "fr = s × f",
+      "C": "fr = f × (1 - s)",
+      "D": "fr = s / f"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a 6-pole, 50 Hz 3-phase induction motor operates at 4% slip, what is the frequency of induced rotor currents?",
+    "options": {
+      "A": "50 Hz",
+      "B": "2 Hz",
+      "C": "25 Hz",
+      "D": "4 Hz"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In a 3-phase squirrel cage induction motor, rotor slots are slightly skewed (tilted) in order to:",
+    "options": {
+      "A": "Reduce magnetic locking (cogging) between stator and rotor and eliminate humming noise",
+      "B": "Increase mechanical weight of rotor",
+      "C": "Reduce core length",
+      "D": "Increase rotor resistance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Cogging' in a 3-phase induction motor?",
+    "options": {
+      "A": "Overheating of stator windings",
+      "B": "Magnetic locking of rotor teeth with stator teeth when number of stator slots equals rotor slots",
+      "C": "Vibration due to unbalanced voltage",
+      "D": "High starting current"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is 'Crawling' in a 3-phase induction motor?",
+    "options": {
+      "A": "Motor running at near zero speed due to open circuit",
+      "B": "Motor running steadily at a fraction (e.g., 1/7th) of synchronous speed due to space harmonics",
+      "C": "Motor running above synchronous speed",
+      "D": "Motor rotating in reverse direction"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of 3-phase induction motor permits external resistance to be added to the rotor circuit for speed control and high starting torque?",
+    "options": {
+      "A": "Squirrel Cage Induction Motor",
+      "B": "Slip Ring (Wound Rotor) Induction Motor",
+      "C": "Double Squirrel Cage Motor",
+      "D": "Shaded Pole Motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the condition for maximum starting torque (Tst) in a 3-phase induction motor?",
+    "options": {
+      "A": "Rotor resistance R2 equals rotor standstill reactance X2 (R2 = X2)",
+      "B": "R2 = 0",
+      "C": "R2 = s × X2",
+      "D": "X2 = 0"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the condition for maximum running torque (Tmax) of a 3-phase induction motor?",
+    "options": {
+      "A": "R2 = X2",
+      "B": "R2 = s × X2",
+      "C": "R2 = s² × X2",
+      "D": "s = 1"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Double squirrel cage rotors are designed to provide:",
+    "options": {
+      "A": "High starting torque with low starting current",
+      "B": "High efficiency at high slip",
+      "C": "Low starting torque with high speed",
+      "D": "Variable speed operation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a double squirrel cage rotor, the outer cage is made of high resistance material (brass/bronze) and has:",
+    "options": {
+      "A": "High resistance and low reactance",
+      "B": "Low resistance and high reactance",
+      "C": "High resistance and high reactance",
+      "D": "Low resistance and low reactance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is Direct-On-Line (DOL) starting limited to small 3-phase induction motors (usually up to 5 HP)?",
+    "options": {
+      "A": "Because starting torque is zero",
+      "B": "Because starting current is very high (5 to 7 times full load current) causing line voltage dips",
+      "C": "Because power factor is unity",
+      "D": "Because motor rotates in reverse"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "When a 3-phase induction motor is started using a Star-Delta starter, the starting line current is reduced to what fraction of DOL starting current?",
+    "options": {
+      "A": "1 / 2",
+      "B": "1 / √3",
+      "C": "1 / 3",
+      "D": "1 / 4"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "When started using a Star-Delta starter, the starting torque of the induction motor becomes:",
+    "options": {
+      "A": "1 / 3 of direct-on-line starting torque",
+      "B": "1 / √3 of direct-on-line starting torque",
+      "C": "Equal to DOL starting torque",
+      "D": "3 times DOL starting torque"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Auto-transformer starters are used for starting large 3-phase induction motors because they allow:",
+    "options": {
+      "A": "Tapping selection to adjust starting voltage and current",
+      "B": "Continuous smooth speed variation",
+      "C": "Power factor correction to 1.0",
+      "D": "Dc voltage supply"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What test on a 3-phase induction motor is equivalent to the Short-Circuit test of a transformer?",
+    "options": {
+      "A": "No-Load Test",
+      "B": "Blocked Rotor Test",
+      "C": "Retardation Test",
+      "D": "Temperature Rise Test"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "No-Load Test on a 3-phase induction motor is conducted to determine:",
+    "options": {
+      "A": "Full-load copper loss",
+      "B": "Constant losses (Stator core loss + Friction and windage loss) and magnetizing current",
+      "C": "Rotor resistance only",
+      "D": "Maximum power factor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A Circle Diagram of a 3-phase induction motor can be drawn using data from:",
+    "options": {
+      "A": "No-load test, Blocked rotor test, and Stator resistance test",
+      "B": "Swinburne's test only",
+      "C": "Hopkinson's test",
+      "D": "DC resistance test only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The Circle Diagram of an induction motor can be used to predict:",
+    "options": {
+      "A": "Efficiency, power factor, slip, maximum torque, and output power at any load",
+      "B": "Winding insulation resistance only",
+      "C": "Core lamination thickness",
+      "D": "Bearing life"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Single Phasing' in a 3-phase induction motor?",
+    "options": {
+      "A": "Running the motor on 1-phase AC by choice",
+      "B": "Accidental opening of one phase line of a running 3-phase motor due to blown fuse or loose contact",
+      "C": "Reversing two phases",
+      "D": "Connecting neutral to all phases"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a running 3-phase induction motor experiences Single Phasing under full load, what will happen?",
+    "options": {
+      "A": "It will stop immediately without taking current",
+      "B": "It will continue to run, but draw dangerously heavy current in remaining 2 phases and eventually burn if not tripped",
+      "C": "Speed will increase to double",
+      "D": "It will operate normally without any temperature rise"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Speed control of a 3-phase induction motor by Pole Changing method provides:",
+    "options": {
+      "A": "Continuous stepless speed control",
+      "B": "Discrete (stepped) speeds only",
+      "C": "Speed control above synchronous speed only",
+      "D": "DC speed control"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In Variable Voltage Variable Frequency (VVVF) drives used in modern Metro Railway 3-phase AC traction (3-phase VVVF traction):",
+    "options": {
+      "A": "V/f ratio is kept constant to maintain constant magnetic flux density and constant torque capability",
+      "B": "Voltage is kept constant while frequency is varied",
+      "C": "Frequency is kept constant while voltage is doubled",
+      "D": "Motor operates only at synchronous speed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Synchronous speed of an AC motor can be varied by changing:",
+    "options": {
+      "A": "Rotor resistance",
+      "B": "Supply frequency (f) or Number of stator poles (P)",
+      "C": "Supply voltage only",
+      "D": "Shaft load"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why are single-phase induction motors NOT self-starting?",
+    "options": {
+      "A": "Single phase supply produces a pulsating magnetic field instead of a rotating magnetic field",
+      "B": "Rotor has no conductors",
+      "C": "Air gap is zero",
+      "D": "Rotor resistance is too high"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "According to Double Field Revolving Theory, a pulsating 1-phase magnetic field is equivalent to two rotating fields of equal magnitude rotating in:",
+    "options": {
+      "A": "Same direction at same speed",
+      "B": "Opposite directions at same synchronous speed",
+      "C": "Opposite directions at different speeds",
+      "D": "Phase quadrature at rest"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which component is connected in series with the auxiliary (starting) winding of a Capacitor Start Single Phase Induction Motor to disconnect it after accelerating?",
+    "options": {
+      "A": "Centrifugal Switch",
+      "B": "Thermal overload relay",
+      "C": "Auto-transformer",
+      "D": "Slip ring"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The centrifugal switch in a capacitor-start motor opens when the motor reaches approximately what percentage of synchronous speed?",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "75% to 80%",
+      "D": "100%"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which single-phase induction motor provides highest starting torque?",
+    "options": {
+      "A": "Split-phase motor",
+      "B": "Capacitor-start capacitor-run motor",
+      "C": "Shaded-pole motor",
+      "D": "Resistance split-phase motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which single-phase motor is most widely used in ceiling fans and small ventilation fans in Metro stations?",
+    "options": {
+      "A": "Permanent Split Capacitor (Capacitor-run) Motor",
+      "B": "Shaded Pole Motor",
+      "C": "Repulsion Motor",
+      "D": "Universal Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which single-phase motor has low efficiency, low starting torque, and uses a copper shading ring around a portion of each salient pole?",
+    "options": {
+      "A": "Capacitor Start Motor",
+      "B": "Shaded Pole Motor",
+      "C": "Universal Motor",
+      "D": "Split Phase Motor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A Universal Motor can run on:",
+    "options": {
+      "A": "AC supply only",
+      "B": "DC supply only",
+      "C": "Both AC and DC supplies",
+      "D": "3-phase AC supply only"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "A Universal Motor is essentially a modified:",
+    "options": {
+      "A": "DC Series Motor",
+      "B": "DC Shunt Motor",
+      "C": "Squirrel Cage Motor",
+      "D": "Synchronous Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which small motor is used in portable hand drills, domestic food mixers, and vacuum cleaners due to high speed at light loads?",
+    "options": {
+      "A": "Universal Motor",
+      "B": "Shaded Pole Motor",
+      "C": "Hysteresis Motor",
+      "D": "Stepper Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is a Synchronous Motor?",
+    "options": {
+      "A": "An AC motor that runs at constant speed (Synchronous Speed Ns) from no load to full load",
+      "B": "A motor whose speed drops linearly with load",
+      "C": "A motor running above hyper-speed",
+      "D": "An induction motor with open rotor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why is a 3-phase Synchronous Motor NOT self-starting?",
+    "options": {
+      "A": "Due to high inertia of the rotor, unidirectional torque is not developed as stator magnetic poles rotate rapidly past stationary rotor poles",
+      "B": "Because it has no stator field",
+      "C": "Because slip is 100%",
+      "D": "Because it operates on DC supply only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Damper Windings (Amortisseur windings) fitted in the pole shoes of a synchronous motor serve to:",
+    "options": {
+      "A": "Make the motor self-starting as an induction motor and suppress Hunting oscillations during sudden load changes",
+      "B": "Increase armature reaction",
+      "C": "Decrease power factor",
+      "D": "Provide braking torque only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is 'Hunting' in a Synchronous Motor?",
+    "options": {
+      "A": "Oscillation of the rotor around its equilibrium position during sudden load fluctuations",
+      "B": "Motor running above synchronous speed",
+      "C": "Sparking at slip rings",
+      "D": "Loss of excitation current"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "An Over-excited Synchronous Motor running on no-load draws current at what power factor?",
+    "options": {
+      "A": "Lagging Power Factor",
+      "B": "Leading Power Factor",
+      "C": "Unity Power Factor",
+      "D": "Zero Power Factor lagging"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "An over-excited synchronous motor operated on no-load to improve power factor of industrial power networks is called a:",
+    "options": {
+      "A": "Synchronous Condenser (or Synchronous Capacitor)",
+      "B": "Rotary Converter",
+      "C": "Phase Advancer",
+      "D": "Frequency Changer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Under-excited synchronous motors operate at what power factor?",
+    "options": {
+      "A": "Leading",
+      "B": "Lagging",
+      "C": "Unity",
+      "D": "Zero leading"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What shape do the curves representing Armature Current vs Field Current of a Synchronous Motor at constant load resemble?",
+    "options": {
+      "A": "'V' Curves",
+      "B": "'S' Curves",
+      "C": "Straight lines",
+      "D": "Parabolic curves"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a Synchronous Machine, the Inverted V-Curves represent the variation of:",
+    "options": {
+      "A": "Power Factor vs Field Current",
+      "B": "Armature Current vs Field Current",
+      "C": "Speed vs Torque",
+      "D": "Terminal Voltage vs Load Current"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is an Alternator?",
+    "options": {
+      "A": "A Synchronous Generator that converts mechanical power to AC electrical power",
+      "B": "A DC generator with commutator",
+      "C": "A converter from AC to DC",
+      "D": "A static transformer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why do modern commercial Alternators (Synchronous Generators) use a Rotating Field and Stationary Armature structure?",
+    "options": {
+      "A": "Easier to insulate high-voltage stationary armature windings; requires only two low-voltage slip rings for DC field excitation",
+      "B": "Reduces total mechanical weight",
+      "C": "Eliminates magnetic losses completely",
+      "D": "Allows operation without prime mover"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Salient pole (projecting pole) type rotors in alternators are used for:",
+    "options": {
+      "A": "Low and medium speed prime movers (e.g., Hydro turbines, Diesel engines)",
+      "B": "High speed Steam Turbines (Turbo-alternators)",
+      "C": "Subsea traction only",
+      "D": "Ultra-high frequency generators"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Cylindrical (Smooth rotor) type rotors in alternators are designed for:",
+    "options": {
+      "A": "High speed operation (1500 rpm or 3000 rpm - Turbo-alternators)",
+      "B": "Low speed hydro generators (100 rpm)",
+      "C": "Manual crank generators",
+      "D": "Low power DC application"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is Pitch Factor (or Coil Span Factor, Kp) of an alternator armature winding?",
+    "options": {
+      "A": "Ratio of EMF induced in a short-pitched coil to EMF induced in a full-pitched coil",
+      "B": "Ratio of slots to poles",
+      "C": "Ratio of rotor speed to synchronous speed",
+      "D": "Ratio of active turns to dummy turns"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Pitch factor (Kp) is calculated using the formula:",
+    "options": {
+      "A": "Kp = cos (α / 2) (where α is chording angle)",
+      "B": "Kp = sin (α / 2)",
+      "C": "Kp = tan α",
+      "D": "Kp = 1 / cos α"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is Distribution Factor (or Breadth Factor, Kd) of an alternator armature winding?",
+    "options": {
+      "A": "Ratio of vector sum of induced EMFs in all coils of a phase group to their arithmetic sum",
+      "B": "Ratio of total slots to total poles",
+      "C": "Ratio of total flux to leakage flux",
+      "D": "Ratio of phase voltage to line voltage"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why are short-pitched and distributed windings used in modern alternators?",
+    "options": {
+      "A": "To eliminate/reduce unwanted harmonics from output voltage waveform and make it purely sinusoidal",
+      "B": "To increase fundamental output voltage",
+      "C": "To increase conductor length and copper loss",
+      "D": "To increase rotor weight"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The induced EMF per phase equation of an Alternator is given by:",
+    "options": {
+      "A": "Eph = 4.44 × Kp × Kd × f × Φ × Tph",
+      "B": "Eph = 2.22 × f × Φ × Tph",
+      "C": "Eph = (P × Φ × Z × N) / 60",
+      "D": "Eph = 4 × f × Φ × Tph"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The process of connecting an incoming alternator in parallel with an existing running alternator or infinite busbar is called:",
+    "options": {
+      "A": "Synchronization",
+      "B": "Commutation",
+      "C": "Equalization",
+      "D": "Regenerative Braking"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What essential conditions must be satisfied before synchronizing an incoming alternator to an infinite busbar?",
+    "options": {
+      "A": "Same terminal voltage, same frequency, same phase sequence, and identical phase angle",
+      "B": "Same kVA rating and same weight",
+      "C": "Same armature resistance and same cooling method",
+      "D": "Same manufacturer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which instrument or device is used to check exact frequency and phase alignment when synchronizing alternators?",
+    "options": {
+      "A": "Synchroscope (or 3-Lamp Method)",
+      "B": "Tachometer",
+      "C": "Wheatstone Bridge",
+      "D": "Frequency Sensitive Relay only"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Voltage Regulation of an Alternator is defined as:",
+    "options": {
+      "A": "(E0 - V) / V × 100 (where E0 is no-load open circuit voltage and V is full-load terminal voltage)",
+      "B": "(V - E0) / E0 × 100",
+      "C": "E0 / V",
+      "D": "(E0 + V) / 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "At leading power factor loads, the voltage regulation of an alternator can be:",
+    "options": {
+      "A": "Negative",
+      "B": "Positive only",
+      "C": "Zero only",
+      "D": "Infinite"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which method of determining alternator voltage regulation is known as the most pessimistic method (gives higher regulation than actual)?",
+    "options": {
+      "A": "EMF Method (Synchronous Impedance Method)",
+      "B": "MMF Method (Ampere-Turn Method)",
+      "C": "Potier Triangle (Zero Power Factor) Method",
+      "D": "American Standards Association (ASA) Method"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which method of determining alternator voltage regulation is known as the optimistic method (gives lower regulation than actual)?",
+    "options": {
+      "A": "MMF Method (Ampere-Turn Method)",
+      "B": "EMF Method",
+      "C": "Potier Method",
+      "D": "Direct Load Test"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which method yields the most accurate voltage regulation results for an alternator?",
+    "options": {
+      "A": "Potier Triangle (Zero Power Factor - ZPF) Method",
+      "B": "EMF Method",
+      "C": "MMF Method",
+      "D": "Swinburne's Method"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Synchronous Impedance (Zs) of an alternator is defined as:",
+    "options": {
+      "A": "Open Circuit Voltage (E0) / Short Circuit Current (Isc) at same field excitation",
+      "B": "Short Circuit Current / Open Circuit Voltage",
+      "C": "Armature resistance Ra + Inductive reactance Xl",
+      "D": "E0 × Isc"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The Short Circuit Ratio (SCR) of a Synchronous Machine is defined as:",
+    "options": {
+      "A": "Field current required to produce rated voltage on open circuit / Field current required to produce rated current on short circuit",
+      "B": "Short circuit current / Full load current",
+      "C": "Open circuit voltage / Rated voltage",
+      "D": "1 / Synchronous Impedance (per unit)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A synchronous machine with a HIGH Short Circuit Ratio (SCR) has:",
+    "options": {
+      "A": "Higher stability limit and better voltage regulation but higher short-circuit current",
+      "B": "Lower stability limit",
+      "C": "Smaller air gap length",
+      "D": "Lower physical size and weight"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which special single-phase motor operates on the principle of variable reluctance and maintains precise step angular rotation upon receiving digital input pulses?",
+    "options": {
+      "A": "Stepper Motor",
+      "B": "Shaded Pole Motor",
+      "C": "Universal Motor",
+      "D": "Repulsion Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which non-excited single-phase AC motor has a smooth un-slotted rotor made of hard magnetic cobalt-steel alloy and operates silently?",
+    "options": {
+      "A": "Hysteresis Motor",
+      "B": "Reluctance Motor",
+      "C": "Universal Motor",
+      "D": "Split Phase Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Hysteresis Motors are commonly used in sound recording equipment, electric clocks, and tape recorders because of their:",
+    "options": {
+      "A": "Extremely quiet, vibrationless operation and constant synchronous speed capability",
+      "B": "High starting torque",
+      "C": "Low cost",
+      "D": "Ability to run on DC"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A Reluctance Motor is essentially a single-phase motor with a rotor modified to have:",
+    "options": {
+      "A": "Un-equal magnetic reluctance path (salient projections) without rotor windings",
+      "B": "Permanent magnets on rotor",
+      "C": "Commutator and brushes",
+      "D": "Heavy copper damper bars"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What happens if two phases of supply to a 3-phase induction motor are interchanged?",
+    "options": {
+      "A": "The direction of rotation of the motor will reverse",
+      "B": "The motor will run at double speed",
+      "C": "The motor will burn out immediately",
+      "D": "The motor will run in same direction"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase slip ring induction motor, adding resistance to the rotor circuit during starting results in:",
+    "options": {
+      "A": "Increased starting torque and reduced starting current",
+      "B": "Decreased starting torque and increased starting current",
+      "C": "No change in starting torque",
+      "D": "Increased rotor speed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase induction motor, full-load slip typically ranges between:",
+    "options": {
+      "A": "1% to 5%",
+      "B": "10% to 20%",
+      "C": "25% to 50%",
+      "D": "50% to 75%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the slip of an induction motor when running at synchronous speed (N = Ns)?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "0.5",
+      "D": "-1"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If slip 's' becomes negative (s < 0), the induction machine operates in:",
+    "options": {
+      "A": "Generating mode (Induction Generator)",
+      "B": "Motoring mode",
+      "C": "Braking mode (Plugging)",
+      "D": "Standstill mode"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "If slip 's' is greater than 1 (s > 1), the induction machine operates in:",
+    "options": {
+      "A": "Plugging (Braking) mode",
+      "B": "Motoring mode",
+      "C": "Generating mode",
+      "D": "Synchronous mode"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Induction generators are commonly used in:",
+    "options": {
+      "A": "Wind power plants and regenerative braking systems connected to grid",
+      "B": "Isolated standalone village DC grids",
+      "C": "Battery charging stations",
+      "D": "Small hand tools"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the air gap distance in a 3-phase induction motor compared to a synchronous motor of similar rating?",
+    "options": {
+      "A": "Much smaller (to minimize magnetizing current and improve power factor)",
+      "B": "Much larger",
+      "C": "Equal",
+      "D": "Zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Magnetizing current drawn by a 3-phase induction motor operates at what power factor?",
+    "options": {
+      "A": "Very low lagging power factor (near zero lagging)",
+      "B": "Unity power factor",
+      "C": "Leading power factor",
+      "D": "0.8 leading"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase induction motor, rotor copper loss is equal to:",
+    "options": {
+      "A": "s × Rotor Input Power (s × Pg)",
+      "B": "(1 - s) × Rotor Input Power",
+      "C": "Rotor Input Power / s",
+      "D": "Zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Mechanical Power Developed (Pmech) in the rotor of a 3-phase induction motor is equal to:",
+    "options": {
+      "A": "(1 - s) × Rotor Input Power (Pg)",
+      "B": "s × Rotor Input Power",
+      "C": "Pg / (1 - s)",
+      "D": "Pg × s²"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Ratio of Rotor Copper Loss to Gross Mechanical Power Developed in an induction motor is:",
+    "options": {
+      "A": "s / (1 - s)",
+      "B": "(1 - s) / s",
+      "C": "s × (1 - s)",
+      "D": "1 / s"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Stator core loss in an induction motor is constant, whereas rotor core loss under normal running condition is:",
+    "options": {
+      "A": "Negligible because rotor frequency fr = s × f is very low (1 to 2 Hz)",
+      "B": "Very high",
+      "C": "Equal to stator core loss",
+      "D": "Double of stator core loss"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The speed of a 3-phase slip ring induction motor can be controlled from rotor side by:",
+    "options": {
+      "A": "Rotor resistance control or Injecting EMF into rotor circuit",
+      "B": "Stator pole changing only",
+      "C": "Connecting capacitors in series with stator",
+      "D": "Changing brush contact area"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Kramer and Scherbius drives are speed control systems used for large slip-ring induction motors by:",
+    "options": {
+      "A": "Recovering slip power from rotor circuit and feeding it back to supply or shaft",
+      "B": "Varying stator resistance",
+      "C": "Changing stator frequency only",
+      "D": "Plugging"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which single-phase motor uses a commutator and short-circuited brushes positioned at an angle to the stator axis?",
+    "options": {
+      "A": "Repulsion Motor",
+      "B": "Capacitor Run Motor",
+      "C": "Shaded Pole Motor",
+      "D": "Hysteresis Motor"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In modern 3-phase AC traction Metro rakes (e.g., Kolkata Metro AC Rakes), the traction motors used are:",
+    "options": {
+      "A": "3-Phase Squirrel Cage Induction Motors driven by IGBT Inverters",
+      "B": "DC Series Motors with Resistance Grids",
+      "C": "Single-Phase Synchronous Motors",
+      "D": "Universal Motors"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the advantage of 3-Phase AC Traction Motors over DC Traction Motors in Metro trains?",
+    "options": {
+      "A": "Higher power-to-weight ratio, robust maintenance-free construction (no commutator/brushes), and easy regenerative braking",
+      "B": "Requires frequent carbon brush replacement",
+      "C": "Lower acceleration rate",
+      "D": "Runs only at single fixed speed"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "The frame of a 3-phase AC induction motor is usually made of:",
+    "options": {
+      "A": "Cast iron or fabricated steel",
+      "B": "Copper sheet",
+      "C": "Mica plate",
+      "D": "Bakelite"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What class of insulation is typically used in modern traction induction motors to withstand high thermal stress?",
+    "options": {
+      "A": "Class H or Class C (200°C / 180°C rating)",
+      "B": "Class A (105°C)",
+      "C": "Class Y (90°C)",
+      "D": "Class E (120°C)"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In a 3-phase AC machine, the phase difference between magnetic fields produced by each of the three phase windings space-displaced by 120° electrical is:",
+    "options": {
+      "A": "120° electrical",
+      "B": "90° electrical",
+      "C": "180° electrical",
+      "D": "60° electrical"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Magnitude of the resultant rotating magnetic field produced by a balanced 3-phase stator winding is:",
+    "options": {
+      "A": "1.5 times maximum flux of any individual phase (1.5 Φm)",
+      "B": "3 times Φm",
+      "C": "Equal to Φm",
+      "D": "Zero"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "An alternator running in parallel with an infinite busbar has its field excitation increased. What will happen?",
+    "options": {
+      "A": "Its reactive power output increases (delivers more lagging VARs), power factor becomes more lagging, but active power output remains unchanged",
+      "B": "Its real power (kW) increases",
+      "C": "Its speed increases",
+      "D": "Its frequency increases"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "To increase real power (kW) output of an alternator connected to an infinite busbar, one must:",
+    "options": {
+      "A": "Increase prime mover mechanical input (governor control)",
+      "B": "Increase DC field excitation current",
+      "C": "Decrease terminal voltage",
+      "D": "Add series resistance"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which protection relay is used to detect internal inter-turn and phase-to-earth faults in large alternators/transformers?",
+    "options": {
+      "A": "Merz-Price Differential Protection Relay",
+      "B": "Under-frequency relay",
+      "C": "Reverse Power relay",
+      "D": "Thermal overload relay"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "A Reverse Power Relay is used on an alternator running in parallel to prevent:",
+    "options": {
+      "A": "The alternator from acting as a motor and driving the prime mover if prime mover fails",
+      "B": "Over-voltage generation",
+      "C": "High short circuit current",
+      "D": "Rotor over-speeding"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the standard frequency variation limit allowed in Indian Railway / Metro grid networks as per IE rules?",
+    "options": {
+      "A": "± 3%",
+      "B": "± 10%",
+      "C": "± 15%",
+      "D": "± 0.5%"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What type of single-phase motor is used in small timing devices, clocks, and chart recorders?",
+    "options": {
+      "A": "Hysteresis or Reluctance Synchronous Motor",
+      "B": "Squirrel Cage Motor",
+      "C": "Universal Motor",
+      "D": "Repulsion Motor"
+    },
+    "answer": "A"
+  }
+]
+}
